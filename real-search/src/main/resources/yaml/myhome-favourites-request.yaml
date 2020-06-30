@@ -1,0 +1,16 @@
+---
+ApiKey: 5f4bc74f-8d9a-41cb-ab85-a1b7cfc86622
+CorrelationId: cd69512a-a67f-4357-9039-5fd919bd9f99
+SessionId: 11ff1047e4e64c9aba937183b051841b
+RequestTypeId: 32
+RequestVerb: POST
+Endpoint: https://api.myhome.ie/user/favourites
+UserId: 406984
+Email: tony.clarke@gmail.com
+PropertyClassIds:
+  - 1
+  - 2
+PropertyStatusIds:
+  - 2
+Page: 1
+PageSize: 20

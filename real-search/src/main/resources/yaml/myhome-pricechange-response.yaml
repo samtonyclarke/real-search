@@ -1,0 +1,522 @@
+---
+SeoDetails:
+  Title: Latest Property Price Changes in Ireland - MyHome.ie
+  Description: Listings 1-40 (out of 5217) for Property price changes in Ireland.
+    Find Thousands of House and Apartment price changes across Ireland and much more
+    with MyHome.ie, Ireland&#39;s Leading Property Portal
+  Keywords: property Ireland irish house home houses for sale search real estate solicitors
+    estate agent property commercial price changes
+  CanonicalUrl: "/pricechanges"
+  NextUrl: "/pricechanges/page-2"
+  ClassUrl: ''
+  RegionUrl: ''
+  LocalityName: Ireland
+  DescriptionUrl: ''
+  OpenGraphData:
+    Values: []
+UserId: 0
+Favourites: []
+SavedSearches: []
+FavouriteCount: 0
+SavedSearchesCount: 0
+Results:
+  - PropertyId: 4418650
+    Address: 29 Enniskerry Road, Kilternan, Dublin 18
+    ImageUrl: https://photos-a.propertyimages.ie/media/0/5/6/4418650/045f6521-f210-4ded-80f4-3800cc670eed_t.jpg
+    Price: 349950
+    PrevPrice: 374950
+    PriceChangeDelta: -25000
+    PriceChangePercentage: -6.6676
+    Created: 29th Jun 20
+    CssClass: down
+    SeoUrl: "/residential/brochure/29-enniskerry-road-kilternan-dublin-18/4418650"
+    IsActive: true
+  - PropertyId: 4315856
+    Address: Castleross,Castletown Road, Dundalk, Louth
+    ImageUrl: https://photos-a.propertyimages.ie/media/6/5/8/4315856/c3e6054b-9ab1-48bd-ab8f-4fa79d5061f5_t.jpg
+    Price: 110000
+    PrevPrice: 135000
+    PriceChangeDelta: -25000
+    PriceChangePercentage: -18.5185
+    Created: 29th Jun 20
+    CssClass: down
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/B3.png"
+    BerRating: B3
+    SeoUrl: "/residential/brochure/castleross-castletown-road-dundalk-louth/4315856"
+    IsActive: true
+  - PropertyId: 4383198
+    Address: Ballyshonogh House, Clonanny, Portarlington, Laois
+    ImageUrl: https://photos-a.propertyimages.ie/media/8/9/1/4383198/36271e37-3751-4348-8547-a4311cc9e1ff_t.jpg
+    Price: 225000
+    PrevPrice: 275000
+    PriceChangeDelta: -50000
+    PriceChangePercentage: -18.1818
+    Created: 29th Jun 20
+    CssClass: down
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/E2.png"
+    BerRating: E2
+    SeoUrl: "/residential/brochure/ballyshonogh-house-clonanny-portarlington-laois/4383198"
+    IsActive: true
+  - PropertyId: 4337127
+    Address: 39 Tara Cove, Ballymoney, Wexford
+    ImageUrl: https://photos-a.propertyimages.ie/media/7/2/1/4337127/fdaa5cbd-f2ad-4d11-9c3f-9f9f60559e02_t.jpg
+    Price: 215000
+    PrevPrice: 195000
+    PriceChangeDelta: 20000
+    PriceChangePercentage: 10.2564
+    Created: 29th Jun 20
+    CssClass: up
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/G.png"
+    BerRating: G
+    SeoUrl: "/residential/brochure/39-tara-cove-ballymoney-wexford/4337127"
+    IsActive: true
+  - PropertyId: 4322818
+    Address: Kilthomas, Ferns, Wexford
+    ImageUrl: https://photos-a.propertyimages.ie/media/8/1/8/4322818/9326fa77-0ef4-456b-a3aa-abc7093dce76_t.jpg
+    Price: 239000
+    PrevPrice: 249000
+    PriceChangeDelta: -10000
+    PriceChangePercentage: -4.0161
+    Created: 29th Jun 20
+    CssClass: down
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/D1.png"
+    BerRating: D1
+    SeoUrl: "/residential/brochure/kilthomas-ferns-wexford/4322818"
+    IsActive: true
+  - PropertyId: 4258308
+    Address: Letterard, Cashel, Galway
+    ImageUrl: https://photos-a.propertyimages.ie/media/8/0/3/4258308/5a8220f4-662c-41c6-b1ba-426bcfec5690_t.jpg
+    Price: 100000
+    PrevPrice: 150000
+    PriceChangeDelta: -50000
+    PriceChangePercentage: -33.3333
+    Created: 29th Jun 20
+    CssClass: down
+    SeoUrl: "/residential/brochure/letterard-cashel-galway/4258308"
+    IsActive: true
+  - PropertyId: 4427256
+    Address: 13 The Meadows, Ros Mor, Kilmallock Road, Limerick City, Limerick
+    ImageUrl: https://photos-a.propertyimages.ie/media/6/5/2/4427256/090106b7-c573-49b1-8ce6-f17180cb6cb1_t.jpg
+    Price: 240000
+    PrevPrice: 250000
+    PriceChangeDelta: -10000
+    PriceChangePercentage: -4
+    Created: 29th Jun 20
+    CssClass: down
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A3.png"
+    BerRating: A3
+    SeoUrl: "/residential/brochure/13-the-meadows-ros-mor-kilmallock-road-limerick-city-limerick/4427256"
+    IsActive: true
+  - PropertyId: 107228
+    Address: Killarney Road, Kenmare, Kerry
+    ImageUrl: https://photos-a.propertyimages.ie/media/8/2/2/107228/b9ce3e08-0e76-4c31-b8ba-bf0c7d386226_t.jpg
+    Price: 395000
+    PrevPrice: 270000
+    PriceChangeDelta: 125000
+    PriceChangePercentage: 46.2963
+    Created: 29th Jun 20
+    CssClass: up
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/F.png"
+    BerRating: F
+    SeoUrl: "/residential/brochure/killarney-road-kenmare-kerry/107228"
+    IsActive: true
+  - PropertyId: 4349974
+    Address: Cregg, Oughterard, Galway
+    ImageUrl: https://photos-a.propertyimages.ie/media/4/7/9/4349974/44dea6dd-859e-444c-8d73-30d30882bdcf_t.jpg
+    Price: 150000
+    PrevPrice: 140000
+    PriceChangeDelta: 10000
+    PriceChangePercentage: 7.1429
+    Created: 29th Jun 20
+    CssClass: up
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/G.png"
+    BerRating: G
+    SeoUrl: "/residential/brochure/cregg-oughterard-galway/4349974"
+    IsActive: true
+  - PropertyId: 4435864
+    Address: 21 Findlater St, Glasthule, County Dublin
+    ImageUrl: https://photos-a.propertyimages.ie/media/4/6/8/4435864/ca9368c8-7633-472a-9e5c-2157a5de4807_t.jpg
+    Price: 510000
+    PrevPrice: 495000
+    PriceChangeDelta: 15000
+    PriceChangePercentage: 3.0303
+    Created: 29th Jun 20
+    CssClass: up
+    SeoUrl: "/residential/brochure/21-findlater-st-glasthule-county-dublin/4435864"
+    IsActive: true
+  - PropertyId: 4327137
+    Address: 14 Dunbur Glen, Wicklow, Wicklow
+    ImageUrl: https://photos-a.propertyimages.ie/media/7/3/1/4327137/6902afae-d010-4f9d-a45e-418bedbc723c_t.jpg
+    Price: 330000
+    PrevPrice: 350000
+    PriceChangeDelta: -20000
+    PriceChangePercentage: -5.7143
+    Created: 29th Jun 20
+    CssClass: down
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/C3.png"
+    BerRating: C3
+    SeoUrl: "/residential/brochure/14-dunbur-glen-wicklow-wicklow/4327137"
+    IsActive: true
+  - PropertyId: 4329421
+    Address: Glen Road, Carrick, Donegal
+    ImageUrl: https://photos-a.propertyimages.ie/media/1/2/4/4329421/7874666f-aa83-4b26-a65d-97c73f58fb88_t.png
+    Price: 130000
+    PrevPrice: 139000
+    PriceChangeDelta: -9000
+    PriceChangePercentage: -6.4748
+    Created: 29th Jun 20
+    CssClass: down
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/D2.png"
+    BerRating: D2
+    SeoUrl: "/residential/brochure/glen-road-carrick-donegal/4329421"
+    IsActive: true
+  - PropertyId: 4412074
+    Address: 7 The Courtyard, Wexford Town, Wexford
+    ImageUrl: https://photos-a.propertyimages.ie/media/4/7/0/4412074/3ed5cb8c-a92a-4546-afbf-bc6dee338835_t.jpg
+    Price: 187000
+    PrevPrice: 195000
+    PriceChangeDelta: -8000
+    PriceChangePercentage: -4.1026
+    Created: 29th Jun 20
+    CssClass: down
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/C1.png"
+    BerRating: C1
+    SeoUrl: "/residential/brochure/7-the-courtyard-wexford-town-wexford/4412074"
+    IsActive: true
+  - PropertyId: 4202062
+    Address: Logatemple, Claremorris, Mayo
+    ImageUrl: https://photos-a.propertyimages.ie/media/2/6/0/4202062/b5e8ebf3-1b32-4818-a10a-645b1078343b_t.jpg
+    Price: 39000
+    PrevPrice: 40000
+    PriceChangeDelta: -1000
+    PriceChangePercentage: -2.5
+    Created: 29th Jun 20
+    CssClass: down
+    SeoUrl: "/residential/brochure/logatemple-claremorris-mayo/4202062"
+    IsActive: true
+  - PropertyId: 4202062
+    Address: Logatemple, Claremorris, Mayo
+    ImageUrl: https://photos-a.propertyimages.ie/media/2/6/0/4202062/b5e8ebf3-1b32-4818-a10a-645b1078343b_t.jpg
+    Price: 40000
+    PrevPrice: 39000
+    PriceChangeDelta: 1000
+    PriceChangePercentage: 2.5641
+    Created: 29th Jun 20
+    CssClass: up
+    SeoUrl: "/residential/brochure/logatemple-claremorris-mayo/4202062"
+    IsActive: true
+  - PropertyId: 4433882
+    Address: 3 Allen Park Drive, Stillorgan, Co. Dublin
+    ImageUrl: https://photos-a.propertyimages.ie/media/2/8/8/4433882/4101999b-ff8c-4f60-82c6-1a3f4fd298ee_t.jpg
+    Price: 649950
+    PrevPrice: 595000
+    PriceChangeDelta: 54950
+    PriceChangePercentage: 9.2353
+    Created: 29th Jun 20
+    CssClass: up
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/C2.png"
+    BerRating: C2
+    SeoUrl: "/residential/brochure/3-allen-park-drive-stillorgan-co-dublin/4433882"
+    IsActive: true
+  - PropertyId: 4435864
+    Address: 21 Findlater St, Glasthule, County Dublin
+    Price: 495000
+    PrevPrice: 510000
+    PriceChangeDelta: -15000
+    PriceChangePercentage: -2.9412
+    Created: 29th Jun 20
+    CssClass: down
+    SeoUrl: "/residential/brochure/21-findlater-st-glasthule-county-dublin/4435864"
+    IsActive: true
+  - PropertyId: 4435864
+    Address: 21 Findlater St, Glasthule, County Dublin
+    Price: 510000
+    PrevPrice: 495000
+    PriceChangeDelta: 15000
+    PriceChangePercentage: 3.0303
+    Created: 29th Jun 20
+    CssClass: up
+    SeoUrl: "/residential/brochure/21-findlater-st-glasthule-county-dublin/4435864"
+    IsActive: true
+  - PropertyId: 4378693
+    Address: 8 Popular Drive, Moylough, Ballinasloe, Co. Galway, H53 RT22
+    ImageUrl: https://photos-a.propertyimages.ie/media/3/9/6/4378693/1544e6b9-8948-4076-95ff-36c7fbcb6dd6_t.jpg
+    Price: 230000
+    PrevPrice: 240000
+    PriceChangeDelta: -10000
+    PriceChangePercentage: -4.1667
+    Created: 29th Jun 20
+    CssClass: down
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/D1.png"
+    BerRating: D1
+    SeoUrl: "/residential/brochure/8-popular-drive-moylough-ballinasloe-co-galway-h53-rt22/4378693"
+    IsActive: true
+  - PropertyId: 4219111
+    Address: Knockeen, Killincarrig, Delgany, Co. Wicklow, A63RX97
+    ImageUrl: https://photos-a.propertyimages.ie/media/1/1/1/4219111/3e37158e-deb2-40fc-909b-1ef398221f16_t.jpg
+    Price: 695000
+    PrevPrice: 785000
+    PriceChangeDelta: -90000
+    PriceChangePercentage: -11.465
+    Created: 29th Jun 20
+    CssClass: down
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/F.png"
+    BerRating: F
+    SeoUrl: "/residential/brochure/knockeen-killincarrig-delgany-co-wicklow-a63rx97/4219111"
+    IsActive: true
+  - PropertyId: 4412879
+    Address: Bruach na hAbhainn, Kilsheelan, Clonmel, Tipperary
+    ImageUrl: https://photos-a.propertyimages.ie/media/9/7/8/4412879/6a7e4f36-b038-4c04-9e17-9fb793c20cea_t.jpg
+    Price: 400000
+    PrevPrice: 450000
+    PriceChangeDelta: -50000
+    PriceChangePercentage: -11.1111
+    Created: 29th Jun 20
+    CssClass: down
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/B3.png"
+    BerRating: B3
+    SeoUrl: "/residential/brochure/bruach-na-habhainn-kilsheelan-clonmel-tipperary/4412879"
+    IsActive: true
+  - PropertyId: 4419073
+    Address: Apt. No. 7 The Cloisters, Johns Hill, Waterford City, Waterford
+    ImageUrl: https://photos-a.propertyimages.ie/media/3/7/0/4419073/dd20e6a1-9934-496f-84e1-7816d0838f96_t.jpg
+    Price: 124000
+    PrevPrice: 129000
+    PriceChangeDelta: -5000
+    PriceChangePercentage: -3.876
+    Created: 29th Jun 20
+    CssClass: down
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/E1.png"
+    BerRating: E1
+    SeoUrl: "/residential/brochure/apt-no-7-the-cloisters-johns-hill-waterford-city-waterford/4419073"
+    IsActive: true
+  - PropertyId: 4420726
+    Address: 22 Marian Villas , Laytown, Meath
+    ImageUrl: https://photos-a.propertyimages.ie/media/6/2/7/4420726/7ccf55e9-31de-4344-8cba-b2c41b212b04_t.jpg
+    Price: 194999
+    PrevPrice: 199000
+    PriceChangeDelta: -4001
+    PriceChangePercentage: -2.0106
+    Created: 29th Jun 20
+    CssClass: down
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/E1.png"
+    BerRating: E1
+    SeoUrl: "/residential/brochure/22-marian-villas-laytown-meath/4420726"
+    IsActive: true
+  - PropertyId: 4241733
+    Address: " Limekiln Lodge, Moynalty, Kells, Meath"
+    ImageUrl: https://photos-a.propertyimages.ie/media/3/3/7/4241733/17720e6f-a7fd-4bcb-aa37-4ae91a22c121_t.jpg
+    Price: 370000
+    PrevPrice: 360000
+    PriceChangeDelta: 10000
+    PriceChangePercentage: 2.7778
+    Created: 29th Jun 20
+    CssClass: up
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/C2.png"
+    BerRating: C2
+    SeoUrl: "/residential/brochure/limekiln-lodge-moynalty-kells-meath/4241733"
+    IsActive: true
+  - PropertyId: 4423440
+    Address: 27 Ardlo Manor, Mullagh, Cavan
+    ImageUrl: https://photos-a.propertyimages.ie/media/0/4/4/4423440/cd200259-8b89-4803-a6db-c673ee83d84b_t.jpg
+    Price: 125000
+    PrevPrice: 129950
+    PriceChangeDelta: -4950
+    PriceChangePercentage: -3.8092
+    Created: 29th Jun 20
+    CssClass: down
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/E1.png"
+    BerRating: E1
+    SeoUrl: "/residential/brochure/27-ardlo-manor-mullagh-cavan/4423440"
+    IsActive: true
+  - PropertyId: 4377414
+    Address: Castlelands, Buttevant, Cork
+    ImageUrl: https://photos-a.propertyimages.ie/media/4/1/4/4377414/2a7a7b31-4cc4-42b6-b286-74b382dd3215_t.jpg
+    Price: 375000
+    PrevPrice: 395000
+    PriceChangeDelta: -20000
+    PriceChangePercentage: -5.0633
+    Created: 29th Jun 20
+    CssClass: down
+    SeoUrl: "/residential/brochure/castlelands-buttevant-cork/4377414"
+    IsActive: true
+  - PropertyId: 4317051
+    Address: Pinewood , Laragh, Wicklow
+    ImageUrl: https://photos-a.propertyimages.ie/media/1/5/0/4317051/ca5923d1-fc22-4b9e-abc8-667e430a4b23_t.jpg
+    Price: 850000
+    PrevPrice: 895000
+    PriceChangeDelta: -45000
+    PriceChangePercentage: -5.0279
+    Created: 29th Jun 20
+    CssClass: down
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/B3.png"
+    BerRating: B3
+    SeoUrl: "/residential/brochure/pinewood-laragh-wicklow/4317051"
+    IsActive: true
+  - PropertyId: 4436071
+    Address: 34 Chestnut Grove, Mullingar, Westmeath
+    ImageUrl: https://photos-a.propertyimages.ie/media/1/7/0/4436071/98f642b9-2b1e-4bcb-bdab-4f6a4e83f74b_t.jpg
+    Price: 214950
+    PrevPrice: 219950
+    PriceChangeDelta: -5000
+    PriceChangePercentage: -2.2732
+    Created: 29th Jun 20
+    CssClass: down
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/D1.png"
+    BerRating: D1
+    SeoUrl: "/residential/brochure/34-chestnut-grove-mullingar-westmeath/4436071"
+    IsActive: true
+  - PropertyId: 4411410
+    Address: 1 The Lawn, Waterpark, Carrigaline, Cork
+    ImageUrl: https://photos-a.propertyimages.ie/media/0/1/4/4411410/4fa552a2-1f94-4338-9da2-3f47d5a87dbe_t.jpg
+    Price: 275000
+    PrevPrice: 270000
+    PriceChangeDelta: 5000
+    PriceChangePercentage: 1.8519
+    Created: 29th Jun 20
+    CssClass: up
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/F.png"
+    BerRating: F
+    SeoUrl: "/residential/brochure/1-the-lawn-waterpark-carrigaline-cork/4411410"
+    IsActive: true
+  - PropertyId: 4423099
+    Address: Land c. 38.8 Acres / 15.7 Hectares, Baltyboys, Blessington, Wicklow
+    ImageUrl: https://photos-a.propertyimages.ie/media/9/9/0/4423099/32f94641-5e95-4849-be39-76814f5bf241_t.jpg
+    Price: 365000
+    PrevPrice: 385000
+    PriceChangeDelta: -20000
+    PriceChangePercentage: -5.1948
+    Created: 29th Jun 20
+    CssClass: down
+    SeoUrl: "/commercial/brochure/land-c-38-8-acres-15-7-hectares-baltyboys-blessington-wicklow/4423099"
+    IsActive: true
+  - PropertyId: 4433862
+    Address: 34 Fernlea, Ferney Road, Carrigaline, Cork
+    ImageUrl: https://photos-a.propertyimages.ie/media/2/6/8/4433862/d6337174-a332-441f-a029-781a1e700898_t.jpg
+    Price: 490000
+    PrevPrice: 440000
+    PriceChangeDelta: 50000
+    PriceChangePercentage: 11.3636
+    Created: 29th Jun 20
+    CssClass: up
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/C1.png"
+    BerRating: C1
+    SeoUrl: "/residential/brochure/34-fernlea-ferney-road-carrigaline-cork/4433862"
+    IsActive: true
+  - PropertyId: 4403919
+    Address: 32 West Park Drive, Ballygall Road East, Glasnevin, Dublin 11
+    ImageUrl: https://photos-a.propertyimages.ie/media/9/1/9/4403919/a24af3e3-aca2-4b51-802f-7c9cc7e1f981_t.jpg
+    Price: 369000
+    PrevPrice: 349000
+    PriceChangeDelta: 20000
+    PriceChangePercentage: 5.7307
+    Created: 29th Jun 20
+    CssClass: up
+    SeoUrl: "/residential/brochure/32-west-park-drive-ballygall-road-east-glasnevin-dublin-11/4403919"
+    IsActive: true
+  - PropertyId: 4425508
+    Address: 108 Palace Fields, Tuam, Galway
+    ImageUrl: https://photos-a.propertyimages.ie/media/8/0/5/4425508/6f25d24d-398c-4cf6-9d3c-8454a8a220fc_t.jpg
+    Price: 275000
+    PrevPrice: 265000
+    PriceChangeDelta: 10000
+    PriceChangePercentage: 3.7736
+    Created: 29th Jun 20
+    CssClass: up
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/C1.png"
+    BerRating: C1
+    SeoUrl: "/residential/brochure/108-palace-fields-tuam-galway/4425508"
+    IsActive: true
+  - PropertyId: 4371258
+    Address: Mullacloe, Ardee, Louth
+    ImageUrl: https://photos-a.propertyimages.ie/media/8/5/2/4371258/f452b6d9-1d66-46cb-8f0a-caa485211c41_t.jpg
+    Price: 475000
+    PrevPrice: 425000
+    PriceChangeDelta: 50000
+    PriceChangePercentage: 11.7647
+    Created: 29th Jun 20
+    CssClass: up
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/B3.png"
+    BerRating: B3
+    SeoUrl: "/residential/brochure/mullacloe-ardee-louth/4371258"
+    IsActive: true
+  - PropertyId: 4423943
+    Address: Apartment 98, Coopers, West Gate, Christchurch,   Dublin 8
+    ImageUrl: https://photos-a.propertyimages.ie/media/3/4/9/4423943/46c01d9f-9666-4925-99d8-206c638604c7_t.jpg
+    Price: 249950
+    PrevPrice: 275000
+    PriceChangeDelta: -25050
+    PriceChangePercentage: -9.1091
+    Created: 29th Jun 20
+    CssClass: down
+    SeoUrl: "/residential/brochure/apartment-98-coopers-west-gate-christchurch-dublin-8/4423943"
+    IsActive: true
+  - PropertyId: 4436545
+    Address: 16C CherryWood, Loughlinstown, Cherrywood, County Dublin
+    ImageUrl: https://photos-a.propertyimages.ie/media/5/4/5/4436545/ca8a838c-b425-4b9b-8c68-8c121b208d62_t.jpg
+    Price: 344950
+    PrevPrice: 334950
+    PriceChangeDelta: 10000
+    PriceChangePercentage: 2.9855
+    Created: 29th Jun 20
+    CssClass: up
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/E1.png"
+    BerRating: E1
+    SeoUrl: "/residential/brochure/16c-cherrywood-loughlinstown-cherrywood-county-dublin/4436545"
+    IsActive: true
+  - PropertyId: 3580410
+    Address: 1 Station Road, Annascaul, Kerry
+    ImageUrl: https://photos-a.propertyimages.ie/media/0/1/4/3580410/6eaab3c4-40b9-4515-8947-394ab585c753_t.jpg
+    Price: 225000
+    PrevPrice: 185000
+    PriceChangeDelta: 40000
+    PriceChangePercentage: 21.6216
+    Created: 28th Jun 20
+    CssClass: up
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/C1.png"
+    BerRating: C1
+    SeoUrl: "/residential/brochure/1-station-road-annascaul-kerry/3580410"
+    IsActive: true
+  - PropertyId: 3639161
+    Address: Curlew Cottage, Cabintown, Ballycastle, Mayo
+    ImageUrl: https://photos-a.propertyimages.ie/media/1/6/1/3639161/49505cd4-0069-4dfb-ae55-4900a5930019_t.jpg
+    Price: 199000
+    PrevPrice: 219000
+    PriceChangeDelta: -20000
+    PriceChangePercentage: -9.1324
+    Created: 27th Jun 20
+    CssClass: down
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/C3.png"
+    BerRating: C3
+    SeoUrl: "/residential/brochure/curlew-cottage-cabintown-ballycastle-mayo/3639161"
+    IsActive: true
+  - PropertyId: 4418626
+    Address: 55 Mountjoy Square West, Mountjoy Square, Dublin  1
+    ImageUrl: https://photos-a.propertyimages.ie/media/6/2/6/4418626/b6d2de88-e8a2-4028-aa16-697c065f5626_t.jpg
+    Price: 245000
+    PrevPrice: 255000
+    PriceChangeDelta: -10000
+    PriceChangePercentage: -3.9216
+    Created: 27th Jun 20
+    CssClass: down
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/F.png"
+    BerRating: F
+    SeoUrl: "/residential/brochure/55-mountjoy-square-west-mountjoy-square-dublin-1/4418626"
+    IsActive: true
+  - PropertyId: 4433701
+    Address: 96 Ceannt Fort, Mount Brown, Kilmainham, Dublin 8
+    ImageUrl: https://photos-a.propertyimages.ie/media/1/0/7/4433701/f6c0147a-db08-443b-8b50-feef882bc8c5_t.jpg
+    Price: 405000
+    PrevPrice: 400000
+    PriceChangeDelta: 5000
+    PriceChangePercentage: 1.25
+    Created: 26th Jun 20
+    CssClass: up
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/E1.png"
+    BerRating: E1
+    SeoUrl: "/residential/brochure/96-ceannt-fort-mount-brown-kilmainham-dublin-8/4433701"
+    IsActive: true
+ResultCount: 5217
+Page: 1
+PageSize: 40
+Version: 1

@@ -1,0 +1,22 @@
+---
+ApiKey: 5f4bc74f-8d9a-41cb-ab85-a1b7cfc86622
+CorrelationId: b6c2c5d9-1f72-4aff-b775-70cf64b813d6
+SessionId: 11ff1047e4e64c9aba937183b051841b
+RequestTypeId: 6
+RequestVerb: POST
+Endpoint: https://api.myhome.ie/json/reply/LocalityPropertyHistorySearch
+PropertyHistorySearchRequest:
+  Page: 1
+  PageSize: 20
+  ChannelIds:
+    - 1
+  PropertyClassIds:
+    - 1
+    - 6
+  PropertyStatusIds:
+    - 2
+    - 3
+  PriceHasChanged: true
+  IsActive: true
+Page: 1
+PageSize: 20

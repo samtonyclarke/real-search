@@ -1,0 +1,3383 @@
+---
+SearchResults:
+  - PropertyId: 4409756
+    GroupId: 386911
+    CustomData:
+      RelatedPropertyIDs:
+        - 4395121
+      IsMyHomePassport: false
+    RefreshedOn: '2020-06-25T16:50:46.8500000+01:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: info@coonan.com
+    GroupName: ''
+    GroupAddress: 'Property House, Main Street, Maynooth, Co. Kildare '
+    GroupUrlSlugIdentifier: coonan-new-homes
+    CreatedOnDate: '2020-01-29T12:37:31.9470000+00:00'
+    ActivatedOn: '2020-01-29T12:59:31.7330000+00:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/1/1/9/386911/logo.jpg
+    GroupUrl: "/estate-agents/coonan-new-homes-386911"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: true
+    IsTopSpot: false
+    BedsString: 3 beds
+    PriceAsString: "€375,000"
+    BrochureMap:
+      longitude: -6.65680313110352
+      latitude: 53.3960266113281
+    id: 4409756
+    SizeStringFeet: 1292
+    PriceChangeIsIncrease: false
+    DisplayAddress: 12 Mill Close, Millerstown, Maynooth Road, Kilcock, Kildare
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: A3
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A3.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: 12 mill close millerstown maynooth road kilcock kildare
+    SeoDisplayAddress: 12-mill-close-millerstown-maynooth-road-kilcock-kildare
+    BrochureUrl: "/residential/brochure/12-mill-close-millerstown-maynooth-road-kilcock-kildare/4409756"
+    SeoUrl: "/residential/brochure/12-mill-close-millerstown-maynooth-road-kilcock-kildare/4409756"
+    PhotoCount: 2
+    MainPhoto: https://photos-a.propertyimages.ie/media/6/5/7/4409756/67f394c2-fb5c-43c4-8b8d-20e1fe26d31a_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/6/5/7/4409756/67f394c2-fb5c-43c4-8b8d-20e1fe26d31a_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/6/5/7/4409756/67f394c2-fb5c-43c4-8b8d-20e1fe26d31a_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/5/7/4409756/95958e33-90c2-4a09-be55-69d316ad9f5b_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4435714
+    GroupId: 5571
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2020-06-24T14:15:16.3570000+01:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: galway@sherryfitz.ie
+    GroupName: ''
+    GroupAddress: One Galway Central, Forster Street, Galway
+    GroupUrlSlugIdentifier: sherry-fitzgerald-galway
+    CreatedOnDate: '2020-06-24T14:14:46.9170000+01:00'
+    ActivatedOn: '2020-06-24T14:15:16.3570000+01:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/1/7/5/5571/logo.jpg
+    GroupUrl: "/estate-agents/sherry-fitzgerald-galway-5571"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: true
+    HasVideos: false
+    IsMappedAccurately: true
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€425,000"
+    BrochureMap:
+      longitude: -9.24046897888184
+      latitude: 53.3983993530273
+    id: 4435714
+    SizeStringMeters: 240
+    PriceChangeIsIncrease: false
+    DisplayAddress: Roscahill West, Roscahill, Co. Galway, H91 X2NX
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 2 baths
+    BerRating: A2
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A2.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: roscahill west roscahill co galway h91 x2nx
+    SeoDisplayAddress: roscahill-west-roscahill-co-galway-h91-x2nx
+    BrochureUrl: "/residential/brochure/roscahill-west-roscahill-co-galway-h91-x2nx/4435714"
+    SeoUrl: "/residential/brochure/roscahill-west-roscahill-co-galway-h91-x2nx/4435714"
+    PhotoCount: 20
+    MainPhoto: https://photos-a.propertyimages.ie/media/4/1/7/4435714/32d4db0f-37fb-46b8-89a7-ad1bdb6d6e55_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/4/1/7/4435714/32d4db0f-37fb-46b8-89a7-ad1bdb6d6e55_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/32d4db0f-37fb-46b8-89a7-ad1bdb6d6e55_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/edbc0a07-8d35-47ab-b911-6a804f71d4e8_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/872a8fb2-7b34-4f3b-b3b1-d436b456226e_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/ac865cf2-7540-491c-aeb6-46bab21c534b_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/7d094d2e-084d-42b6-a07e-b3e1ba0f3271_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/c2d61104-d9c5-43ad-8903-291ae2926bc9_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/b856a776-3b54-4523-a2fd-f8d1072db027_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/01f6e5ac-a1ff-4aa5-bb7f-1c39998512ea_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/97aeb9e4-2bac-4286-940e-1274c4aa172f_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/eff4f0ed-5c32-46d6-b8d2-53d6f9ff28a8_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/6043c1d3-c1de-4fbc-a590-adda2fd0d1f2_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/f9c4fd4f-4905-4c1a-b565-01de612a5ac7_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/a59ef970-403b-4232-a980-4f939433c8b4_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/234014a5-60d1-4101-9548-93f2b0e635aa_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/fa23ec21-7723-421c-a55d-b82ed4810e81_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/83063b3a-b581-4b2d-8730-d42eced32df7_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/e6c6c703-c6e9-4dcb-b698-e07acd96fff1_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/f374dd62-8616-402c-8084-1153ae186c03_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/bb12a0d4-e4f9-48b1-a9c7-d876d797b3dd_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/dd9cbfa0-3ebf-41a6-bfc1-e219663e90a7_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4433691
+    GroupId: 6997
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2020-06-23T09:44:02.8570000+01:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: info@klauctioneers.ie
+    GroupName: ''
+    GroupAddress: 'Middle Square, Macroom, Co Cork / The Square, Millstreet, Co. Cork '
+    GroupUrlSlugIdentifier: killian-lynch-auctioneers-valuers-estate-agents
+    CreatedOnDate: '2020-06-16T12:09:44.9900000+01:00'
+    ActivatedOn: '2020-06-23T09:44:02.8570000+01:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/7/9/9/6997/logo.jpg
+    GroupUrl: "/estate-agents/killian-lynch-auctioneers-valuers-estate-agents-6997"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: false
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€325,000"
+    BrochureMap:
+      longitude: -8.83335113525391
+      latitude: 52.5520896911621
+    id: 4433691
+    SizeStringFeet: 1980
+    PriceChangeIsIncrease: false
+    DisplayAddress: Clonshearbeg, Kilbarry, Macroom, Cork
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: A2
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A2.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: clonshearbeg kilbarry macroom cork
+    SeoDisplayAddress: clonshearbeg-kilbarry-macroom-cork
+    BrochureUrl: "/residential/brochure/clonshearbeg-kilbarry-macroom-cork/4433691"
+    SeoUrl: "/residential/brochure/clonshearbeg-kilbarry-macroom-cork/4433691"
+    PhotoCount: 6
+    MainPhoto: https://photos-a.propertyimages.ie/media/1/9/6/4433691/dc3f96f0-e3ec-4c8a-9412-2fc84410c9c4_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/1/9/6/4433691/dc3f96f0-e3ec-4c8a-9412-2fc84410c9c4_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/1/9/6/4433691/dc3f96f0-e3ec-4c8a-9412-2fc84410c9c4_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/9/6/4433691/5bdd5cf0-be60-4426-89fa-62ac50ee0436_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/9/6/4433691/6e860709-fd94-443a-8813-6c4ae1c0bbee_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/9/6/4433691/1dae8d41-7d8e-42c5-89e9-23e031e64d32_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/9/6/4433691/9cd04749-4885-485b-9b5a-15f97533b8da_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/9/6/4433691/efd9d60d-212f-4091-b6af-ed589d60abaf_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4310223
+    GroupId: 386911
+    CustomData:
+      RelatedPropertyIDs:
+        - 4309984
+      IsMyHomePassport: false
+    RefreshedOn: '2020-05-31T22:11:14.9070000+01:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: info@coonan.com
+    GroupName: ''
+    GroupAddress: 'Property House, Main Street, Maynooth, Co. Kildare '
+    GroupUrlSlugIdentifier: coonan-new-homes
+    CreatedOnDate: '2019-02-06T16:15:50.4430000+00:00'
+    ActivatedOn: '2019-02-07T09:17:29.1070000+00:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/1/1/9/386911/logo.jpg
+    GroupUrl: "/estate-agents/coonan-new-homes-386911"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: true
+    IsMappedAccurately: true
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€415,000"
+    BrochureMap:
+      longitude: -6.77688598632813
+      latitude: 53.5522689819336
+    id: 4310223
+    SizeStringFeet: 1615
+    PriceChangeIsIncrease: false
+    DisplayAddress: Effernock, Dublin Road, Trim, Co. Meath - 4 Bed Detached Plus Study
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: A2-A3
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A2-A3.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: effernock dublin road trim co meath  4 bed detached plus
+      study
+    SeoDisplayAddress: effernock-dublin-road-trim-co-meath-4-bed-detached-plus-study
+    BrochureUrl: "/residential/brochure/effernock-dublin-road-trim-co-meath-4-bed-detached-plus-study/4310223"
+    SeoUrl: "/residential/brochure/effernock-dublin-road-trim-co-meath-4-bed-detached-plus-study/4310223"
+    PhotoCount: 27
+    MainPhoto: https://photos-a.propertyimages.ie/media/3/2/2/4310223/fb8f2676-0fec-48a7-af9c-b7ef4e4470a8_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/3/2/2/4310223/fb8f2676-0fec-48a7-af9c-b7ef4e4470a8_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/3/2/2/4310223/fb8f2676-0fec-48a7-af9c-b7ef4e4470a8_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/2/2/4310223/251cd5bb-04d6-4cbd-85ac-cd55af8af615_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/2/2/4310223/035b6d21-774e-4606-a5e9-d07ce6478070_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/2/2/4310223/79cc6281-2522-49dd-af90-5a478ab097c2_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/2/2/4310223/6279cf72-6190-48b0-ae66-151fcfa827bf_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/2/2/4310223/eb973c76-24d1-4ad2-87fb-6c42c3e3067f_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/2/2/4310223/bb8ae630-3bf5-45c8-93b4-cc1a34c49653_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/2/2/4310223/3acd4094-e4c4-460a-bc24-f696f0fe0ea8_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/2/2/4310223/c7f3aba0-c6b8-46b7-9973-44ab048eb353_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/2/2/4310223/b26e4e3a-df40-45cf-9edc-3748d691198f_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/2/2/4310223/4cd7e0a2-a7f2-4d53-8cfc-29a636fa712b_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/2/2/4310223/eedcba55-0b67-44fa-9673-18cf23cbb65c_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/2/2/4310223/c5827745-3689-4fed-be12-9f9e40fa8d8b_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/2/2/4310223/7e3f8981-d874-4081-952d-9cf0c4576ee6_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/2/2/4310223/739f55a5-c11e-4ba5-bfb2-d5cab0161609_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/2/2/4310223/309df81b-4ba8-4488-9034-63b072a520de_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/2/2/4310223/38f38954-3217-4a5c-b9fd-9fbdb8fab252_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/2/2/4310223/20099a98-ef04-4047-b5d8-d3faf9393063_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/2/2/4310223/01e47c6e-bb53-449a-82db-bcc64b814152_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/2/2/4310223/0b55d756-c45e-4ad5-bc92-b6b969809ec4_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/2/2/4310223/21ad8206-9515-4edb-9e2e-f4e24f988ff5_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/2/2/4310223/c48119ef-0d41-4c6f-8459-df086e64caa3_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/2/2/4310223/367b581e-505c-4d17-8491-0cf982f55eea_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/2/2/4310223/dd7622e3-2f89-45ab-8443-bbfe20120b63_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/2/2/4310223/93604950-c455-45e4-be5a-cb5377e8204b_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/2/2/4310223/e036bdce-b949-49fb-9a2e-2c1ce9447894_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/2/2/4310223/1f40b48b-fe2c-43ef-b505-6f247a2fa3a5_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4400791
+    GroupId: 10256
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2020-04-15T11:17:03.5700000+01:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: jearley@propertypartners.ie
+    GroupName: ''
+    GroupAddress: Stonecourt, The Square, Roscommon Town, Co. Roscommon
+    GroupUrlSlugIdentifier: property-partners-earley
+    CreatedOnDate: '2019-12-23T12:02:30.9170000+00:00'
+    ActivatedOn: '2019-12-23T12:11:18.2530000+00:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/6/5/2/10256/logo.jpg
+    GroupUrl: "/estate-agents/property-partners-earley-10256"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: true
+    HasVideos: false
+    IsMappedAccurately: true
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€395,000"
+    BrochureMap:
+      longitude: -8.05087375640869
+      latitude: 53.5466041564941
+    id: 4400791
+    SizeStringFeet: 2508
+    PriceChangeIsIncrease: false
+    DisplayAddress: 3 Harbour Court, Lecarrow, Roscommon
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: A3
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A3.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: 3 harbour court lecarrow roscommon
+    SeoDisplayAddress: 3-harbour-court-lecarrow-roscommon
+    BrochureUrl: "/residential/brochure/3-harbour-court-lecarrow-roscommon/4400791"
+    SeoUrl: "/residential/brochure/3-harbour-court-lecarrow-roscommon/4400791"
+    PhotoCount: 4
+    MainPhoto: https://photos-a.propertyimages.ie/media/1/9/7/4400791/23b8e5e9-b275-4a75-a8c8-068ba5bf0d79_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/1/9/7/4400791/23b8e5e9-b275-4a75-a8c8-068ba5bf0d79_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/1/9/7/4400791/23b8e5e9-b275-4a75-a8c8-068ba5bf0d79_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/9/7/4400791/158e1bec-11bc-4361-80b3-67a5144d9473_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/9/7/4400791/1dc3aab7-b9d7-4afa-9e65-c1df1e82e0be_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/9/7/4400791/6cc7bc98-c67e-4140-8fb0-b283a8b2defb_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4405366
+    GroupId: 386911
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2020-03-31T08:23:02.9800000+01:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: info@coonan.com
+    GroupName: ''
+    GroupAddress: 'Property House, Main Street, Maynooth, Co. Kildare '
+    GroupUrlSlugIdentifier: coonan-new-homes
+    CreatedOnDate: '2020-01-14T17:17:00.5700000+00:00'
+    ActivatedOn: '2020-01-21T15:35:21.1970000+00:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/1/1/9/386911/logo.jpg
+    GroupUrl: "/estate-agents/coonan-new-homes-386911"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: true
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€438,000"
+    BrochureMap:
+      longitude: -6.7866473197937
+      latitude: 53.5523681640625
+    id: 4405366
+    SizeStringFeet: 1615
+    PriceChangeIsIncrease: false
+    DisplayAddress: 6 Effernock Crescent, Effernock, Trim, Co. Meath
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: A3
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A3.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: 6 effernock crescent effernock trim co meath
+    SeoDisplayAddress: 6-effernock-crescent-effernock-trim-co-meath
+    BrochureUrl: "/residential/brochure/6-effernock-crescent-effernock-trim-co-meath/4405366"
+    SeoUrl: "/residential/brochure/6-effernock-crescent-effernock-trim-co-meath/4405366"
+    PhotoCount: 5
+    MainPhoto: https://photos-a.propertyimages.ie/media/6/6/3/4405366/3a540eab-f413-4600-b2b2-30d1cf00311f_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/6/6/3/4405366/3a540eab-f413-4600-b2b2-30d1cf00311f_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/6/6/3/4405366/3a540eab-f413-4600-b2b2-30d1cf00311f_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/6/3/4405366/f9d01ab1-0587-41aa-85e8-644db4f283b2_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/6/3/4405366/b8c76039-8198-438f-bce0-fc0551cac8da_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/6/3/4405366/1aff89a6-cdc8-4eee-8eb8-56e333b02ced_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/6/3/4405366/87d344fb-1704-40ed-a140-ed438cab138b_l.png
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4423149
+    GroupId: 294015
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2020-03-27T09:18:15.0230000+00:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: info@sfotoolemadden.ie
+    GroupName: ''
+    GroupAddress: St Brendan Street, Portumna, Galway / Church St. Loughrea Co. Galway
+    GroupUrlSlugIdentifier: ger-otoole-portumna
+    CreatedOnDate: '2020-03-27T09:17:54.4270000+00:00'
+    ActivatedOn: '2020-03-27T09:18:15.0230000+00:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/5/1/0/294015/logo.jpg
+    GroupUrl: "/estate-agents/ger-otoole-portumna-294015"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: true
+    HasVideos: false
+    IsMappedAccurately: true
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€340,000"
+    BrochureMap:
+      longitude: -8.43087196350098
+      latitude: 53.1915435791016
+    id: 4423149
+    SizeStringMeters: 239.5
+    PriceChangeIsIncrease: false
+    DisplayAddress: Corbaun, Gurtymadden, Loughrea, Co. Galway, H62 RW54
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 4 baths
+    BerRating: A3
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A3.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: corbaun gurtymadden loughrea co galway h62 rw54
+    SeoDisplayAddress: corbaun-gurtymadden-loughrea-co-galway-h62-rw54
+    BrochureUrl: "/residential/brochure/corbaun-gurtymadden-loughrea-co-galway-h62-rw54/4423149"
+    SeoUrl: "/residential/brochure/corbaun-gurtymadden-loughrea-co-galway-h62-rw54/4423149"
+    PhotoCount: 21
+    MainPhoto: https://photos-a.propertyimages.ie/media/9/4/1/4423149/905aa2b7-3802-4667-9f43-3e9572721308_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/9/4/1/4423149/905aa2b7-3802-4667-9f43-3e9572721308_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/905aa2b7-3802-4667-9f43-3e9572721308_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/fc0df9d2-c013-4c84-8da2-013afed4236b_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/42c89121-75b5-4f74-b123-af82dd9f8123_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/f2db745b-9012-4a8c-b4b2-60af9812277f_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/c40ca239-4600-4909-9a2f-a5c00555e6a9_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/f33a5793-c768-4072-9e79-a5392405fdfb_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/5004a4dd-8b1c-434c-84ab-9a7b0f960118_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/8f0715cc-e484-4eb1-84a1-1742d0436f0b_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/f60d6fc3-8bfc-423c-b67c-ffee5d53acc8_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/60461234-109d-47c5-980c-d9966ef96903_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/98eb1af8-7a76-45b1-a5aa-cf4287eae67c_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/d214997d-3e15-4f2f-9628-d8c6e3ec23a1_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/4c8aa7d5-85eb-47d6-a5b5-f70c18ce9af6_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/2536cbfa-8d49-4946-b0be-af03c3ce65f5_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/9f8b546d-e3d5-4b7a-bcd8-57ce5359beac_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/2f2195e2-9b8a-40ec-8012-4f8a98b928cf_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/7ad8b2c2-ce92-4479-9950-8b717886e1ec_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/cd421ab3-2058-45a2-96ae-293538f52255_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/2c0a9d1a-5c24-4caf-a68c-5f3ccdad4d8f_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/925d02fb-6c2a-4b5e-9b78-e1fb55cd8df0_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/92caccc0-79e1-4bc9-b60d-ad47a4a329eb_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4411269
+    GroupId: 386911
+    CustomData:
+      RelatedPropertyIDs:
+        - 4274722
+      IsMyHomePassport: false
+    RefreshedOn: '2020-02-04T10:21:32.9770000+00:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: info@coonan.com
+    GroupName: ''
+    GroupAddress: 'Property House, Main Street, Maynooth, Co. Kildare '
+    GroupUrlSlugIdentifier: coonan-new-homes
+    CreatedOnDate: '2020-02-04T09:50:18.5730000+00:00'
+    ActivatedOn: '2020-02-04T10:21:32.9770000+00:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/1/1/9/386911/logo.jpg
+    GroupUrl: "/estate-agents/coonan-new-homes-386911"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: true
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€305,000"
+    BrochureMap:
+      longitude: -6.94862747192383
+      latitude: 53.3426704406738
+    id: 4411269
+    SizeStringFeet: 1563
+    PriceChangeIsIncrease: false
+    DisplayAddress: The Birch, Cluain Dara, Derrinturn, Co. Kildare
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: A3
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A3.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: the birch cluain dara derrinturn co kildare
+    SeoDisplayAddress: the-birch-cluain-dara-derrinturn-co-kildare
+    BrochureUrl: "/residential/brochure/the-birch-cluain-dara-derrinturn-co-kildare/4411269"
+    SeoUrl: "/residential/brochure/the-birch-cluain-dara-derrinturn-co-kildare/4411269"
+    PhotoCount: 5
+    MainPhoto: https://photos-a.propertyimages.ie/media/9/6/2/4411269/b9777e68-0b53-4e76-9885-716831cfdc65_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/9/6/2/4411269/b9777e68-0b53-4e76-9885-716831cfdc65_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/9/6/2/4411269/b9777e68-0b53-4e76-9885-716831cfdc65_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/6/2/4411269/8846d55f-f15c-48fc-a00f-353700f6a127_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/6/2/4411269/42df55e2-823a-4842-8eac-cb274d5be701_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/6/2/4411269/97a6ec3a-0805-4bb5-974d-3da1c06093e2_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/6/2/4411269/0e76d1c6-761d-4139-a903-82f2e9bfdfbc_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4411047
+    GroupId: 11175
+    CustomData:
+      RelatedPropertyIDs:
+        - 4413576
+      IsMyHomePassport: false
+    RefreshedOn: '2020-02-03T12:12:10.3030000+00:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: info@obrienauctioneers.com
+    GroupName: ''
+    GroupAddress: 6 Main Street, Tallow, Co. Waterford
+    GroupUrlSlugIdentifier: michael-a-obrien-sons
+    CreatedOnDate: '2020-02-03T12:06:45.6530000+00:00'
+    ActivatedOn: '2020-02-03T12:12:10.3030000+00:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/5/7/1/11175/logo.jpg
+    GroupUrl: "/estate-agents/michael-a-obrien-sons-11175"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: false
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: true
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€290,000"
+    BrochureMap:
+      longitude: -8.10013866424561
+      latitude: 52.0924263000488
+    id: 4411047
+    SizeStringFeet: 1920
+    PriceChangeIsIncrease: false
+    DisplayAddress: 25 Castle Rivers, Conna, Cork
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: A1
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A1.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: 25 castle rivers conna cork
+    SeoDisplayAddress: 25-castle-rivers-conna-cork
+    BrochureUrl: "/residential/brochure/25-castle-rivers-conna-cork/4411047"
+    SeoUrl: "/residential/brochure/25-castle-rivers-conna-cork/4411047"
+    PhotoCount: 4
+    MainPhoto: https://photos-a.propertyimages.ie/media/7/4/0/4411047/0f667b5d-7786-4cd0-8ed3-0451e88e9fb5_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/7/4/0/4411047/0f667b5d-7786-4cd0-8ed3-0451e88e9fb5_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/7/4/0/4411047/0f667b5d-7786-4cd0-8ed3-0451e88e9fb5_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/4/0/4411047/227f7c61-9464-4f6a-8130-2d637c9c98a9_l.png
+      - https://photos-a.propertyimages.ie/media/7/4/0/4411047/fa1a7c29-3789-4762-a094-65a63c481f89_l.png
+      - https://photos-a.propertyimages.ie/media/7/4/0/4411047/ba1bb78b-50b0-4507-b60d-8e5326cd0b41_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4411011
+    GroupId: 11175
+    CustomData:
+      RelatedPropertyIDs:
+        - 4413576
+      IsMyHomePassport: false
+    RefreshedOn: '2020-02-03T11:24:58.8270000+00:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: info@obrienauctioneers.com
+    GroupName: ''
+    GroupAddress: 6 Main Street, Tallow, Co. Waterford
+    GroupUrlSlugIdentifier: michael-a-obrien-sons
+    CreatedOnDate: '2020-02-03T11:04:05.8530000+00:00'
+    ActivatedOn: '2020-02-03T11:24:58.8270000+00:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/5/7/1/11175/logo.jpg
+    GroupUrl: "/estate-agents/michael-a-obrien-sons-11175"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: false
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: true
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€275,000"
+    BrochureMap:
+      longitude: -8.10013866424561
+      latitude: 52.0924263000488
+    id: 4411011
+    SizeStringFeet: 1800
+    PriceChangeIsIncrease: false
+    DisplayAddress: 23 Castle Rivers, Conna, Cork
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: A1
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A1.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: 23 castle rivers conna cork
+    SeoDisplayAddress: 23-castle-rivers-conna-cork
+    BrochureUrl: "/residential/brochure/23-castle-rivers-conna-cork/4411011"
+    SeoUrl: "/residential/brochure/23-castle-rivers-conna-cork/4411011"
+    PhotoCount: 4
+    MainPhoto: https://photos-a.propertyimages.ie/media/1/1/0/4411011/cf8a51d5-a4dd-4872-a32f-c5eef6f01967_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/1/1/0/4411011/cf8a51d5-a4dd-4872-a32f-c5eef6f01967_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/1/1/0/4411011/cf8a51d5-a4dd-4872-a32f-c5eef6f01967_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/1/0/4411011/e5ef72ec-f922-40c1-b661-59b1cc8b16c7_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/1/0/4411011/a3f54d6c-865c-463f-ba81-3c3b911c8aad_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/1/0/4411011/f21a5a4e-a67e-4854-ac69-788da5721d3c_l.png
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4410996
+    GroupId: 11175
+    CustomData:
+      RelatedPropertyIDs:
+        - 4413576
+      IsMyHomePassport: false
+    RefreshedOn: '2020-02-03T10:48:07.1400000+00:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: info@obrienauctioneers.com
+    GroupName: ''
+    GroupAddress: 6 Main Street, Tallow, Co. Waterford
+    GroupUrlSlugIdentifier: michael-a-obrien-sons
+    CreatedOnDate: '2020-02-03T10:29:43.9030000+00:00'
+    ActivatedOn: '2020-02-03T10:48:07.1400000+00:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/5/7/1/11175/logo.jpg
+    GroupUrl: "/estate-agents/michael-a-obrien-sons-11175"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: false
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: true
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€270,000"
+    BrochureMap:
+      longitude: -8.10013866424561
+      latitude: 52.0924263000488
+    id: 4410996
+    SizeStringFeet: 1660
+    PriceChangeIsIncrease: false
+    DisplayAddress: 22 Castle Rivers, Conna, Cork
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: A1
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A1.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: 22 castle rivers conna cork
+    SeoDisplayAddress: 22-castle-rivers-conna-cork
+    BrochureUrl: "/residential/brochure/22-castle-rivers-conna-cork/4410996"
+    SeoUrl: "/residential/brochure/22-castle-rivers-conna-cork/4410996"
+    PhotoCount: 3
+    MainPhoto: https://photos-a.propertyimages.ie/media/6/9/9/4410996/8664b52f-918a-44a7-baf1-9468fd05b9ec_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/6/9/9/4410996/8664b52f-918a-44a7-baf1-9468fd05b9ec_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/6/9/9/4410996/8664b52f-918a-44a7-baf1-9468fd05b9ec_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/9/9/4410996/57b1e452-5425-41bb-ac51-b467fdb2771e_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/9/9/4410996/3857bf37-e977-489b-b5ce-95c7a3c21310_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4292177
+    GroupId: 386911
+    CustomData:
+      RelatedPropertyIDs:
+        - 4291184
+      IsMyHomePassport: false
+    RefreshedOn: '2020-01-31T17:32:08.5100000+00:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: info@coonan.com
+    GroupName: ''
+    GroupAddress: 'Property House, Main Street, Maynooth, Co. Kildare '
+    GroupUrlSlugIdentifier: coonan-new-homes
+    CreatedOnDate: '2018-11-02T15:17:27.8570000+00:00'
+    ActivatedOn: '2018-11-02T15:21:02.6630000+00:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/1/1/9/386911/logo.jpg
+    GroupUrl: "/estate-agents/coonan-new-homes-386911"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: true
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€405,000"
+    BrochureMap:
+      longitude: -6.79007577896118
+      latitude: 53.1660118103027
+    id: 4292177
+    SizeStringFeet: 1715
+    PriceChangeIsIncrease: false
+    DisplayAddress: Kilbelin Abbey, Newbridge, Co. Kildare - White Abbey - 4 Bed Detached
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: A2-A3
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A2-A3.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: kilbelin abbey newbridge co kildare  white abbey  4 bed detached
+    SeoDisplayAddress: kilbelin-abbey-newbridge-co-kildare-white-abbey-4-bed-detached
+    BrochureUrl: "/residential/brochure/kilbelin-abbey-newbridge-co-kildare-white-abbey-4-bed-detached/4292177"
+    SeoUrl: "/residential/brochure/kilbelin-abbey-newbridge-co-kildare-white-abbey-4-bed-detached/4292177"
+    PhotoCount: 29
+    MainPhoto: https://photos-a.propertyimages.ie/media/7/7/1/4292177/4268fc4a-2288-4817-876e-ff8ce5f75248_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/7/7/1/4292177/4268fc4a-2288-4817-876e-ff8ce5f75248_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/4268fc4a-2288-4817-876e-ff8ce5f75248_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/7bda5725-a2db-485e-9ad1-0554fd21cee2_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/237b72e9-c4b2-4bf2-8876-53639fa278d1_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/9c20e003-8bb0-480f-9335-29cad307578e_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/dda38723-5b39-43b4-bfba-8c962e2cd4a2_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/45a59b60-9437-422d-96f7-7fe5cc80a9fb_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/0fa71c1b-44d4-42d0-b05a-2a22567466ef_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/297da4ea-e60a-4c0a-afea-b2531dc7cb01_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/585726d9-35b3-42ae-9b9f-e54c9a2e92c6_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/905d0ad9-9c77-4bac-af1f-2ddfa6c5e9d3_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/4a5a133c-5f0f-4ba1-9719-3506ac09f7a9_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/1ccc9ee4-7e6b-4a23-834f-ab34c7765f89_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/54153d7b-7efc-4e6c-a3a3-c163bfe5c4d7_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/c30cf441-4d07-412f-a72f-627bbd65a21e_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/8a90f5ab-8200-47d1-80e7-2eaf523a98d0_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/84bba4db-40c2-4207-8792-30e2cc11d55a_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/0f1c2564-48b9-485c-81f4-8354247c6ac5_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/5856d365-342a-458a-aa89-146680c11419_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/77a5d416-7d8b-4024-b087-21a4ac57b18e_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/89fd0726-f5f8-4b63-acda-a465a6d04635_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/4fcf7f5f-3989-4da8-90fc-af23c4daae4c_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/89fa3898-0c02-46bc-a479-d04891be476f_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/add6bf63-21af-4eca-abd3-25ac14b5a046_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/abb3a377-4d85-4183-9d93-628a1c3919e5_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/2f89ab77-8810-439e-b703-4b82dd7eb196_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/bf7cc32e-b9cd-4f0c-89cd-05913e254e3a_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/ff8f5806-f676-45eb-9323-80e7ed03d71e_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/ace9a95e-0876-4cae-bc5f-83e86badaa70_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/1/4292177/812a2f94-2558-4552-83a6-82c54a941b8c_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4146173
+    GroupId: 386911
+    CustomData:
+      RelatedPropertyIDs:
+        - 4395121
+      JointAgentGroupId: 7008
+      IsMyHomePassport: false
+    RefreshedOn: '2020-01-24T22:22:35.5100000+00:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: info@coonan.com
+    GroupName: ''
+    GroupAddress: 'Property House, Main Street, Maynooth, Co. Kildare '
+    GroupUrlSlugIdentifier: coonan-new-homes
+    JointAgentGroupName: Hooke & MacDonald
+    JointAgentGroupAddress: 118 Lower Baggot Street, Dublin City Centre, Dublin 2
+    JointAgentGroupUrl: "/estate-agents/hooke-macdonald-7008"
+    CreatedOnDate: '2017-11-01T13:48:12.5930000+00:00'
+    ActivatedOn: '2017-11-02T07:46:53.8470000+00:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/1/1/9/386911/logo.jpg
+    GroupUrl: "/estate-agents/coonan-new-homes-386911"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: true
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€405,000"
+    BrochureMap:
+      longitude: -6.65662860870361
+      latitude: 53.3959197998047
+    id: 4146173
+    SizeStringFeet: 1464
+    PriceChangeIsIncrease: false
+    DisplayAddress: Millerstown, Maynooth Road, Kilcock, Co. Kildare - 4 bed detached.
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: A3
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A3.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: millerstown maynooth road kilcock co kildare  4 bed detached
+    SeoDisplayAddress: millerstown-maynooth-road-kilcock-co-kildare-4-bed-detached
+    BrochureUrl: "/residential/brochure/millerstown-maynooth-road-kilcock-co-kildare-4-bed-detached/4146173"
+    SeoUrl: "/residential/brochure/millerstown-maynooth-road-kilcock-co-kildare-4-bed-detached/4146173"
+    PhotoCount: 9
+    MainPhoto: https://photos-a.propertyimages.ie/media/3/7/1/4146173/139df98b-4e9c-4503-a32f-556adee263c3_l.jpeg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/3/7/1/4146173/139df98b-4e9c-4503-a32f-556adee263c3_m.jpeg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/3/7/1/4146173/139df98b-4e9c-4503-a32f-556adee263c3_l.jpeg
+      - https://photos-a.propertyimages.ie/media/3/7/1/4146173/a6db9913-7c4e-449d-82bd-e4295705e64d_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/7/1/4146173/a0267be9-4540-439b-90a9-40b261d56f7c_l.jpeg
+      - https://photos-a.propertyimages.ie/media/3/7/1/4146173/83418949-cc56-4410-b429-892974163fb0_l.jpeg
+      - https://photos-a.propertyimages.ie/media/3/7/1/4146173/9c539b78-312e-47b2-a7d9-de34dda2ff6c_l.jpeg
+      - https://photos-a.propertyimages.ie/media/3/7/1/4146173/2738b8f0-9c2d-4227-b78f-79b5468d700c_l.jpeg
+      - https://photos-a.propertyimages.ie/media/3/7/1/4146173/82e2bba6-2d9a-4462-a72e-c314b3a416ce_l.jpeg
+      - https://photos-a.propertyimages.ie/media/3/7/1/4146173/73d5a0d3-2705-412c-a4aa-d1606660ce00_l.jpeg
+      - https://photos-a.propertyimages.ie/media/3/7/1/4146173/04e87b03-6bb5-4ac6-b624-5770af43d6cc_l.jpeg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls:
+      - https://photos-a.propertyimages.ie/groups/8/0/0/7008/logo.jpg
+  - PropertyId: 4408812
+    GroupId: 386911
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2020-01-24T17:16:44.8030000+00:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: info@coonan.com
+    GroupName: ''
+    GroupAddress: 'Property House, Main Street, Maynooth, Co. Kildare '
+    GroupUrlSlugIdentifier: coonan-new-homes
+    CreatedOnDate: '2020-01-24T17:10:32.1470000+00:00'
+    ActivatedOn: '2020-01-24T17:16:44.8030000+00:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/1/1/9/386911/logo.jpg
+    GroupUrl: "/estate-agents/coonan-new-homes-386911"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: true
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€450,000"
+    BrochureMap:
+      longitude: -6.67094993591309
+      latitude: 53.407772064209
+    id: 4408812
+    SizeStringFeet: 1680
+    PriceChangeIsIncrease: false
+    DisplayAddress: 'The Riverside, Kilcock, Co. Kildare - 4 Bed Detached '
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: A3
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A3.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: the riverside kilcock co kildare  4 bed detached
+    SeoDisplayAddress: the-riverside-kilcock-co-kildare-4-bed-detached
+    BrochureUrl: "/residential/brochure/the-riverside-kilcock-co-kildare-4-bed-detached/4408812"
+    SeoUrl: "/residential/brochure/the-riverside-kilcock-co-kildare-4-bed-detached/4408812"
+    PhotoCount: 4
+    MainPhoto: https://photos-a.propertyimages.ie/media/2/1/8/4408812/370bd981-6cf4-4ee6-88e0-79bf40371653_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/2/1/8/4408812/370bd981-6cf4-4ee6-88e0-79bf40371653_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/2/1/8/4408812/370bd981-6cf4-4ee6-88e0-79bf40371653_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/1/8/4408812/5b66703b-d790-42b0-80b2-a46951113485_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/1/8/4408812/9a2a5896-784e-43c8-8b76-26320456d691_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/1/8/4408812/39f5c180-8d1b-44af-b43f-2e8855fc465f_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4405156
+    GroupId: 5867
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2020-01-14T12:55:47.6800000+00:00'
+    GroupPhoneNumber: info@forbesboyle.com
+    GroupName: ''
+    GroupAddress: 10 Malahide Road, Kilmore Road Junction, Artane, Dublin 5
+    GroupUrlSlugIdentifier: forbes-boyle
+    CreatedOnDate: '2020-01-14T12:43:47.2600000+00:00'
+    ActivatedOn: '2020-01-14T12:55:47.6800000+00:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/7/6/8/5867/logo.jpg
+    GroupUrl: "/estate-agents/forbes-boyle-5867"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 3 beds
+    PriceAsString: "€340,000"
+    id: 4405156
+    SizeStringFeet: 1821
+    PriceChangeIsIncrease: false
+    DisplayAddress: 5 Clog Na Léinn, Collinstown, Westmeath
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: A1
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A1.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: 5 clog na léinn collinstown westmeath
+    SeoDisplayAddress: 5-clog-na-léinn-collinstown-westmeath
+    BrochureUrl: "/residential/brochure/5-clog-na-l-inn-collinstown-westmeath/4405156"
+    SeoUrl: "/residential/brochure/5-clog-na-l-inn-collinstown-westmeath/4405156"
+    PhotoCount: 4
+    MainPhoto: https://photos-a.propertyimages.ie/media/6/5/1/4405156/201b9cbb-c1eb-42dc-a8d1-7bec33358115_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/6/5/1/4405156/201b9cbb-c1eb-42dc-a8d1-7bec33358115_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/6/5/1/4405156/201b9cbb-c1eb-42dc-a8d1-7bec33358115_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/5/1/4405156/4c7132bc-c18e-43ae-9ec9-07540607d592_l.jpeg
+      - https://photos-a.propertyimages.ie/media/6/5/1/4405156/4d9c0078-e28d-4c47-aa48-51229b1fc1c6_l.jpeg
+      - https://photos-a.propertyimages.ie/media/6/5/1/4405156/b670254e-ad38-4aaf-894f-ad50acfc710b_l.jpeg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4405146
+    GroupId: 5867
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2020-01-14T12:41:18.7230000+00:00'
+    GroupPhoneNumber: info@forbesboyle.com
+    GroupName: ''
+    GroupAddress: 10 Malahide Road, Kilmore Road Junction, Artane, Dublin 5
+    GroupUrlSlugIdentifier: forbes-boyle
+    CreatedOnDate: '2020-01-14T12:20:28.1830000+00:00'
+    ActivatedOn: '2020-01-14T12:41:18.7230000+00:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/7/6/8/5867/logo.jpg
+    GroupUrl: "/estate-agents/forbes-boyle-5867"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: true
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€430,000"
+    id: 4405146
+    SizeStringFeet: 2411
+    PriceChangeIsIncrease: false
+    DisplayAddress: 4 Clog Na Léinn, Collinstown, Westmeath
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: A1
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A1.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: 4 clog na léinn collinstown westmeath
+    SeoDisplayAddress: 4-clog-na-léinn-collinstown-westmeath
+    BrochureUrl: "/residential/brochure/4-clog-na-l-inn-collinstown-westmeath/4405146"
+    SeoUrl: "/residential/brochure/4-clog-na-l-inn-collinstown-westmeath/4405146"
+    PhotoCount: 3
+    MainPhoto: https://photos-a.propertyimages.ie/media/6/4/1/4405146/0b5fb5ff-3fe7-483b-9827-0d0ea423f56c_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/6/4/1/4405146/0b5fb5ff-3fe7-483b-9827-0d0ea423f56c_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/6/4/1/4405146/0b5fb5ff-3fe7-483b-9827-0d0ea423f56c_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/4/1/4405146/1f562dca-5a12-470b-af12-fc33640bebad_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/4/1/4405146/8c664d74-db1a-46cc-b5b6-aa29b4e9dc4c_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4405126
+    GroupId: 5867
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2020-01-14T12:14:28.4400000+00:00'
+    GroupPhoneNumber: info@forbesboyle.com
+    GroupName: ''
+    GroupAddress: 10 Malahide Road, Kilmore Road Junction, Artane, Dublin 5
+    GroupUrlSlugIdentifier: forbes-boyle
+    CreatedOnDate: '2020-01-14T11:33:00.0270000+00:00'
+    ActivatedOn: '2020-01-14T12:14:28.4400000+00:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/7/6/8/5867/logo.jpg
+    GroupUrl: "/estate-agents/forbes-boyle-5867"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: true
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€395,000"
+    id: 4405126
+    SizeStringFeet: 2095
+    PriceChangeIsIncrease: false
+    DisplayAddress: 1 Clog Na Léinn, Collinstown, Westmeath
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 2 baths
+    BerRating: A1
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A1.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: 1 clog na léinn collinstown westmeath
+    SeoDisplayAddress: 1-clog-na-léinn-collinstown-westmeath
+    BrochureUrl: "/residential/brochure/1-clog-na-l-inn-collinstown-westmeath/4405126"
+    SeoUrl: "/residential/brochure/1-clog-na-l-inn-collinstown-westmeath/4405126"
+    PhotoCount: 14
+    MainPhoto: https://photos-a.propertyimages.ie/media/6/2/1/4405126/f6129ec0-fc34-4551-8757-a4af12afcb03_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/6/2/1/4405126/f6129ec0-fc34-4551-8757-a4af12afcb03_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/6/2/1/4405126/f6129ec0-fc34-4551-8757-a4af12afcb03_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/2/1/4405126/29dbaa25-85a7-47f3-bf11-611d4b36e8ca_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/2/1/4405126/038c2e5e-372a-4ecd-a9bd-7dfbb16c924c_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/2/1/4405126/179d1a47-d883-4e7d-b089-f16929f943df_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/2/1/4405126/8672a266-c0c0-48c6-b22e-3f6c347e1f3b_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/2/1/4405126/1a1be404-84ee-48e8-9025-f22cd86bb7b5_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/2/1/4405126/080ad54b-37bc-44d2-ac23-c416a9f303ab_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/2/1/4405126/2510f6d0-27ac-4bcf-bf76-350c717cca90_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/2/1/4405126/2784b8b6-a051-4def-a784-ac7cc6d76f11_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/2/1/4405126/4b198823-bbcd-431d-bd41-34330e2f7833_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/2/1/4405126/e918e26c-83a4-48a8-817f-cb6a3ecfe3f1_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/2/1/4405126/f456078e-0c0e-43c6-9ba3-b43e120bb1d8_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/2/1/4405126/0c6cd8dc-4cdb-4205-9d38-1712230590f2_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/2/1/4405126/bdb77b18-91d8-42a1-899c-1e025615a8f3_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4259751
+    GroupId: 5708
+    CustomData:
+      RelatedPropertyIDs:
+        - 4216664
+      IsMyHomePassport: false
+    RefreshedOn: '2019-12-19T21:18:34.5170000+00:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: info@raymondpotterton.com
+    GroupName: ''
+    GroupAddress: 38 Watergate Street, Navan, Co. Meath
+    GroupUrlSlugIdentifier: raymond-potterton-and-company
+    CreatedOnDate: '2018-07-12T12:08:16.7630000+01:00'
+    ActivatedOn: '2018-07-12T12:12:56.4770000+01:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/8/0/7/5708/logo.jpg
+    GroupUrl: "/estate-agents/raymond-potterton-and-company-5708"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: false
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: true
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€360,000"
+    BrochureMap:
+      longitude: -73.9735412597656
+      latitude: 40.6495323181152
+    id: 4259751
+    SizeStringFeet: 1560
+    PriceChangeIsIncrease: false
+    DisplayAddress: The Kestrel & The Starling, Cluain Adain, Clonmagadden, Navan, Meath
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: A2
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A2.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: the kestrel  the starling cluain adain clonmagadden navan
+      meath
+    SeoDisplayAddress: the-kestrel-the-starling-cluain-adain-clonmagadden-navan-meath
+    BrochureUrl: "/residential/brochure/the-kestrel-the-starling-cluain-adain-clonmagadden-navan-meath/4259751"
+    SeoUrl: "/residential/brochure/the-kestrel-the-starling-cluain-adain-clonmagadden-navan-meath/4259751"
+    PhotoCount: 16
+    MainPhoto: https://photos-a.propertyimages.ie/media/1/5/7/4259751/21606510-30b0-4fae-9b00-4c92687026a7_l.png
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/1/5/7/4259751/21606510-30b0-4fae-9b00-4c92687026a7_m.png
+    Photos:
+      - https://photos-a.propertyimages.ie/media/1/5/7/4259751/21606510-30b0-4fae-9b00-4c92687026a7_l.png
+      - https://photos-a.propertyimages.ie/media/1/5/7/4259751/5b10c528-a77f-4d9c-bbcf-435cb4fde121_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/5/7/4259751/385cd564-83fd-4aa2-bdd0-70ce42b4ffc2_l.png
+      - https://photos-a.propertyimages.ie/media/1/5/7/4259751/8c6139c8-c25e-4c83-9c01-c4c31fb62127_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/5/7/4259751/d15e35c8-79ea-4112-816f-4415a2ecacab_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/5/7/4259751/4f968bf4-07f4-43fb-a0a5-a701d582016e_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/5/7/4259751/6d6bc2dd-32c4-419d-9214-04dcf6562e3a_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/5/7/4259751/f94da334-069d-47f7-965d-d3a6d7ba64bf_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/5/7/4259751/d1fcc479-1531-43aa-96b2-97db0d9d6e1b_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/5/7/4259751/85ec8579-9a98-429b-bff8-4e953d64d6e9_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/5/7/4259751/9f334a2a-5653-4e21-9523-a42321844689_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/5/7/4259751/4b81f49b-89b4-403d-9ac6-ea4d745ddf95_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/5/7/4259751/0e6e08d8-c67b-40f5-8501-6a14e86cd8db_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/5/7/4259751/78b52501-58f4-46ae-a82e-1fd05dca06ac_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/5/7/4259751/552c8109-f595-4748-8906-e9b245b960b5_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/5/7/4259751/a36ccd39-685f-4397-804c-00dbf08436e4_l.png
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4395140
+    GroupId: 283631
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2019-12-09T17:19:03.5600000+00:00'
+    GroupPhoneNumber: reynolds@propertypartners.ie
+    GroupName: ''
+    GroupAddress: 10 Lower main St., Letterkenny, Co. Donegal
+    GroupUrlSlugIdentifier: property-partners-paul-reynolds
+    CreatedOnDate: '2019-12-04T17:16:31.1870000+00:00'
+    ActivatedOn: '2019-12-09T17:19:03.5600000+00:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/1/3/6/283631/logo.jpg
+    GroupUrl: "/estate-agents/property-partners-paul-reynolds-283631"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: false
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: true
+    HasVideos: false
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€335,000"
+    id: 4395140
+    SizeStringMeters: 215
+    LatestPriceChangeString: "-€15,000 on 24th Mar 20"
+    PriceChangeIsIncrease: false
+    DisplayAddress: Legnahoorey, Kilmacrennan, Donegal
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: A2
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A2.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: legnahoorey kilmacrennan donegal
+    SeoDisplayAddress: legnahoorey-kilmacrennan-donegal
+    BrochureUrl: "/residential/brochure/legnahoorey-kilmacrennan-donegal/4395140"
+    SeoUrl: "/residential/brochure/legnahoorey-kilmacrennan-donegal/4395140"
+    PhotoCount: 19
+    MainPhoto: https://photos-a.propertyimages.ie/media/0/4/1/4395140/eddf8473-3b82-4744-bd68-08638cd496f9_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/0/4/1/4395140/eddf8473-3b82-4744-bd68-08638cd496f9_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/eddf8473-3b82-4744-bd68-08638cd496f9_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/eaf6b8ea-8c61-4ead-a373-85cd0f59300a_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/07782b9c-b73e-489d-8f70-c32683d4f594_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/92e0c64f-8ed9-46d8-bf1c-87d0a94afce3_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/bbc2fb4f-fa58-4726-9f4e-2b817171d0ef_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/0d57650c-035a-412c-a4e5-0b8ca681367c_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/45a859e1-5b18-4bc0-a908-0231567f4e47_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/f04ea96c-9fc1-40f4-b428-aab81078ebb3_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/17d9a8fd-7ca4-488c-8d29-f1ad592685dc_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/9dd4f0f1-02dc-4e8d-9fc7-f6fce51f84da_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/2aa7db6c-2aea-4f7c-a309-197d8cf8cd16_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/95d0789d-20f4-433a-b1d4-50662851c0d3_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/5aa5b8e7-2c1b-4fea-a858-e77f056aa934_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/83bd137e-3f87-4d35-a66e-c73482c4f6df_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/4ea2e750-2780-461d-aa21-db0d52001fa9_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/83394e68-6d3c-4dc2-9e32-2f8de4c89e1f_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/d33fe789-36e8-47d6-87fb-b01c7d33132c_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/566b6793-5819-4b5c-bede-7d94a5d324b8_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/e8bf71e6-be51-4ea7-9a45-25286576b85e_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4394816
+    GroupId: 11108
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2019-12-03T12:30:36.9870000+00:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: info@dngbg.ie
+    GroupName: ''
+    GroupAddress: 'Port Road, Letterkenny, Co. Donegal, '
+    GroupUrlSlugIdentifier: dng-boyce-gallagher
+    CreatedOnDate: '2019-12-03T12:27:30.4300000+00:00'
+    ActivatedOn: '2019-12-03T12:30:36.9870000+00:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/8/0/1/11108/logo.jpg
+    GroupUrl: "/estate-agents/dng-boyce-gallagher-11108"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: true
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€365,000"
+    BrochureMap:
+      longitude: -7.75123977661133
+      latitude: 55.0298728942871
+    id: 4394816
+    SizeStringMeters: 235
+    PriceChangeIsIncrease: false
+    DisplayAddress: Leitir, Kilmacrennan, Donegal
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: A3
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A3.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: leitir kilmacrennan donegal
+    SeoDisplayAddress: leitir-kilmacrennan-donegal
+    BrochureUrl: "/residential/brochure/leitir-kilmacrennan-donegal/4394816"
+    SeoUrl: "/residential/brochure/leitir-kilmacrennan-donegal/4394816"
+    PhotoCount: 4
+    MainPhoto: https://photos-a.propertyimages.ie/media/6/1/8/4394816/de003244-7542-4ed5-bd5b-9164111119b1_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/6/1/8/4394816/de003244-7542-4ed5-bd5b-9164111119b1_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/6/1/8/4394816/de003244-7542-4ed5-bd5b-9164111119b1_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/1/8/4394816/f8f1851d-6a99-463b-bbb8-b5b1a02d4e12_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/1/8/4394816/e2db9f50-2332-4eba-b0b7-9915d227b908_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/1/8/4394816/cd9f8108-2d6e-4d2d-a9e9-52dc2fa5c455_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+SeoUrl: "/residential/ireland/property-for-sale?types=39|40&minenergyrating=130&maxprice=450000&minsize=200"
+HasResults: true
+SearchDescription: Property for sale in Ireland
+IsSavedSearch: false
+Request:
+  SearchRequest:
+    IsBackendSearch: false
+    SkipSearchIndex: false
+    IsGroupPrivateSearch: false
+    IsSaleAgreed: false
+    IsSold: false
+    IsAuction: false
+    IsBoundsSearch: false
+    UseFreeTextSearchForKeywords: false
+    SearchContent: false
+    Query: ''
+    PropertyIds: []
+    GroupIds: []
+    ChannelIds:
+      - 1
+    PropertyTypeIds:
+      - 39
+      - 40
+    PropertyClassIds:
+      - 1
+    PropertyStatusIds:
+      - 2
+      - 12
+    SaleTypeIds: []
+    FeatureTypeIds: []
+    LocalityIds: []
+    LocalityNames: []
+    NegotiatorIds: []
+    SolicitorIds: []
+    BuyerSolicitorIds: []
+    VendorSolicitorIds: []
+    TransferedByUserIds: []
+    RowStatusIds:
+      - 2
+    EnergyRatings: []
+    MinEnergyRating: 130
+    Polygons: []
+    Destinations: []
+    Tags: []
+    PrivateTags: []
+    PreSixtyThree: false
+    IsActive: true
+    HasPhotos: false
+    MaxPrice: 450000
+    MinSize: 200
+    PriceFrequency: Monthly
+  SortColumn: 2
+  SortDirection: 2
+  IsIrelandSearch: false
+  IsMapView: false
+  GetAuctions: false
+  SessionId: 11ff1047e4e64c9aba937183b051841b
+  Page: 1
+  PageSize: 20
+  ApiKey: 5f4bc74f-8d9a-41cb-ab85-a1b7cfc86622
+  CorrelationId: a2f0c54f-1914-4794-9b17-60e170bb765c
+  Version: 1
+  RequestTypeId: 2
+AdTargetingValues:
+  MYH_LocalityIDList: []
+  MYH_LocalityIDListString: ''
+  MYH_RegionIDList: []
+  MYH_RegionIDListString: ''
+  MYH_PropertyFeatureIDList: []
+  MYH_PropertyFeatureIDListString: ''
+  MYH_MaxPrice: 450000
+  MYH_MinEnergyRating: 130
+  MYH_MinSize: 200
+  MYH_PropertyClassId: 1
+  MYH_PropertyTypeID: 39
+AdUnits:
+  - AdSizes:
+      - Width: 970
+        Height: 90
+      - Width: 728
+        Height: 90
+      - Width: 970
+        Height: 250
+    Unit: "/2695176/MyHome/Search_Web_Top"
+  - AdSizes:
+      - Width: 728
+        Height: 90
+      - Width: 970
+        Height: 90
+      - Width: 1140
+        Height: 290
+      - Width: 970
+        Height: 250
+    Unit: "/2695176/MyHome/Search_Web_Mid"
+  - AdSizes:
+      - Width: 728
+        Height: 90
+      - Width: 940
+        Height: 160
+      - Width: 960
+        Height: 90
+      - Width: 960
+        Height: 250
+      - Width: 970
+        Height: 90
+      - Width: 970
+        Height: 250
+      - Width: 1140
+        Height: 290
+    Unit: "/2695176/MyHome/Search_Web_Bottom"
+  - AdSizes:
+      - Width: 728
+        Height: 90
+      - Width: 940
+        Height: 160
+      - Width: 960
+        Height: 90
+      - Width: 960
+        Height: 250
+      - Width: 970
+        Height: 90
+      - Width: 1140
+        Height: 290
+    Unit: "/2695176/MyHome/Search_Web_Bottom_Pos15"
+SeoDetails:
+  Title: Detached House and Bungalow for sale in Ireland - MyHome.ie
+  Description: Listings 1-20 (out of 49) for Ireland detached house and bungalow for
+    sale. Find Ireland residential property for sale including houses for sale in
+    Ireland, apartments for sale in Ireland, new homes and sites with MyHome Property
+    listings
+  Keywords: detached house and bungalow,  residential, ireland, houses,  for sale,  residential
+    property, apartments, home, house
+  CanonicalUrl: "/residential/ireland/property-for-sale?types=39|40&minenergyrating=130&maxprice=450000&minsize=200"
+  NextUrl: "/residential/ireland/property-for-sale?page=2&types=39%7c40&minenergyrating=130&maxprice=450000&minsize=200"
+  ClassUrl: property-for-sale
+  RegionUrl: ireland
+  DescriptionUrl: property-for-sale-in-ireland
+  BreadCrumbs:
+    - DisplayName: Home
+      ShortDisplayName: Home
+      Route: "/"
+    - DisplayName: Residential property for sale in Ireland
+      ShortDisplayName: Ireland
+      Route: ''
+  OpenGraphData:
+    Values: []
+Email: tony.clarke@gmail.com
+UserId: 406984
+Favourites:
+  - PropertyId: 4435714
+    GroupId: 5571
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2020-06-24T14:15:16.3570000+01:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: galway@sherryfitz.ie
+    GroupName: ''
+    GroupAddress: One Galway Central, Forster Street, Galway
+    GroupUrlSlugIdentifier: sherry-fitzgerald-galway
+    CreatedOnDate: '2020-06-24T14:14:46.9170000+01:00'
+    ActivatedOn: '2020-06-24T14:15:16.3570000+01:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/1/7/5/5571/logo.jpg
+    GroupUrl: "/estate-agents/sherry-fitzgerald-galway-5571"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€425,000"
+    BrochureMap:
+      longitude: -9.24046897888184
+      latitude: 53.3983993530273
+    id: 4435714
+    SizeStringMeters: 240
+    PriceChangeIsIncrease: false
+    DisplayAddress: Roscahill West, Roscahill, Co. Galway, H91 X2NX
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 2 baths
+    BerRating: A2
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A2.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: roscahill west roscahill co galway h91 x2nx
+    SeoDisplayAddress: roscahill-west-roscahill-co-galway-h91-x2nx
+    BrochureUrl: "/residential/brochure/roscahill-west-roscahill-co-galway-h91-x2nx/4435714"
+    SeoUrl: "/residential/brochure/roscahill-west-roscahill-co-galway-h91-x2nx/4435714"
+    PhotoCount: 20
+    MainPhoto: https://photos-a.propertyimages.ie/media/4/1/7/4435714/32d4db0f-37fb-46b8-89a7-ad1bdb6d6e55_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/4/1/7/4435714/32d4db0f-37fb-46b8-89a7-ad1bdb6d6e55_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/32d4db0f-37fb-46b8-89a7-ad1bdb6d6e55_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/edbc0a07-8d35-47ab-b911-6a804f71d4e8_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/872a8fb2-7b34-4f3b-b3b1-d436b456226e_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/ac865cf2-7540-491c-aeb6-46bab21c534b_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/7d094d2e-084d-42b6-a07e-b3e1ba0f3271_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/c2d61104-d9c5-43ad-8903-291ae2926bc9_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/b856a776-3b54-4523-a2fd-f8d1072db027_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/01f6e5ac-a1ff-4aa5-bb7f-1c39998512ea_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/97aeb9e4-2bac-4286-940e-1274c4aa172f_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/eff4f0ed-5c32-46d6-b8d2-53d6f9ff28a8_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/6043c1d3-c1de-4fbc-a590-adda2fd0d1f2_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/f9c4fd4f-4905-4c1a-b565-01de612a5ac7_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/a59ef970-403b-4232-a980-4f939433c8b4_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/234014a5-60d1-4101-9548-93f2b0e635aa_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/fa23ec21-7723-421c-a55d-b82ed4810e81_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/83063b3a-b581-4b2d-8730-d42eced32df7_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/e6c6c703-c6e9-4dcb-b698-e07acd96fff1_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/f374dd62-8616-402c-8084-1153ae186c03_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/bb12a0d4-e4f9-48b1-a9c7-d876d797b3dd_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/1/7/4435714/dd9cbfa0-3ebf-41a6-bfc1-e219663e90a7_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4434005
+    GroupId: 6660
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2020-06-17T12:31:24.6070000+01:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: info@costelloe.com
+    GroupName: ''
+    GroupAddress: 5 Abbey Street, Ennis, Co. Clare
+    GroupUrlSlugIdentifier: costelloe-estate-agents
+    CreatedOnDate: '2020-06-17T12:28:42.7730000+01:00'
+    ActivatedOn: '2020-06-17T12:31:24.6070000+01:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/0/6/6/6660/logo.jpg
+    GroupUrl: "/estate-agents/costelloe-estate-agents-6660"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€500,000"
+    BrochureMap:
+      longitude: -8.99613094329834
+      latitude: 52.8327369689941
+    id: 4434005
+    SizeStringMeters: 263.4
+    PriceChangeIsIncrease: false
+    DisplayAddress: House No. 6 Loughville, Lahinch Road, Ennis, Clare
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 4 baths
+    BerRating: A3
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A3.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: house no 6 loughville lahinch road ennis clare
+    SeoDisplayAddress: house-no-6-loughville-lahinch-road-ennis-clare
+    BrochureUrl: "/residential/brochure/house-no-6-loughville-lahinch-road-ennis-clare/4434005"
+    SeoUrl: "/residential/brochure/house-no-6-loughville-lahinch-road-ennis-clare/4434005"
+    PhotoCount: 2
+    MainPhoto: https://photos-a.propertyimages.ie/media/5/0/0/4434005/99159ba1-61d4-4f8d-bf4d-1351247b5760_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/5/0/0/4434005/99159ba1-61d4-4f8d-bf4d-1351247b5760_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/5/0/0/4434005/99159ba1-61d4-4f8d-bf4d-1351247b5760_l.jpg
+      - https://photos-a.propertyimages.ie/media/5/0/0/4434005/9518eec8-d3bf-456c-b87b-8dde92cdfa72_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4433999
+    GroupId: 6660
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2020-06-17T12:19:47.4870000+01:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: info@costelloe.com
+    GroupName: ''
+    GroupAddress: 5 Abbey Street, Ennis, Co. Clare
+    GroupUrlSlugIdentifier: costelloe-estate-agents
+    CreatedOnDate: '2020-06-17T12:16:03.9870000+01:00'
+    ActivatedOn: '2020-06-17T12:19:47.4870000+01:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/0/6/6/6660/logo.jpg
+    GroupUrl: "/estate-agents/costelloe-estate-agents-6660"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€478,000"
+    BrochureMap:
+      longitude: -9.01769161224365
+      latitude: 52.854190826416
+    id: 4433999
+    SizeStringMeters: 235.6
+    LatestPriceChangeString: "€3,000 on 21st Jun 20"
+    PriceChangeIsIncrease: true
+    DisplayAddress: House No. 2 Loughville, Lahinch Road, Ennis, Clare
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 2 baths
+    BerRating: A3
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A3.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: house no 2 loughville lahinch road ennis clare
+    SeoDisplayAddress: house-no-2-loughville-lahinch-road-ennis-clare
+    BrochureUrl: "/residential/brochure/house-no-2-loughville-lahinch-road-ennis-clare/4433999"
+    SeoUrl: "/residential/brochure/house-no-2-loughville-lahinch-road-ennis-clare/4433999"
+    PhotoCount: 2
+    MainPhoto: https://photos-a.propertyimages.ie/media/9/9/9/4433999/bc14012b-a056-4870-bc3c-80182a5207ee_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/9/9/9/4433999/bc14012b-a056-4870-bc3c-80182a5207ee_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/9/9/9/4433999/bc14012b-a056-4870-bc3c-80182a5207ee_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/9/9/4433999/b7e77b0f-fe3c-4a1b-b4ba-d472a7854330_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4433961
+    GroupId: 278704
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2020-06-17T11:06:30.7770000+01:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: info@ckproperties.ie
+    GroupName: ''
+    GroupAddress: Lr Bridge Street, Ballina, Co. Mayo
+    GroupUrlSlugIdentifier: ck-properties-auctioneers
+    CreatedOnDate: '2020-06-17T11:05:50.3830000+01:00'
+    ActivatedOn: '2020-06-17T11:06:30.7770000+01:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/4/0/7/278704/logo.jpg
+    GroupUrl: "/estate-agents/ck-properties-auctioneers-278704"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: false
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€449,000"
+    BrochureMap:
+      longitude: -9.1851634979248
+      latitude: 54.1273612976074
+    id: 4433961
+    SizeStringMeters: 315
+    PriceChangeIsIncrease: false
+    DisplayAddress: Crofton Park, Ballina, Mayo
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 4 baths
+    BerRating: B1
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/B1.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: crofton park ballina mayo
+    SeoDisplayAddress: crofton-park-ballina-mayo
+    BrochureUrl: "/residential/brochure/crofton-park-ballina-mayo/4433961"
+    SeoUrl: "/residential/brochure/crofton-park-ballina-mayo/4433961"
+    PhotoCount: 28
+    MainPhoto: https://photos-a.propertyimages.ie/media/1/6/9/4433961/4d60d569-0770-492b-a560-3f1c078bfeb7_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/1/6/9/4433961/4d60d569-0770-492b-a560-3f1c078bfeb7_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/1/6/9/4433961/4d60d569-0770-492b-a560-3f1c078bfeb7_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/6/9/4433961/959461e2-0e08-4708-9dcf-8dfd0da979f9_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/6/9/4433961/b475bf1f-5812-4d2a-97e7-a6e04aff9a82_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/6/9/4433961/65c16569-f777-4042-ac27-956f2b65998e_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/6/9/4433961/1d92cdda-7c21-4628-86b9-1e42343bb1a0_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/6/9/4433961/0c2e61dc-2595-476e-ac28-7100f1e0a59f_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/6/9/4433961/e9062f3d-9d7a-4a5e-8bdf-78f5fecb1261_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/6/9/4433961/5f8b874a-13ba-47d9-ad5a-dfded37bb28b_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/6/9/4433961/b584f0a9-e40c-4a10-a417-36b7bb6cd163_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/6/9/4433961/ce91be86-93d1-4e0d-9dcc-bddf0dde7e2a_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/6/9/4433961/d62c6da8-ba92-4761-90cd-d09367b56554_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/6/9/4433961/b83eaa77-a4c2-4ae7-94d6-8ef81323c816_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/6/9/4433961/d6dbd6d5-d8c0-4cd4-af80-a713e6ce2280_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/6/9/4433961/ac1b296f-0b4d-4a2c-99ea-d81be97f01c1_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/6/9/4433961/ca00b7a2-32c6-4f6a-bb8d-1cb5198c40a7_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/6/9/4433961/d1ad1da8-5955-424b-a54a-85a73c5f63e2_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/6/9/4433961/aa9f3d58-1784-42c6-a4bd-3771ee8dd8e3_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/6/9/4433961/0356decb-7a72-4868-899e-b802b36e7288_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/6/9/4433961/16a051cf-7b22-4ece-9953-6127fdeb92e1_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/6/9/4433961/51c97d01-3885-4d5a-b404-57e4a006e439_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/6/9/4433961/1b67166b-92a8-4ebb-91ae-99b5e790bf45_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/6/9/4433961/0ddebc24-34c2-44e9-879d-2942814089ae_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/6/9/4433961/aebd9e99-a024-4272-90a9-5ff95f634dcc_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/6/9/4433961/9bfc189f-c8fc-49b1-b89c-8bbc991a68a0_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/6/9/4433961/b3e7db27-dd87-4b75-92f1-acc2a6287505_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/6/9/4433961/423a37c9-f2f9-4287-a1a4-c1678cfcced6_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/6/9/4433961/8c872b09-54bf-4c0f-96e9-e508864b14fa_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/6/9/4433961/2c3762ce-8d61-42cb-bcdc-1f9c14d56cc0_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4430741
+    GroupId: 10256
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2020-06-03T12:18:35.0530000+01:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: jearley@propertypartners.ie
+    GroupName: ''
+    GroupAddress: Stonecourt, The Square, Roscommon Town, Co. Roscommon
+    GroupUrlSlugIdentifier: property-partners-earley
+    CreatedOnDate: '2020-05-30T15:52:50.2800000+01:00'
+    ActivatedOn: '2020-06-03T12:18:35.0530000+01:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/6/5/2/10256/logo.jpg
+    GroupUrl: "/estate-agents/property-partners-earley-10256"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: true
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 5 beds
+    PriceAsString: "€280,000"
+    BrochureMap:
+      longitude: -8.4039478302002
+      latitude: 53.8224449157715
+    id: 4430741
+    SizeStringFeet: 3525
+    PriceChangeIsIncrease: false
+    DisplayAddress: Castlecole, Ballinagare, Roscommon
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 6 baths
+    BerRating: B1
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/B1.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: castlecole ballinagare roscommon
+    SeoDisplayAddress: castlecole-ballinagare-roscommon
+    BrochureUrl: "/residential/brochure/castlecole-ballinagare-roscommon/4430741"
+    SeoUrl: "/residential/brochure/castlecole-ballinagare-roscommon/4430741"
+    PhotoCount: 34
+    MainPhoto: https://photos-a.propertyimages.ie/media/1/4/7/4430741/640063da-6ab2-4dfa-ab11-8b54cf7a028d_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/1/4/7/4430741/640063da-6ab2-4dfa-ab11-8b54cf7a028d_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/640063da-6ab2-4dfa-ab11-8b54cf7a028d_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/8c3e7e2f-74d0-4dc4-a143-912b1a7f7bcd_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/2cde46de-9481-41fb-a4c6-8724f90d840c_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/21824e26-4bbc-412f-a831-b2ebc9739ecb_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/580fddb8-8071-45d1-8c94-ff286518db5a_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/b17e8f72-113d-40c7-aa3a-35f0c47ab7ce_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/234ec646-0288-4b36-9c4a-4a34cec18dbd_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/abd305ea-ea1c-4f2c-b38f-2c0b1c85006c_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/f5c1ef51-90c8-4eeb-9180-a89d69a7b92b_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/429bbb3c-fa9b-4a77-b1f3-5127cdd188f3_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/04e03bb1-e96b-4d0e-b9dd-df9cc178abb5_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/d2014ab2-96a6-4ff7-ae1d-3b5c066d1c1f_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/b6400844-2f9f-4074-b695-45937dc55ba7_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/27bea65d-10ce-45aa-8a71-f8886eb7f318_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/b1a7bd2d-69a4-4793-a954-7be78fa87979_l.jpeg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/128e375f-e858-457e-a3f0-d9b0af7a9ebb_l.jpeg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/7d4533cb-c7de-4a24-bd92-14aa163db39d_l.jpeg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/12431f2a-3a3c-47d6-8483-78f60d5a7872_l.jpeg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/50959f21-c3da-45ee-87c2-89d90a11fd3a_l.jpeg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/b426e270-ac7c-4395-a9ee-22a55ca19b40_l.jpeg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/d0c3366d-811a-45ed-82fb-dbf514c920d4_l.jpeg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/2b8820ba-23be-4676-b84b-48ee910cd9fb_l.jpeg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/2fc36f6e-c3e5-4ac9-b2cf-77523cc33bdb_l.jpeg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/a2e2b3bd-fb54-4b28-9f9c-502f3d505e1c_l.jpeg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/ba3ade10-bc9f-47c8-bf87-4469431ade11_l.jpeg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/7314f935-ecd1-4aee-8f69-a1f78c812b12_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/f85dcb56-5bf9-4b38-a653-e25967223d63_l.jpeg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/e53be41c-f035-4295-84aa-30efb0b8eb50_l.jpeg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/046b91b0-109c-4a4f-84dc-8cacd037ee6b_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/e2105131-185b-4a48-a575-36bbacc9db63_l.jpeg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/65b35c59-ac7e-4a82-aced-94da94133421_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/52debf61-2de5-4e8c-a0d5-5ec3f480eeae_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/2ce9fbae-d875-433f-bcd8-c846475778cc_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/4/7/4430741/b1caa15e-2367-4c85-bfc3-9fbf1e1ff353_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4430328
+    GroupId: 5788
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2020-05-28T09:42:53.5430000+01:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: info@hodnettforde.com
+    GroupName: ''
+    GroupAddress: Emmet Square, Clonakilty, Co. Cork85 PH22
+    GroupUrlSlugIdentifier: hodnett-forde-property-services
+    CreatedOnDate: '2020-05-27T15:26:20.1530000+01:00'
+    ActivatedOn: '2020-05-28T09:42:53.5430000+01:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/8/8/7/5788/logo.jpg
+    GroupUrl: "/estate-agents/hodnett-forde-property-services-5788"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: true
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€460,000"
+    BrochureMap:
+      longitude: -8.72458553314209
+      latitude: 51.6533355712891
+    id: 4430328
+    SizeStringFeet: 2500
+    PriceChangeIsIncrease: false
+    DisplayAddress: Burren, Kilbrittain,   West Cork
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: A3
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A3.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: burren kilbrittain   west cork
+    SeoDisplayAddress: burren-kilbrittain-west-cork
+    BrochureUrl: "/residential/brochure/burren-kilbrittain-west-cork/4430328"
+    SeoUrl: "/residential/brochure/burren-kilbrittain-west-cork/4430328"
+    PhotoCount: 35
+    MainPhoto: https://photos-a.propertyimages.ie/media/8/2/3/4430328/743f7a05-2884-48ff-a674-08c29ebd1426_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/8/2/3/4430328/743f7a05-2884-48ff-a674-08c29ebd1426_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/743f7a05-2884-48ff-a674-08c29ebd1426_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/f3be928d-aa32-42b0-948c-c8368be2b7f2_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/72d24b03-fc0b-4ef0-8e85-33e24694863d_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/75bad02c-1af8-4ece-8d8a-0c5103f24fb6_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/1fb8f260-1793-449f-aead-b965457f966e_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/0b32b66d-d3c3-4f4a-9b81-5d75dfa62147_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/91af6a1a-1124-4608-b20b-85a957a170aa_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/84fe5c82-ab9b-43b0-91af-d0085ba8e46f_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/87de330b-b467-478a-be78-5f44576c6333_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/d9b52f40-f216-4c03-922e-df487fa581bf_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/f96a7498-bc67-4f6a-9453-74611996eef2_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/ff2532ce-cd05-46cf-a202-bb14aae18d1f_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/51202bc2-a742-476d-a966-3e15b9b71705_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/83bb630a-c2d2-4c84-8dc1-85c11ea17474_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/167a8424-23e2-4a05-9a67-0e0fd355bf55_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/434d8caa-e922-4db0-926f-e1ac7c0e5f5c_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/c77783fa-a016-4322-9d3c-856fc50b66a2_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/ec2ef96e-17ff-4bd6-8141-3d62f0a31e14_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/c4b8d3f0-2c2f-4542-997e-fbc5b7dbddd9_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/080f6778-f863-4e77-8006-3f6dd07719e6_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/1ab9b4f7-afb4-4d51-8fe5-95f6df210842_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/e94306a1-1713-43ca-9057-f2f46bbef1d8_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/3cae9683-543d-4518-ac79-bea808b59d3b_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/bfec4ee1-44c6-4a6a-8de1-b8612fa3ce8b_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/d3b7f7af-c9e8-4602-b1d5-6d239acbcc76_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/88042a46-c324-4f82-9249-e4d506f4dacb_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/89e50550-2a2e-491d-8b05-6429b07e5fe3_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/ea48988a-8f78-4009-bb1c-7bf6f9e59204_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/1b288708-177a-49ea-ad8e-e96d4861fca5_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/5c640ea3-8b41-49b4-abbe-372da48432ce_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/abbf5387-f858-4ca4-9581-02f95e3a12c8_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/6e2fb12c-cf50-4048-9884-f8685fc501b5_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/1d3a207f-f1a0-4091-b5e3-151cf1f2f2c6_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/afed061b-a810-4bd1-8f6a-5cddeb133174_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/2/3/4430328/4d83e293-0d35-41a3-83a8-b058c0d37ee1_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4423282
+    GroupId: 7558
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2020-05-08T14:52:32.9200000+01:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: yourhome@dngduffy.ie
+    GroupName: ''
+    GroupAddress: 66 Clanbrassil Street, Dundalk, Co. Louth
+    GroupUrlSlugIdentifier: dng-duffy
+    CreatedOnDate: '2020-03-27T16:26:55.1870000+00:00'
+    ActivatedOn: '2020-05-08T14:52:32.9200000+01:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/8/5/5/7558/logo.jpg
+    GroupUrl: "/estate-agents/dng-duffy-7558"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 5 beds
+    PriceAsString: "€350,000"
+    BrochureMap:
+      longitude: -6.46915817260742
+      latitude: 53.9724502563477
+    id: 4423282
+    SizeStringMeters: 289
+    PriceChangeIsIncrease: false
+    DisplayAddress: Crannard, Rathiddy Road, Knockbridge, Louth
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: B3
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/B3.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: crannard rathiddy road knockbridge louth
+    SeoDisplayAddress: crannard-rathiddy-road-knockbridge-louth
+    BrochureUrl: "/residential/brochure/crannard-rathiddy-road-knockbridge-louth/4423282"
+    SeoUrl: "/residential/brochure/crannard-rathiddy-road-knockbridge-louth/4423282"
+    PhotoCount: 27
+    MainPhoto: https://photos-a.propertyimages.ie/media/2/8/2/4423282/e18209fc-13c1-4eee-8c6e-ed66cfc951fc_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/2/8/2/4423282/e18209fc-13c1-4eee-8c6e-ed66cfc951fc_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/2/8/2/4423282/e18209fc-13c1-4eee-8c6e-ed66cfc951fc_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/8/2/4423282/62e7408f-8496-4b47-87a3-38ed5be0f4ba_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/8/2/4423282/b1c8bf99-bb83-4525-bd43-c40427fc16db_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/8/2/4423282/248ec135-cdcd-4709-9ac6-5ca680740cdb_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/8/2/4423282/a07fbb8a-ca76-493c-9659-be38e586aefd_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/8/2/4423282/96e513f0-c7a0-4afc-a543-c907b0979b93_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/8/2/4423282/1e4a8dc8-44b6-4959-8df9-29b87cdaba5f_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/8/2/4423282/14062094-00d6-4c5f-843a-9c3b35e6fb39_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/8/2/4423282/9e525e01-de16-417a-8368-2c9adef32741_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/8/2/4423282/95507bf1-a2c5-4366-9e31-4f146b9cab3d_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/8/2/4423282/f82d9500-af77-488c-984e-f2a2e5bf651f_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/8/2/4423282/5fb3d16b-7ab7-4441-b112-37e771266a77_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/8/2/4423282/045de009-dea6-4df3-b2cb-6e966d9b9cb7_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/8/2/4423282/2fa3b165-76de-406f-8fe4-5febed7837cc_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/8/2/4423282/0b632498-5098-4c7f-befc-263ab821e69e_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/8/2/4423282/38ef7ec9-26e1-4f61-9b9e-fff87cc89609_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/8/2/4423282/3dab0e6a-fa34-4682-aa25-35bcd8d925a9_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/8/2/4423282/0083b83d-041f-4b28-8aad-f8636a352020_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/8/2/4423282/d8cf9892-c963-4d43-9979-b7b391e0b788_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/8/2/4423282/a6732d98-eaa7-472d-8547-a5d3679a22ea_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/8/2/4423282/bc243a9c-2d5b-4fc7-a797-d32541bd95c8_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/8/2/4423282/bc26cea5-65fb-4c90-8bbc-d981ddf3444d_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/8/2/4423282/bb8e889d-8587-487d-856b-e113c8b3032d_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/8/2/4423282/d212f8df-c1a9-4ae8-bc8b-a7feda5f6763_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/8/2/4423282/b124d55c-cca5-4799-a44a-04661f86cf40_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/8/2/4423282/010bfc00-b4ea-4ea3-8543-ed8a26f8b7a2_l.jpg
+      - https://photos-a.propertyimages.ie/media/2/8/2/4423282/f6308841-07b2-41ff-b112-916667ccdb61_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4391870
+    GroupId: 5797
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2020-05-06T09:49:20.9570000+01:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: dkeogan@dng.ie
+    GroupName: ''
+    GroupAddress: Main Street, Virginia, Co. Cavan
+    GroupUrlSlugIdentifier: dng-odwyer
+    CreatedOnDate: '2019-11-26T10:38:23.5430000+00:00'
+    ActivatedOn: '2019-11-26T11:45:36.5330000+00:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/7/9/7/5797/logo.jpg
+    GroupUrl: "/estate-agents/dng-odwyer-5797"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 5 beds
+    PriceAsString: "€360,000"
+    BrochureMap:
+      longitude: -7.09378147125244
+      latitude: 53.8735885620117
+    id: 4391870
+    SizeStringMeters: 268.52
+    PriceChangeIsIncrease: false
+    DisplayAddress: Stramaquerty, Virginia, Cavan
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 2 baths
+    BerRating: B2
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/B2.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: stramaquerty virginia cavan
+    SeoDisplayAddress: stramaquerty-virginia-cavan
+    BrochureUrl: "/residential/brochure/stramaquerty-virginia-cavan/4391870"
+    SeoUrl: "/residential/brochure/stramaquerty-virginia-cavan/4391870"
+    PhotoCount: 34
+    MainPhoto: https://photos-a.propertyimages.ie/media/0/7/8/4391870/d2c38ccf-27f5-494f-bfac-018a741499f7_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/0/7/8/4391870/d2c38ccf-27f5-494f-bfac-018a741499f7_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/d2c38ccf-27f5-494f-bfac-018a741499f7_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/a5d51806-1b74-41c9-a667-81fa871098b3_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/3286c895-838d-4590-9460-f478a1b7e966_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/eb5a77f6-d463-4d60-a3ff-67c77b3c8196_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/ab0a899a-4be9-41f8-ba17-2ca29b878c11_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/54a065c5-05b0-4040-863d-b26254dad57a_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/dd16a99c-c097-404a-9d37-4d9b82cf5355_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/818020c8-1675-496f-96e2-0db3a2c3ea0b_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/a64048d7-276c-4f5a-99a4-d81045195aba_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/e4eb49c9-3bfb-4c79-b373-824c80c4c27b_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/0285eb77-c53c-49d8-8699-37ee327a4dbc_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/6e314b01-4bc1-428c-b830-8aa3bf9ba7b6_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/bcd6c0a2-fc9a-4587-8c76-8d644b39fba3_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/ada56bc3-c3de-4278-a01e-942f891ee0f7_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/45e2447f-7cdc-4118-b441-c912e6f104a7_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/6ce32e0f-dae0-4ede-b300-9e4c804a23d9_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/1ffe5c51-4055-491a-8113-9e703f47ad7b_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/1dd4bd7a-0854-48c9-81d2-11c27741c2eb_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/3dfa3aed-0711-4530-90a7-482c790b545a_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/7736216b-779e-4138-9600-5057da6bc455_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/e24d5299-b578-4a97-8754-650d7bdc067f_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/0b7c847f-f1d4-4d97-9903-f797aa5fe9ad_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/8bcb5450-3d44-4567-afcd-887e34538508_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/0550360c-a0cf-4ba6-9b7a-7f37abba868c_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/6004a08d-b29e-46a4-9006-0ab6ddb6706c_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/3c3c35e7-6eff-4c04-a1ff-fabad0c202fd_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/21c4bf5f-d248-4862-b46a-c90b4159028d_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/564fe4c5-5e23-4cb2-a03c-98f0e5d39747_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/ef13ca3d-22fc-468e-9a3f-593280e556f9_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/77b687bf-b5f7-48f4-b182-6476fca6cc7d_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/34a9bfa2-50d7-4b4d-bc77-7b7b529af177_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/43ed5640-565d-4307-8b0f-ad4315f3645f_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/4407971b-a678-422d-8648-13c3b06c4e82_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/7/8/4391870/da1e698a-ecbd-44b8-a308-3d516805b3c6_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4400791
+    GroupId: 10256
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2020-04-15T11:17:03.5700000+01:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: jearley@propertypartners.ie
+    GroupName: ''
+    GroupAddress: Stonecourt, The Square, Roscommon Town, Co. Roscommon
+    GroupUrlSlugIdentifier: property-partners-earley
+    CreatedOnDate: '2019-12-23T12:02:30.9170000+00:00'
+    ActivatedOn: '2019-12-23T12:11:18.2530000+00:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/6/5/2/10256/logo.jpg
+    GroupUrl: "/estate-agents/property-partners-earley-10256"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€395,000"
+    BrochureMap:
+      longitude: -8.05087375640869
+      latitude: 53.5466041564941
+    id: 4400791
+    SizeStringFeet: 2508
+    PriceChangeIsIncrease: false
+    DisplayAddress: 3 Harbour Court, Lecarrow, Roscommon
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: A3
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A3.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: 3 harbour court lecarrow roscommon
+    SeoDisplayAddress: 3-harbour-court-lecarrow-roscommon
+    BrochureUrl: "/residential/brochure/3-harbour-court-lecarrow-roscommon/4400791"
+    SeoUrl: "/residential/brochure/3-harbour-court-lecarrow-roscommon/4400791"
+    PhotoCount: 4
+    MainPhoto: https://photos-a.propertyimages.ie/media/1/9/7/4400791/23b8e5e9-b275-4a75-a8c8-068ba5bf0d79_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/1/9/7/4400791/23b8e5e9-b275-4a75-a8c8-068ba5bf0d79_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/1/9/7/4400791/23b8e5e9-b275-4a75-a8c8-068ba5bf0d79_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/9/7/4400791/158e1bec-11bc-4361-80b3-67a5144d9473_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/9/7/4400791/1dc3aab7-b9d7-4afa-9e65-c1df1e82e0be_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/9/7/4400791/6cc7bc98-c67e-4140-8fb0-b283a8b2defb_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4423149
+    GroupId: 294015
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2020-03-27T09:18:15.0230000+00:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: info@sfotoolemadden.ie
+    GroupName: ''
+    GroupAddress: St Brendan Street, Portumna, Galway / Church St. Loughrea Co. Galway
+    GroupUrlSlugIdentifier: ger-otoole-portumna
+    CreatedOnDate: '2020-03-27T09:17:54.4270000+00:00'
+    ActivatedOn: '2020-03-27T09:18:15.0230000+00:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/5/1/0/294015/logo.jpg
+    GroupUrl: "/estate-agents/ger-otoole-portumna-294015"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€340,000"
+    BrochureMap:
+      longitude: -8.43087196350098
+      latitude: 53.1915435791016
+    id: 4423149
+    SizeStringMeters: 239.5
+    PriceChangeIsIncrease: false
+    DisplayAddress: Corbaun, Gurtymadden, Loughrea, Co. Galway, H62 RW54
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 4 baths
+    BerRating: A3
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A3.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: corbaun gurtymadden loughrea co galway h62 rw54
+    SeoDisplayAddress: corbaun-gurtymadden-loughrea-co-galway-h62-rw54
+    BrochureUrl: "/residential/brochure/corbaun-gurtymadden-loughrea-co-galway-h62-rw54/4423149"
+    SeoUrl: "/residential/brochure/corbaun-gurtymadden-loughrea-co-galway-h62-rw54/4423149"
+    PhotoCount: 21
+    MainPhoto: https://photos-a.propertyimages.ie/media/9/4/1/4423149/905aa2b7-3802-4667-9f43-3e9572721308_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/9/4/1/4423149/905aa2b7-3802-4667-9f43-3e9572721308_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/905aa2b7-3802-4667-9f43-3e9572721308_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/fc0df9d2-c013-4c84-8da2-013afed4236b_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/42c89121-75b5-4f74-b123-af82dd9f8123_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/f2db745b-9012-4a8c-b4b2-60af9812277f_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/c40ca239-4600-4909-9a2f-a5c00555e6a9_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/f33a5793-c768-4072-9e79-a5392405fdfb_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/5004a4dd-8b1c-434c-84ab-9a7b0f960118_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/8f0715cc-e484-4eb1-84a1-1742d0436f0b_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/f60d6fc3-8bfc-423c-b67c-ffee5d53acc8_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/60461234-109d-47c5-980c-d9966ef96903_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/98eb1af8-7a76-45b1-a5aa-cf4287eae67c_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/d214997d-3e15-4f2f-9628-d8c6e3ec23a1_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/4c8aa7d5-85eb-47d6-a5b5-f70c18ce9af6_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/2536cbfa-8d49-4946-b0be-af03c3ce65f5_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/9f8b546d-e3d5-4b7a-bcd8-57ce5359beac_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/2f2195e2-9b8a-40ec-8012-4f8a98b928cf_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/7ad8b2c2-ce92-4479-9950-8b717886e1ec_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/cd421ab3-2058-45a2-96ae-293538f52255_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/2c0a9d1a-5c24-4caf-a68c-5f3ccdad4d8f_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/925d02fb-6c2a-4b5e-9b78-e1fb55cd8df0_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/4/1/4423149/92caccc0-79e1-4bc9-b60d-ad47a4a329eb_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4400706
+    GroupId: 5676
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2019-12-20T19:17:05.5730000+00:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: sfol@wexproperty.ie
+    GroupName: ''
+    GroupAddress: 11 Slaney Street, Enniscorthy, Co. Wexford
+    GroupUrlSlugIdentifier: sherry-fitzgerald-oleary
+    CreatedOnDate: '2019-12-20T19:17:00.7130000+00:00'
+    ActivatedOn: '2019-12-20T19:17:05.5730000+00:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/6/7/6/5676/logo.jpg
+    GroupUrl: "/estate-agents/sherry-fitzgerald-oleary-5676"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: false
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€495,000"
+    BrochureMap:
+      longitude: -6.39505577087402
+      latitude: 52.2675628662109
+    id: 4400706
+    SizeStringMeters: 177
+    PriceChangeIsIncrease: false
+    DisplayAddress: 3 Grange Lough, Rosslare Strand, Co. Wexford., Y35 FE00
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: A1
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A1.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: 3 grange lough rosslare strand co wexford y35 fe00
+    SeoDisplayAddress: 3-grange-lough-rosslare-strand-co-wexford-y35-fe00
+    BrochureUrl: "/residential/brochure/3-grange-lough-rosslare-strand-co-wexford-y35-fe00/4400706"
+    SeoUrl: "/residential/brochure/3-grange-lough-rosslare-strand-co-wexford-y35-fe00/4400706"
+    PhotoCount: 8
+    MainPhoto: https://photos-a.propertyimages.ie/media/6/0/7/4400706/8ab6f32d-b5ca-41fe-93d7-90eb57cff2e3_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/6/0/7/4400706/8ab6f32d-b5ca-41fe-93d7-90eb57cff2e3_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/6/0/7/4400706/8ab6f32d-b5ca-41fe-93d7-90eb57cff2e3_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/0/7/4400706/ab277e30-e015-4381-84a8-c30667ca3805_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/0/7/4400706/a2b0ff9f-9fba-4a55-adb2-73131adef128_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/0/7/4400706/fded2a67-5dd3-4126-aff5-1d7ce154c250_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/0/7/4400706/16071955-865d-48e2-9ae4-16ef8768820c_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/0/7/4400706/fa384531-2771-4d56-bd7e-06f0e832c2d7_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/0/7/4400706/ac9643b8-45ba-46cb-b8b3-b847d57acb47_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/0/7/4400706/87bc72c3-a6de-4f99-b921-b6b593218fa9_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4395140
+    GroupId: 283631
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2019-12-09T17:19:03.5600000+00:00'
+    GroupPhoneNumber: reynolds@propertypartners.ie
+    GroupName: ''
+    GroupAddress: 10 Lower main St., Letterkenny, Co. Donegal
+    GroupUrlSlugIdentifier: property-partners-paul-reynolds
+    CreatedOnDate: '2019-12-04T17:16:31.1870000+00:00'
+    ActivatedOn: '2019-12-09T17:19:03.5600000+00:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/1/3/6/283631/logo.jpg
+    GroupUrl: "/estate-agents/property-partners-paul-reynolds-283631"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: false
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€335,000"
+    id: 4395140
+    SizeStringMeters: 215
+    LatestPriceChangeString: "-€15,000 on 24th Mar 20"
+    PriceChangeIsIncrease: false
+    DisplayAddress: Legnahoorey, Kilmacrennan, Donegal
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: A2
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A2.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: legnahoorey kilmacrennan donegal
+    SeoDisplayAddress: legnahoorey-kilmacrennan-donegal
+    BrochureUrl: "/residential/brochure/legnahoorey-kilmacrennan-donegal/4395140"
+    SeoUrl: "/residential/brochure/legnahoorey-kilmacrennan-donegal/4395140"
+    PhotoCount: 19
+    MainPhoto: https://photos-a.propertyimages.ie/media/0/4/1/4395140/eddf8473-3b82-4744-bd68-08638cd496f9_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/0/4/1/4395140/eddf8473-3b82-4744-bd68-08638cd496f9_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/eddf8473-3b82-4744-bd68-08638cd496f9_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/eaf6b8ea-8c61-4ead-a373-85cd0f59300a_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/07782b9c-b73e-489d-8f70-c32683d4f594_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/92e0c64f-8ed9-46d8-bf1c-87d0a94afce3_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/bbc2fb4f-fa58-4726-9f4e-2b817171d0ef_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/0d57650c-035a-412c-a4e5-0b8ca681367c_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/45a859e1-5b18-4bc0-a908-0231567f4e47_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/f04ea96c-9fc1-40f4-b428-aab81078ebb3_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/17d9a8fd-7ca4-488c-8d29-f1ad592685dc_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/9dd4f0f1-02dc-4e8d-9fc7-f6fce51f84da_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/2aa7db6c-2aea-4f7c-a309-197d8cf8cd16_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/95d0789d-20f4-433a-b1d4-50662851c0d3_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/5aa5b8e7-2c1b-4fea-a858-e77f056aa934_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/83bd137e-3f87-4d35-a66e-c73482c4f6df_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/4ea2e750-2780-461d-aa21-db0d52001fa9_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/83394e68-6d3c-4dc2-9e32-2f8de4c89e1f_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/d33fe789-36e8-47d6-87fb-b01c7d33132c_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/566b6793-5819-4b5c-bede-7d94a5d324b8_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/4/1/4395140/e8bf71e6-be51-4ea7-9a45-25286576b85e_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4380820
+    GroupId: 387137
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2019-10-30T13:09:29.1430000+00:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: office@remaxplatinum.ie
+    GroupName: ''
+    GroupAddress: 9, South Main Street, Naas, Co Kildare
+    GroupUrlSlugIdentifier: remax-naas
+    CreatedOnDate: '2019-10-30T13:04:24.4100000+00:00'
+    ActivatedOn: '2019-10-30T13:09:29.1430000+00:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/7/3/1/387137/logo.jpg
+    GroupUrl: "/estate-agents/remax-naas-387137"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: false
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 4 beds
+    BrochureMap:
+      longitude: -6.80474662780762
+      latitude: 53.1750755310059
+    id: 4380820
+    SizeStringMeters: 348.87
+    PriceChangeIsIncrease: false
+    DisplayAddress: Ladytown, Newbridge, Kildare
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: A3
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A3.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: ladytown newbridge kildare
+    SeoDisplayAddress: ladytown-newbridge-kildare
+    BrochureUrl: "/residential/brochure/ladytown-newbridge-kildare/4380820"
+    SeoUrl: "/residential/brochure/ladytown-newbridge-kildare/4380820"
+    PhotoCount: 23
+    MainPhoto: https://photos-a.propertyimages.ie/media/0/2/8/4380820/bcf7e19f-6c49-4681-992b-31bddf2dd50a_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/0/2/8/4380820/bcf7e19f-6c49-4681-992b-31bddf2dd50a_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/0/2/8/4380820/bcf7e19f-6c49-4681-992b-31bddf2dd50a_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/2/8/4380820/af44b931-6cdd-4f46-be1b-7c63bc750efa_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/2/8/4380820/b4e6ae85-22d2-4d7c-a0c7-f4b2c27a1f53_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/2/8/4380820/311cf272-bcf3-436f-85cc-8cd61772a4b2_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/2/8/4380820/4d5db1d7-5d35-4013-93a8-df78e3f45453_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/2/8/4380820/d4267d2b-4c8f-4862-93b4-9e61cc27a8b6_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/2/8/4380820/cb9353b3-f101-438c-aa01-c068de50579c_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/2/8/4380820/71e6dc68-ef52-44ff-a8ed-c72ecbf534ed_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/2/8/4380820/ea0a510f-4a9d-4e82-a946-e4965969c32f_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/2/8/4380820/252c4578-b7b3-4262-bade-e36c39f4bd68_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/2/8/4380820/66a97e49-08e4-4632-922b-0af1f6e39847_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/2/8/4380820/7b48a933-8e98-440c-9267-fc9bcd0dd1d8_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/2/8/4380820/fd345ec0-3bca-4e13-9eb4-40144aba678b_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/2/8/4380820/595b3473-f434-4725-8223-723638ffbf37_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/2/8/4380820/edcc25b8-5917-4036-aaae-6c87f510faaf_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/2/8/4380820/1af34d25-895e-4c3f-b438-2082de6b213f_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/2/8/4380820/4a24c2e7-da80-411f-ac6a-c1f19b50e7cd_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/2/8/4380820/4728652e-8eab-458c-bab5-c14db1ece0ff_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/2/8/4380820/dca81d0f-c619-41e3-a825-a2b6f9a0c103_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/2/8/4380820/cd09191f-3fac-4c18-b95d-0ce484dedeee_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/2/8/4380820/42ac39ce-6652-4ff2-b5d8-17bb6e906196_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/2/8/4380820/3543cbb6-bb60-4691-b463-47f06ca54a0d_l.jpg
+      - https://photos-a.propertyimages.ie/media/0/2/8/4380820/e86aa1ff-83e5-418e-a9e2-ce463a01d9bc_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4379787
+    GroupId: 6061
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2019-10-23T17:05:39.9430000+01:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: info@dngelladunphy.com
+    GroupName: ''
+    GroupAddress: 9 Ormonde Street, Kilkenny City, Co. Kilkenny
+    GroupUrlSlugIdentifier: dng-ella-dunphy
+    CreatedOnDate: '2019-10-23T16:51:23.4930000+01:00'
+    ActivatedOn: '2019-10-23T17:05:39.9430000+01:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/1/6/0/6061/logo.jpg
+    GroupUrl: "/estate-agents/dng-ella-dunphy-6061"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: false
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: true
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€380,000"
+    BrochureMap:
+      longitude: -7.10289812088013
+      latitude: 52.3527183532715
+    id: 4379787
+    SizeStringMeters: 244.7
+    PriceChangeIsIncrease: false
+    DisplayAddress: Knockbrack, Glenmore, Kilkenny
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 4 baths
+    BerRating: B3
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/B3.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: knockbrack glenmore kilkenny
+    SeoDisplayAddress: knockbrack-glenmore-kilkenny
+    BrochureUrl: "/residential/brochure/knockbrack-glenmore-kilkenny/4379787"
+    SeoUrl: "/residential/brochure/knockbrack-glenmore-kilkenny/4379787"
+    PhotoCount: 21
+    MainPhoto: https://photos-a.propertyimages.ie/media/7/8/7/4379787/53c4c9dc-8409-4792-93fe-4396f4d34aa1_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/7/8/7/4379787/53c4c9dc-8409-4792-93fe-4396f4d34aa1_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/7/8/7/4379787/53c4c9dc-8409-4792-93fe-4396f4d34aa1_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/7/4379787/65868c5b-7a8c-4e13-93e6-033d37ece09c_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/7/4379787/bc9376f6-57ad-4421-92f5-7882633db1d6_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/7/4379787/b5a1de70-763a-420c-92fa-594c634e822e_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/7/4379787/06af7201-f11e-4f86-86bc-4e7aff33e607_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/7/4379787/af8b8431-eeb2-4623-b26f-b05d0f650395_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/7/4379787/c3b1d87b-85a8-4814-977b-b2ce64eb4a34_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/7/4379787/927fdf7f-fd47-48cf-98ae-24b51928c380_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/7/4379787/ce199489-dc03-4f38-a9a5-3c9d232c4be0_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/7/4379787/34b55f0a-102d-48c4-a5f8-1d7d8fb2833b_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/7/4379787/8f7c804f-5ca2-4885-a190-5e8e73326a0a_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/7/4379787/ae3a2b9b-0137-4fd9-9101-4c1a3e224b4b_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/7/4379787/6484e761-48a5-4bcc-a320-56106ee2cbee_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/7/4379787/4584ef49-01b7-44f0-ac56-c2521c84fd00_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/7/4379787/ccce9759-12a7-4204-8245-c8ca1d264866_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/7/4379787/08e5bad7-59dc-4e20-8d77-e80fd4acec99_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/7/4379787/0b787777-8ec4-4fa2-be5e-ee706dc66ea7_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/7/4379787/ad1c5b4c-5378-423f-a822-1a58732dcf5a_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/7/4379787/e11f02c3-8e9d-4fdc-95b6-ddf0ddb2562e_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/7/4379787/4c0a0178-be7d-4960-b5d2-4dec38483a6a_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/7/4379787/1a56b4b9-8780-4114-82f4-15533591bd8c_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4369487
+    GroupId: 7055
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2019-09-16T11:37:19.3230000+01:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: cusackdunne@dng.ie
+    GroupName: ''
+    GroupAddress: '9 Lower Mallow Street, Limerick City Centre, Co. Limerick, '
+    GroupUrlSlugIdentifier: dng-cusack-dunne
+    CreatedOnDate: '2019-09-16T11:32:53.0770000+01:00'
+    ActivatedOn: '2019-09-16T11:37:19.3230000+01:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/5/5/0/7055/logo.jpg
+    GroupUrl: "/estate-agents/dng-cusack-dunne-7055"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€548,000"
+    BrochureMap:
+      longitude: -8.69147300720215
+      latitude: 52.5601539611816
+    id: 4369487
+    SizeStringMeters: 386.38
+    LatestPriceChangeString: "-€22,000 on 17th Jun 20"
+    PriceChangeIsIncrease: false
+    DisplayAddress: Bettyville, Crecora, Limerick
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 5 baths
+    BerRating: B3
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/B3.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: bettyville crecora limerick
+    SeoDisplayAddress: bettyville-crecora-limerick
+    BrochureUrl: "/residential/brochure/bettyville-crecora-limerick/4369487"
+    SeoUrl: "/residential/brochure/bettyville-crecora-limerick/4369487"
+    PhotoCount: 20
+    MainPhoto: https://photos-a.propertyimages.ie/media/7/8/4/4369487/80f5f5ab-3a02-4cc8-8e3c-c185e21cc6dc_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/7/8/4/4369487/80f5f5ab-3a02-4cc8-8e3c-c185e21cc6dc_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/7/8/4/4369487/80f5f5ab-3a02-4cc8-8e3c-c185e21cc6dc_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/4/4369487/b4fe75cb-1728-41ca-8e1d-88cfff8dae8f_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/4/4369487/0cbd38ba-e7af-42aa-8edd-35b1db90b9f6_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/4/4369487/85bdf64d-df08-4548-9106-4ac96481ccc1_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/4/4369487/00c68b42-aa3f-4d42-89bf-59928b5a01e6_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/4/4369487/f5fedb1c-89af-4548-ad77-5a0a682fb239_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/4/4369487/f6ec0b68-88ea-482c-b54b-fe1cef71676a_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/4/4369487/10e98f92-eb46-4639-a298-989b2194bab8_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/4/4369487/2f7c67dd-e705-4b83-a39b-1d8c7dca9805_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/4/4369487/7ed6b56f-eacc-4ab7-8b2d-5bdfe02200e5_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/4/4369487/d1a405d0-ac4b-4546-afc7-5d07e46254b7_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/4/4369487/1ee96dda-aa9d-4121-beb9-e71473c0f00e_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/4/4369487/d92a0937-f9d9-4bd2-935b-1bf7bf2459b8_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/4/4369487/a4167208-01de-4cb1-b945-1a4faabde342_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/4/4369487/f2d9e665-e92b-4b44-ac39-4cbabdcd7404_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/4/4369487/f5ecef5a-aaf2-42e2-837f-127703b3d2ee_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/4/4369487/d4a54fe0-5dd2-4bce-808e-86072a77266f_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/4/4369487/72478c30-f00c-49e0-8ecf-f9a50447dbd4_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/4/4369487/3d2fe0ec-26d9-4d7b-a184-0a5ed5cabca0_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/8/4/4369487/81b10a51-29ee-451a-a7e6-8b2bc1858661_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4352291
+    GroupId: 9235
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2019-07-16T14:08:57.6800000+01:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: humphreyhogan@eircom.net
+    GroupName: ''
+    GroupAddress: Tower Cross, Blarney, Co. Cork
+    GroupUrlSlugIdentifier: humphrey-hogan-associates
+    CreatedOnDate: '2019-07-16T14:07:01.3030000+01:00'
+    ActivatedOn: '2019-07-16T14:08:57.6800000+01:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/5/3/2/9235/logo.jpg
+    GroupUrl: "/estate-agents/humphrey-hogan-associates-9235"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: false
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: true
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€425,000"
+    BrochureMap:
+      longitude: -8.69640159606934
+      latitude: 51.9870910644531
+    id: 4352291
+    SizeStringMeters: 199.6
+    LatestPriceChangeString: "€5,050 on 22nd Aug 19"
+    PriceChangeIsIncrease: true
+    DisplayAddress: Foxwood ,Firmount , Blarney, Cork
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: A3
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A3.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: foxwood firmount  blarney cork
+    SeoDisplayAddress: foxwood-firmount-blarney-cork
+    BrochureUrl: "/residential/brochure/foxwood-firmount-blarney-cork/4352291"
+    SeoUrl: "/residential/brochure/foxwood-firmount-blarney-cork/4352291"
+    PhotoCount: 13
+    MainPhoto: https://photos-a.propertyimages.ie/media/1/9/2/4352291/be1e5383-7601-4632-b7a6-ba84b885ed2e_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/1/9/2/4352291/be1e5383-7601-4632-b7a6-ba84b885ed2e_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/1/9/2/4352291/be1e5383-7601-4632-b7a6-ba84b885ed2e_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/9/2/4352291/518b7ccd-9861-4d0a-b342-d892347aa195_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/9/2/4352291/31f2a3c3-4239-475f-a2c6-0dbaba61e6bc_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/9/2/4352291/70045014-beba-451b-93bb-6f9484accefb_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/9/2/4352291/7f2538b2-2216-4092-bf22-a7ae21f41e17_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/9/2/4352291/89306550-cb55-4f84-b19b-5c983bf22044_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/9/2/4352291/7737c52f-0ef0-46f7-a215-e3f497af8fd0_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/9/2/4352291/951f30b9-b8d5-45c5-bec2-fd334400d047_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/9/2/4352291/e7d7d3f3-38e4-465e-bf79-c81b6e4febe1_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/9/2/4352291/f8e44f8c-231b-45eb-aa0a-e39dc7c849e4_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/9/2/4352291/a7ae5f55-f65e-4558-ac64-5c97db87ac02_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/9/2/4352291/590fe367-253e-4673-a814-76649e1cb17b_l.jpg
+      - https://photos-a.propertyimages.ie/media/1/9/2/4352291/00cf9575-87d8-4043-80a0-0171afc299bf_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4347059
+    GroupId: 5571
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2019-06-27T17:07:10.8770000+01:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: galway@sherryfitz.ie
+    GroupName: ''
+    GroupAddress: One Galway Central, Forster Street, Galway
+    GroupUrlSlugIdentifier: sherry-fitzgerald-galway
+    CreatedOnDate: '2019-06-27T17:07:00.3270000+01:00'
+    ActivatedOn: '2019-06-27T17:07:10.8770000+01:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/1/7/5/5571/logo.jpg
+    GroupUrl: "/estate-agents/sherry-fitzgerald-galway-5571"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 4 beds
+    BrochureMap:
+      longitude: -9.17201900482178
+      latitude: 53.3317794799805
+    id: 4347059
+    SizeStringMeters: 141.2
+    PriceChangeIsIncrease: false
+    DisplayAddress: Radharc an Locha, Ballyquirke West, Moycullen, Co. Galway
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: A3
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A3.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: radharc an locha ballyquirke west moycullen co galway
+    SeoDisplayAddress: radharc-an-locha-ballyquirke-west-moycullen-co-galway
+    BrochureUrl: "/residential/brochure/radharc-an-locha-ballyquirke-west-moycullen-co-galway/4347059"
+    SeoUrl: "/residential/brochure/radharc-an-locha-ballyquirke-west-moycullen-co-galway/4347059"
+    PhotoCount: 8
+    MainPhoto: https://photos-a.propertyimages.ie/media/9/5/0/4347059/f5d2647f-29a1-4233-8a1c-83b351781602_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/9/5/0/4347059/f5d2647f-29a1-4233-8a1c-83b351781602_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/9/5/0/4347059/f5d2647f-29a1-4233-8a1c-83b351781602_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/5/0/4347059/5c2ee45d-d3fc-4117-b36e-aa15e0527121_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/5/0/4347059/e97c3b25-4eb5-45ea-81cb-44006cc5dbf2_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/5/0/4347059/4578508f-f8c1-4096-88eb-2f42a2bc4ad7_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/5/0/4347059/c6edc291-5b59-43bd-9a79-333eab5de9a0_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/5/0/4347059/ac8a741e-bdac-4537-8605-9546edb5639d_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/5/0/4347059/d92c0170-fd22-4345-9747-1e2cc4acb1f5_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/5/0/4347059/49cc4a8a-d4fc-4603-aac9-a794ef5662bf_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4322616
+    GroupId: 10256
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2019-06-13T18:34:23.2800000+01:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: jearley@propertypartners.ie
+    GroupName: ''
+    GroupAddress: Stonecourt, The Square, Roscommon Town, Co. Roscommon
+    GroupUrlSlugIdentifier: property-partners-earley
+    CreatedOnDate: '2019-03-28T14:28:50.1800000+00:00'
+    ActivatedOn: '2019-06-13T18:34:23.2800000+01:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/6/5/2/10256/logo.jpg
+    GroupUrl: "/estate-agents/property-partners-earley-10256"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€395,000"
+    BrochureMap:
+      longitude: -8.05151844024658
+      latitude: 53.5433044433594
+    id: 4322616
+    SizeStringFeet: 2508
+    PriceChangeIsIncrease: false
+    DisplayAddress: 3 Harbour Court, Lecarrow, Roscommon
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: A3
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A3.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: 3 harbour court lecarrow roscommon
+    SeoDisplayAddress: 3-harbour-court-lecarrow-roscommon
+    BrochureUrl: "/residential/brochure/3-harbour-court-lecarrow-roscommon/4322616"
+    SeoUrl: "/residential/brochure/3-harbour-court-lecarrow-roscommon/4322616"
+    PhotoCount: 4
+    MainPhoto: https://photos-a.propertyimages.ie/media/6/1/6/4322616/3a9531f9-f0f9-4134-b07b-94d2ad33464d_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/6/1/6/4322616/3a9531f9-f0f9-4134-b07b-94d2ad33464d_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/6/1/6/4322616/3a9531f9-f0f9-4134-b07b-94d2ad33464d_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/1/6/4322616/cd152b05-c014-4370-b753-22bb68f776cd_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/1/6/4322616/a5a0d7d4-6c01-4fc9-ae58-cf97b51cdc08_l.jpg
+      - https://photos-a.propertyimages.ie/media/6/1/6/4322616/59b3878b-f3ee-4530-8bca-64417b83fafa_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4294784
+    GroupId: 5571
+    CustomData:
+      RelatedPropertyIDs:
+        - 4294824
+      IsMyHomePassport: false
+    RefreshedOn: '2018-11-14T19:06:30.6170000+00:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: galway@sherryfitz.ie
+    GroupName: ''
+    GroupAddress: One Galway Central, Forster Street, Galway
+    GroupUrlSlugIdentifier: sherry-fitzgerald-galway
+    CreatedOnDate: '2018-11-14T19:06:25.0700000+00:00'
+    ActivatedOn: '2018-11-14T19:06:30.6170000+00:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/1/7/5/5571/logo.jpg
+    GroupUrl: "/estate-agents/sherry-fitzgerald-galway-5571"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 4 beds
+    BrochureMap:
+      longitude: -8.97161293029785
+      latitude: 53.271728515625
+    id: 4294784
+    SizeStringMeters: 243
+    PriceChangeIsIncrease: false
+    DisplayAddress: The Curlew, Béal Taoide, Coast Road, Oranmore, Co. Galway
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 4 baths
+    BerRating: A2
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A2.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: the curlew béal taoide coast road oranmore co galway
+    SeoDisplayAddress: the-curlew-béal-taoide-coast-road-oranmore-co-galway
+    BrochureUrl: "/residential/brochure/the-curlew-b-al-taoide-coast-road-oranmore-co-galway/4294784"
+    SeoUrl: "/residential/brochure/the-curlew-b-al-taoide-coast-road-oranmore-co-galway/4294784"
+    PhotoCount: 6
+    MainPhoto: https://photos-a.propertyimages.ie/media/4/8/7/4294784/af567d34-1c59-443c-8980-ccc0608904e3_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/4/8/7/4294784/af567d34-1c59-443c-8980-ccc0608904e3_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/4/8/7/4294784/af567d34-1c59-443c-8980-ccc0608904e3_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/8/7/4294784/4ec03104-bbee-4054-be19-a6b7ce522b09_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/8/7/4294784/743b4223-1f83-475c-aaa4-f2e7d9a4a9c3_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/8/7/4294784/491dbe26-25b3-4ab9-95a0-25377a3715b9_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/8/7/4294784/af4ec1b5-3db9-465d-8603-6678b78123b3_l.jpg
+      - https://photos-a.propertyimages.ie/media/4/8/7/4294784/bf42d8fe-251e-41e9-a60c-bab9f170a741_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4291422
+    GroupId: 10532
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2018-10-31T12:40:20.2370000+00:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: emma@odj.ie
+    GroupName: ''
+    GroupAddress: 5 Mary Street, Galway, Co. Galway
+    GroupUrlSlugIdentifier: odonnellan-joyce-auctioneers-ltd
+    CreatedOnDate: '2018-10-31T11:21:39.5200000+00:00'
+    ActivatedOn: '2018-10-31T12:40:20.2370000+00:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/2/3/5/10532/logo.jpg
+    GroupUrl: "/estate-agents/odonnellan-joyce-auctioneers-ltd-10532"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: ''
+    BrochureMap:
+      longitude: -8.87748527526855
+      latitude: 53.232105255127
+    id: 4291422
+    SizeStringMeters: 316
+    NewHomeSizeString: 241 - 316
+    PriceChangeIsIncrease: false
+    DisplayAddress: Redington Woods, Clairinbridge, Clarinbridge, Galway
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BerRating: A2
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A2.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: redington woods clairinbridge clarinbridge galway
+    SeoDisplayAddress: redington-woods-clairinbridge-clarinbridge-galway
+    BrochureUrl: "/residential/brochure/redington-woods-clairinbridge-clarinbridge-galway/4291422"
+    SeoUrl: "/residential/brochure/redington-woods-clairinbridge-clarinbridge-galway/4291422"
+    PhotoCount: 1
+    MainPhoto: https://photos-a.propertyimages.ie/media/2/2/4/4291422/d66d276b-70c4-4099-928f-c87a79a4df6b_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/2/2/4/4291422/d66d276b-70c4-4099-928f-c87a79a4df6b_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/2/2/4/4291422/d66d276b-70c4-4099-928f-c87a79a4df6b_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4256558
+    GroupId: 11126
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2018-07-05T14:55:12.3400000+01:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: info@franklins.ie
+    GroupName: ''
+    GroupAddress: Oliver Plunkett Street, Letterkenny, Co. Donegal
+    GroupUrlSlugIdentifier: franklins
+    CreatedOnDate: '2018-07-05T14:46:25.6700000+01:00'
+    ActivatedOn: '2018-07-05T14:55:12.3400000+01:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/6/2/1/11126/logo.jpg
+    GroupUrl: "/estate-agents/franklins-11126"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: false
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: true
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€359,950"
+    BrochureMap:
+      longitude: -7.48135280609131
+      latitude: 55.0914268493652
+    id: 4256558
+    SizeStringFeet: 3000
+    LatestPriceChangeString: "-€15,050 on 27th Mar 19"
+    PriceChangeIsIncrease: false
+    DisplayAddress: 10 Cara Mullan Heights , Fahan, Donegal
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: A2
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A2.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: 10 cara mullan heights  fahan donegal
+    SeoDisplayAddress: 10-cara-mullan-heights-fahan-donegal
+    BrochureUrl: "/residential/brochure/10-cara-mullan-heights-fahan-donegal/4256558"
+    SeoUrl: "/residential/brochure/10-cara-mullan-heights-fahan-donegal/4256558"
+    PhotoCount: 17
+    MainPhoto: https://photos-a.propertyimages.ie/media/8/5/5/4256558/92eb22b4-45ea-477a-9b14-defd5d92882d_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/8/5/5/4256558/92eb22b4-45ea-477a-9b14-defd5d92882d_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/8/5/5/4256558/92eb22b4-45ea-477a-9b14-defd5d92882d_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/5/5/4256558/020f804d-abdd-457b-808c-b5dbcbb1139a_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/5/5/4256558/84519797-a59e-44ca-a798-a6b04baadd27_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/5/5/4256558/c31ff62f-106a-41a0-92bb-9b8d3e94543d_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/5/5/4256558/6b923579-6d58-4e74-a5e6-4faeb7d202bc_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/5/5/4256558/9af87a67-a621-4f3c-bab4-cb7db3e02260_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/5/5/4256558/82c0f39f-4171-42e1-8045-e80bfdab9ce1_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/5/5/4256558/1115845d-d675-49af-81f5-60a767b52747_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/5/5/4256558/26966f1a-d7c3-43b9-b548-c16cb39abbb5_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/5/5/4256558/16a6397e-e778-4872-93ae-7cb6600703cd_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/5/5/4256558/58905243-cfeb-47d4-b186-ea16494d98c4_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/5/5/4256558/6e1e9180-1591-47a1-8a37-adf4d3e8aa74_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/5/5/4256558/e9cfe453-839f-4009-889b-34b4adfffbb4_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/5/5/4256558/6dbe8129-c98d-4cca-90ed-cad3765d4c76_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/5/5/4256558/cd06d9e1-ffab-43c4-8424-45b5a2f3b1b4_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/5/5/4256558/b86e01c0-2aad-4595-99e9-563d7acb2cf9_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/5/5/4256558/8471225d-d58d-41c1-b1fb-ee5d4139556b_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4254608
+    GroupId: 5890
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2018-06-29T11:05:30.6970000+01:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: info@keaneauctioneers.com
+    GroupName: ''
+    GroupAddress: Custom House Quay, Wexford, Ireland
+    GroupUrlSlugIdentifier: keane-auctioneers
+    CreatedOnDate: '2018-06-29T10:53:28.4870000+01:00'
+    ActivatedOn: '2018-06-29T11:05:30.6970000+01:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/0/9/8/5890/logo.jpg
+    GroupUrl: "/estate-agents/keane-auctioneers-5890"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 4 beds
+    PriceAsString: "€399,000"
+    BrochureMap:
+      longitude: -6.49272394180298
+      latitude: 52.3231010437012
+    id: 4254608
+    PriceChangeIsIncrease: false
+    DisplayAddress: Killeens, Clonard, Wexford Town, Wexford
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: B2
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/B2.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: killeens clonard wexford town wexford
+    SeoDisplayAddress: killeens-clonard-wexford-town-wexford
+    BrochureUrl: "/residential/brochure/killeens-clonard-wexford-town-wexford/4254608"
+    SeoUrl: "/residential/brochure/killeens-clonard-wexford-town-wexford/4254608"
+    PhotoCount: 30
+    MainPhoto: https://photos-a.propertyimages.ie/media/8/0/6/4254608/5edf495b-96c7-40dd-bfd6-4613887c5813_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/8/0/6/4254608/5edf495b-96c7-40dd-bfd6-4613887c5813_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/5edf495b-96c7-40dd-bfd6-4613887c5813_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/6534fbb6-0d3f-4e3b-9d12-78cd0070a62a_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/987606b4-accf-4890-9df2-956a1941d977_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/96cab207-7113-42d7-8af7-6351162ccf6e_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/1925d0ce-c458-4a2b-9d0c-e186cac1de1b_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/95ccaab0-e7dd-430e-bfb1-41c499da49e3_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/de6ede8c-8195-40b7-a889-9f879b875ed1_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/31394824-7e2a-40d7-9587-addfa132c102_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/b94593cc-268d-4078-aedc-ae7b2baf1b1b_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/aca75289-9107-49d4-9d68-e1926dc5f590_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/4059397f-998b-46fd-a6b6-2972996d7675_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/9656f6eb-1eb4-4634-988e-314d06189f26_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/1bddce71-8ca3-411b-a45f-82df654173d7_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/b7532d5a-3ce7-4500-8d55-5482e8a9138b_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/4f7d2501-26ff-45fc-8f73-1430c0278724_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/3c96683e-7fbc-4ff2-97e1-3c90f5b848ae_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/eb88c4c7-3445-4552-8842-b7284337b5c3_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/58f73789-c06b-49f4-9b37-ce1d30b4504d_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/e34c3eb4-d56f-460f-9d9f-9ee667e792b7_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/79ab45bf-7064-43ad-9853-9044be988e41_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/e064efad-11fc-4348-8539-80eaf065f6bc_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/43df9bcd-f091-4c14-96bb-51aac17bd417_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/78fdb248-36e4-4d04-a3f9-6d6f640e214f_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/bb6a90e1-d70a-47d6-8427-86c2e13e5450_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/df752330-7677-4151-81c9-718c7d875a83_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/c7f027ce-c73f-4d58-bd96-96924248a1e9_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/2560110e-e2c7-4fc2-a832-da1d82b6dc3a_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/2462effe-9f01-4565-9c27-3d602e82aaeb_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/82bbe08c-be23-4565-b65e-81c72e0232ed_l.jpg
+      - https://photos-a.propertyimages.ie/media/8/0/6/4254608/05201de7-39c1-48df-9770-f6a3522845f2_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4233619
+    GroupId: 283631
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2018-05-03T15:10:40.8000000+01:00'
+    GroupPhoneNumber: reynolds@propertypartners.ie
+    GroupName: ''
+    GroupAddress: 10 Lower main St., Letterkenny, Co. Donegal
+    GroupUrlSlugIdentifier: property-partners-paul-reynolds
+    CreatedOnDate: '2018-05-02T21:43:53.7470000+01:00'
+    ActivatedOn: '2018-05-03T15:10:40.8000000+01:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/1/3/6/283631/logo.jpg
+    GroupUrl: "/estate-agents/property-partners-paul-reynolds-283631"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: false
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 4 beds
+    id: 4233619
+    SizeStringFeet: 2152
+    PriceChangeIsIncrease: false
+    DisplayAddress: Callan, Drumkeen, Donegal
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 3 baths
+    BerRating: A3
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/A3.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: callan drumkeen donegal
+    SeoDisplayAddress: callan-drumkeen-donegal
+    BrochureUrl: "/residential/brochure/callan-drumkeen-donegal/4233619"
+    SeoUrl: "/residential/brochure/callan-drumkeen-donegal/4233619"
+    PhotoCount: 5
+    MainPhoto: https://photos-a.propertyimages.ie/media/9/1/6/4233619/72279368-1c95-4e0f-a9bd-8623950f4c06_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/9/1/6/4233619/72279368-1c95-4e0f-a9bd-8623950f4c06_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/9/1/6/4233619/72279368-1c95-4e0f-a9bd-8623950f4c06_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/1/6/4233619/6c2c3e74-24ee-4758-9669-5ba913492056_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/1/6/4233619/f3d0572d-5949-44c4-8b14-16096d5f6aba_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/1/6/4233619/5906c855-7074-46c9-8fd8-d4f7efd52aaf_l.jpg
+      - https://photos-a.propertyimages.ie/media/9/1/6/4233619/bca13fc4-15c2-44c3-b210-a371056a524d_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 4091977
+    GroupId: 5672
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2017-07-31T13:02:25.5970000+01:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: claire@sherryfitzomeara.ie
+    GroupName: ''
+    GroupAddress: 32 Mardyke Street, Athlone, Co. Westmeath
+    GroupUrlSlugIdentifier: sherry-fitzgerald-omeara
+    CreatedOnDate: '2017-07-31T13:01:23.1870000+01:00'
+    ActivatedOn: '2017-07-31T13:02:25.5970000+01:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/2/7/6/5672/logo.jpg
+    GroupUrl: "/estate-agents/sherry-fitzgerald-omeara-5672"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: true
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 5 beds
+    PriceAsString: "€425,000"
+    BrochureMap:
+      longitude: -7.85115814208984
+      latitude: 53.5089836120605
+    id: 4091977
+    SizeStringMeters: 291.7
+    LatestPriceChangeString: "-€25,000 on 21st Sep 18"
+    PriceChangeIsIncrease: false
+    DisplayAddress: Lurgan, Glasson, Athlone, Co. Westmeath, N37 RD28
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 5 baths
+    BerRating: B3
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/B3.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: lurgan glasson athlone co westmeath n37 rd28
+    SeoDisplayAddress: lurgan-glasson-athlone-co-westmeath-n37-rd28
+    BrochureUrl: "/residential/brochure/lurgan-glasson-athlone-co-westmeath-n37-rd28/4091977"
+    SeoUrl: "/residential/brochure/lurgan-glasson-athlone-co-westmeath-n37-rd28/4091977"
+    PhotoCount: 28
+    MainPhoto: https://photos-a.propertyimages.ie/media/7/7/9/4091977/cd7b390f-5308-40ba-9b77-20ee031458ab_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/7/7/9/4091977/cd7b390f-5308-40ba-9b77-20ee031458ab_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/7/7/9/4091977/cd7b390f-5308-40ba-9b77-20ee031458ab_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/9/4091977/1ff38cbc-3acd-4de9-8dad-327476ceafe4_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/9/4091977/cc791900-fbd0-4352-93fa-aa7b5f411d2b_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/9/4091977/8a594a84-c7f9-4557-93f3-a4ee0137f899_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/9/4091977/ddfd6e8c-b865-4b95-a1ff-8317375e5b54_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/9/4091977/adaca5da-5f82-4af2-a810-5ae768f74c76_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/9/4091977/799bb738-4f22-4148-8f51-dbf99f79b825_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/9/4091977/78c71fd1-e845-4b89-b0e3-280496e25a5c_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/9/4091977/50450ab8-858f-4b6a-b140-eced7a8623aa_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/9/4091977/463c0234-fe78-45d5-ac67-d843fb9cba8a_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/9/4091977/3a10009e-25ae-4b25-bda2-74f26038a005_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/9/4091977/871cca3a-5c94-448d-b2c7-64b6bc12c9e9_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/9/4091977/72cdbc09-53b7-478b-ab2c-5890ac704727_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/9/4091977/a730f102-7244-4bed-96a7-18febcd3bd3b_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/9/4091977/a462f971-dddb-4f21-9b73-f552e4a827c5_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/9/4091977/694f309d-cefb-4626-a186-0dfc0db58d38_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/9/4091977/69c52d08-bbe4-4c57-a4dd-d9a85d0ba4fa_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/9/4091977/29b7578d-1c1d-4034-a634-4ad02afc5eb6_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/9/4091977/d3db4cf2-a0b3-4c5c-86ec-217ff180e402_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/9/4091977/3a94ba0b-e217-4464-bc3f-46b3d1293a23_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/9/4091977/805d01b5-4946-4a50-8d73-2d2f2c761195_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/9/4091977/fe5ca70f-fa06-416d-98a9-0229d4d23f44_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/9/4091977/798f8f8b-4a56-4c29-8dec-d7e114f5b1e3_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/9/4091977/87024e90-aaca-42ea-8d2b-a02ddb73428d_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/9/4091977/14d92e15-2387-4bdf-9f4f-2d7ed54ff171_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/9/4091977/dc10c6ec-5bfd-42ea-bd5e-e2eba3eed5b4_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/9/4091977/911439a2-4486-4664-b41c-34a7f4d4bc94_l.jpg
+      - https://photos-a.propertyimages.ie/media/7/7/9/4091977/cfb6223c-2f53-475a-b100-343a3b74d54c_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+  - PropertyId: 3587033
+    GroupId: 10256
+    CustomData:
+      RelatedPropertyIDs: []
+      IsMyHomePassport: false
+    RefreshedOn: '2016-04-25T11:30:34.7330000+01:00'
+    Location:
+      Latitude: 0
+      Longtitude: 0
+    GroupPhoneNumber: jearley@propertypartners.ie
+    GroupName: ''
+    GroupAddress: Stonecourt, The Square, Roscommon Town, Co. Roscommon
+    GroupUrlSlugIdentifier: property-partners-earley
+    CreatedOnDate: '2016-04-25T11:26:33.9600000+01:00'
+    ActivatedOn: '2016-04-25T11:30:34.7330000+01:00'
+    IsNew: false
+    IsSaleAgreed: false
+    GroupLogoUrl: https://photos-a.propertyimages.ie/groups/6/5/2/10256/logo.jpg
+    GroupUrl: "/estate-agents/property-partners-earley-10256"
+    IsPremiumAd: false
+    IsPrivateLandlord: false
+    IsBrandBooster: true
+    IsActive: true
+    SaleTypeId: 17
+    IsFavourite: false
+    HasVideos: false
+    IsMappedAccurately: false
+    IsTopSpot: false
+    BedsString: 6 beds
+    PriceAsString: "€375,000"
+    BrochureMap:
+      longitude: -8.27408123016357
+      latitude: 53.5804634094238
+    id: 3587033
+    SizeStringFeet: 4584
+    PriceChangeIsIncrease: false
+    DisplayAddress: Bellanacarrow, Athleague, Roscommon
+    PropertyClassId: 1
+    PropertyClass: ResidentialForSale
+    PropertyClassUrlSlug: residential
+    PropertyStatus: ForSale
+    PropertyType: Detached House
+    BathString: 5 baths
+    BerRating: B3
+    EnergyRatingMediaPath: "//photos-a.propertyimages.ie/static/images/energyRating/B3.png"
+    OpenViewings: []
+    VirtualViewings: []
+    OrderedDisplayAddress: bellanacarrow athleague roscommon
+    SeoDisplayAddress: bellanacarrow-athleague-roscommon
+    BrochureUrl: "/residential/brochure/bellanacarrow-athleague-roscommon/3587033"
+    SeoUrl: "/residential/brochure/bellanacarrow-athleague-roscommon/3587033"
+    PhotoCount: 15
+    MainPhoto: https://photos-a.propertyimages.ie/media/3/3/0/3587033/7fecdb90-6db5-4d1e-a37c-b8284b359946_l.jpg
+    MainPhotoWeb: https://photos-a.propertyimages.ie/media/3/3/0/3587033/7fecdb90-6db5-4d1e-a37c-b8284b359946_m.jpg
+    Photos:
+      - https://photos-a.propertyimages.ie/media/3/3/0/3587033/7fecdb90-6db5-4d1e-a37c-b8284b359946_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/3/0/3587033/866cb359-c2a6-419d-b423-e14cb2a44de3_l.jpeg
+      - https://photos-a.propertyimages.ie/media/3/3/0/3587033/cb722287-177d-4da2-af39-b7fbd864257f_l.jpeg
+      - https://photos-a.propertyimages.ie/media/3/3/0/3587033/7886582c-57ee-435d-9b4e-b5e75add1449_l.jpeg
+      - https://photos-a.propertyimages.ie/media/3/3/0/3587033/40849c98-67c5-4b17-8b69-6d03d6dd45b4_l.jpeg
+      - https://photos-a.propertyimages.ie/media/3/3/0/3587033/2868fe5c-563b-4768-b645-9545e15b505c_l.jpeg
+      - https://photos-a.propertyimages.ie/media/3/3/0/3587033/2c3a4751-1e68-4971-8544-42a57e29070a_l.jpeg
+      - https://photos-a.propertyimages.ie/media/3/3/0/3587033/682234d3-0344-4480-a28f-423a31e60d11_l.jpeg
+      - https://photos-a.propertyimages.ie/media/3/3/0/3587033/71a092b6-ea1c-4ef6-8668-f8a0b30ee5ae_l.jpeg
+      - https://photos-a.propertyimages.ie/media/3/3/0/3587033/baa4c8fa-1cb0-4a5e-8e7d-7d453da6f14a_l.jpeg
+      - https://photos-a.propertyimages.ie/media/3/3/0/3587033/b6d2ecd7-f919-4f9e-b017-019e2ac983ee_l.jpeg
+      - https://photos-a.propertyimages.ie/media/3/3/0/3587033/d7720b18-451e-4fb9-8c0d-41b06388e800_l.jpeg
+      - https://photos-a.propertyimages.ie/media/3/3/0/3587033/8ecc3e5a-2bff-479f-a5d6-153e197ea088_l.jpeg
+      - https://photos-a.propertyimages.ie/media/3/3/0/3587033/405fc1ed-f21c-49e5-b385-21c90693ec42_l.jpg
+      - https://photos-a.propertyimages.ie/media/3/3/0/3587033/4e7d58da-e395-4331-8ffe-750af61a6b23_l.jpg
+    TravelTimes: []
+    AuctionList: []
+    AdditionalLogoUrls: []
+SavedSearches:
+  - UserId: 406984
+    Title: Property for sale in Ireland
+    SeoUrl: "/residential/ireland/property-for-sale?types=39|40&minenergyrating=100&maxprice=500000&minbeds=2&minbathrooms=2&minsize=125&query=Recovery+ventillation"
+    SavedSearchId: 489697
+FavouriteCount: 0
+SavedSearchesCount: 0
+Results: []
+ResultCount: 49
+Page: 1
+PageSize: 20
+Version: 1

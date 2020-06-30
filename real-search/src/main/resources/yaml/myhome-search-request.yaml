@@ -1,0 +1,34 @@
+---
+ApiKey: 5f4bc74f-8d9a-41cb-ab85-a1b7cfc86622
+CorrelationId: 3fedd27b-7b61-4437-9b95-bef13f6fda3b
+SessionId: 11ff1047e4e64c9aba937183b051841b
+RequestTypeId: 2
+RequestVerb: POST
+Endpoint: https://api.myhome.ie/search
+Page: '1'
+PageSize: 20
+SortColumn: 2
+SortDirection: 2
+SearchRequest:
+  PropertyClassIds:
+    - 1
+  PropertyStatusIds:
+    - 2
+    - 12
+  PropertyTypeIds:
+    - 39
+    - 40
+  RegionId: 2168
+  LocalityIds: []
+  MaxPrice: 500000
+  MinBeds: 2
+  MinSize: 125
+  MinBathrooms: 2
+  MinEnergyRating: 100
+  Query: Recovery ventillation
+  ChannelIds:
+    - 1
+  Destinations: []
+  IsBoundsSearch: false
+  SaleTypeIds: []
+  Polygons: []

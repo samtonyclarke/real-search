@@ -1,0 +1,2648 @@
+{
+    "queryState": {
+        "pagination": {},
+        "mapBounds": {
+            "west": -97.87848472595215,
+            "east": -72.17047691345215,
+            "south": 26.526877449686918,
+            "north": 43.562294797762625
+        },
+        "isMapVisible": true,
+        "mapZoom": 6,
+        "filterState": {
+            "price": {
+                "min": 0,
+                "max": 600000
+            },
+            "sqft": {
+                "min": 2000
+            },
+            "doz": {
+                "value": "7"
+            },
+            "keywords": {
+                "value": "icf"
+            },
+            "monthlyPayment": {
+                "min": 0,
+                "max": 2136
+            }
+        }
+    },
+    "filterDefinitions": {
+        "keywords": {
+            "id": "keywords",
+            "shortId": "att",
+            "labels": {
+                "default": "Keywords",
+                "tracking": "Keyword"
+            },
+            "sortOrder": 2,
+            "type": "String",
+            "defaultValue": {
+                "value": ""
+            },
+            "exposedPillEnabled": true
+        },
+        "isPublicSchool": {
+            "id": "isPublicSchool",
+            "shortId": "schp",
+            "labels": {
+                "default": "Public"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": true
+            }
+        },
+        "isCityView": {
+            "id": "isCityView",
+            "shortId": "cityv",
+            "labels": {
+                "default": "City"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "isWaterfront": {
+            "id": "isWaterfront",
+            "shortId": "wat",
+            "labels": {
+                "default": "Waterfront"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "isCondo": {
+            "id": "isCondo",
+            "shortId": "con",
+            "labels": {
+                "default": "Condos/co-ops"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": true
+            }
+        },
+        "isMountainView": {
+            "id": "isMountainView",
+            "shortId": "mouv",
+            "labels": {
+                "default": "Mountain"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "singleStory": {
+            "id": "singleStory",
+            "shortId": "sto",
+            "labels": {
+                "default": "Single-story only",
+                "tracking": "Single Story",
+                "valueFormatter": {
+                    "true": "1 story"
+                }
+            },
+            "sortOrder": 8,
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            },
+            "exposedPillEnabled": true
+        },
+        "onlyRentalParkingAvailable": {
+            "id": "onlyRentalParkingAvailable",
+            "shortId": "parka",
+            "labels": {
+                "default": "On-site Parking"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "monthlyPayment": {
+            "id": "monthlyPayment",
+            "shortId": "mp",
+            "labels": {
+                "default": "Price",
+                "valueFormatter": {
+                    "none": "Any",
+                    "min": "${{min}}+",
+                    "max": "Up to ${{max}}",
+                    "minMax": "${{min}}-${{max}}",
+                    "identicalMinMax": "${{min}}",
+                    "numberFormatter": "0,0",
+                    "inputFormatter": "0.[0]a"
+                }
+            },
+            "sortOrder": 1,
+            "type": "Range",
+            "defaultValue": {
+                "min": null,
+                "max": null
+            },
+            "suggestedEnums": [
+                {
+                    "label": "$200",
+                    "value": 200
+                },
+                {
+                    "label": "$400",
+                    "value": 400
+                },
+                {
+                    "label": "$600",
+                    "value": 600
+                },
+                {
+                    "label": "$800",
+                    "value": 800
+                },
+                {
+                    "label": "$1,000",
+                    "value": 1000
+                },
+                {
+                    "label": "$1,200",
+                    "value": 1200
+                },
+                {
+                    "label": "$1,400",
+                    "value": 1400
+                },
+                {
+                    "label": "$1,600",
+                    "value": 1600
+                },
+                {
+                    "label": "$1,800",
+                    "value": 1800
+                },
+                {
+                    "label": "$2,000",
+                    "value": 2000
+                },
+                {
+                    "label": "$2,200",
+                    "value": 2200
+                },
+                {
+                    "label": "$2,400",
+                    "value": 2400
+                },
+                {
+                    "label": "$2,600",
+                    "value": 2600
+                },
+                {
+                    "label": "$2,800",
+                    "value": 2800
+                },
+                {
+                    "label": "$3,000",
+                    "value": 3000
+                },
+                {
+                    "label": "$3,500",
+                    "value": 3500
+                },
+                {
+                    "label": "$4,000",
+                    "value": 4000
+                },
+                {
+                    "label": "$4,500",
+                    "value": 4500
+                },
+                {
+                    "label": "$5,000",
+                    "value": 5000
+                },
+                {
+                    "label": "$5,500",
+                    "value": 5500
+                },
+                {
+                    "label": "$6,000",
+                    "value": 6000
+                },
+                {
+                    "label": "$7,000",
+                    "value": 7000
+                },
+                {
+                    "label": "$8,000",
+                    "value": 8000
+                },
+                {
+                    "label": "$9,000",
+                    "value": 9000
+                },
+                {
+                    "label": "$10,000",
+                    "value": 10000
+                }
+            ],
+            "exposedPillEnabled": false
+        },
+        "price": {
+            "id": "price",
+            "labels": {
+                "default": "Price",
+                "long": "Price Range",
+                "valueFormatter": {
+                    "none": "Any",
+                    "min": "${{min}}+",
+                    "max": "Up to ${{max}}",
+                    "minMax": "${{min}}-${{max}}",
+                    "identicalMinMax": "${{min}}",
+                    "numberFormatter": "0,0",
+                    "inputFormatter": "0.[0]a"
+                }
+            },
+            "sortOrder": 1,
+            "type": "Range",
+            "defaultValue": {
+                "min": null,
+                "max": null
+            },
+            "suggestedEnums": [
+                {
+                    "label": "$100,000",
+                    "value": 100000
+                },
+                {
+                    "label": "$200,000",
+                    "value": 200000
+                },
+                {
+                    "label": "$300,000",
+                    "value": 300000
+                },
+                {
+                    "label": "$400,000",
+                    "value": 400000
+                },
+                {
+                    "label": "$500,000",
+                    "value": 500000
+                },
+                {
+                    "label": "$600,000",
+                    "value": 600000
+                },
+                {
+                    "label": "$700,000",
+                    "value": 700000
+                },
+                {
+                    "label": "$800,000",
+                    "value": 800000
+                },
+                {
+                    "label": "$900,000",
+                    "value": 900000
+                },
+                {
+                    "label": "$1M",
+                    "value": 1000000
+                },
+                {
+                    "label": "$1.25M",
+                    "value": 1250000
+                },
+                {
+                    "label": "$1.5M",
+                    "value": 1500000
+                },
+                {
+                    "label": "$1.75M",
+                    "value": 1750000
+                },
+                {
+                    "label": "$2M",
+                    "value": 2000000
+                },
+                {
+                    "label": "$2.25M",
+                    "value": 2250000
+                },
+                {
+                    "label": "$2.5M",
+                    "value": 2500000
+                },
+                {
+                    "label": "$2.75M",
+                    "value": 2750000
+                },
+                {
+                    "label": "$3M",
+                    "value": 3000000
+                },
+                {
+                    "label": "$4M",
+                    "value": 4000000
+                },
+                {
+                    "label": "$5M",
+                    "value": 5000000
+                },
+                {
+                    "label": "$6M",
+                    "value": 6000000
+                },
+                {
+                    "label": "$7M",
+                    "value": 7000000
+                },
+                {
+                    "label": "$8M",
+                    "value": 8000000
+                },
+                {
+                    "label": "$9M",
+                    "value": 9000000
+                },
+                {
+                    "label": "$10M",
+                    "value": 10000000
+                }
+            ],
+            "exposedPillEnabled": false
+        },
+        "onlyPriceReduction": {
+            "id": "onlyPriceReduction",
+            "labels": {
+                "default": "Price Reduction"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "onlyRentalAcceptsApplications": {
+            "id": "onlyRentalAcceptsApplications",
+            "shortId": "app",
+            "labels": {
+                "default": "Accepts Zillow Applications"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "SEOTypedIdField": {
+            "id": "SEOTypedIdField",
+            "shortId": "seo",
+            "labels": {
+                "default": "SEO"
+            },
+            "defaultValue": {
+                "value": null,
+                "field": null,
+                "id": null
+            }
+        },
+        "sqft": {
+            "id": "sqft",
+            "labels": {
+                "default": "Square Feet",
+                "short": "Sqft",
+                "valueFormatter": {
+                    "none": "Any",
+                    "min": "{{min}}+",
+                    "max": "<{{max}}",
+                    "minMax": "{{min}}-{{max}}",
+                    "identicalMinMax": "{{min}}",
+                    "numberFormatter": "0,0",
+                    "inputFormatter": "0,0"
+                }
+            },
+            "sortOrder": 4,
+            "type": "Range",
+            "defaultValue": {
+                "min": null,
+                "max": null
+            },
+            "suggestedEnums": [
+                {
+                    "label": "500",
+                    "value": 500
+                },
+                {
+                    "label": "750",
+                    "value": 750
+                },
+                {
+                    "label": "1,000",
+                    "value": 1000
+                },
+                {
+                    "label": "1,250",
+                    "value": 1250
+                },
+                {
+                    "label": "1,500",
+                    "value": 1500
+                },
+                {
+                    "label": "1,750",
+                    "value": 1750
+                },
+                {
+                    "label": "2,000",
+                    "value": 2000
+                },
+                {
+                    "label": "2,250",
+                    "value": 2250
+                },
+                {
+                    "label": "2,500",
+                    "value": 2500
+                },
+                {
+                    "label": "2,750",
+                    "value": 2750
+                },
+                {
+                    "label": "3,000",
+                    "value": 3000
+                },
+                {
+                    "label": "3,500",
+                    "value": 3500
+                },
+                {
+                    "label": "4,000",
+                    "value": 4000
+                },
+                {
+                    "label": "5,000",
+                    "value": 5000
+                },
+                {
+                    "label": "7,500",
+                    "value": 7500
+                }
+            ],
+            "exposedPillEnabled": true
+        },
+        "isZillowOwnedOnly": {
+            "id": "isZillowOwnedOnly",
+            "shortId": "zo",
+            "labels": {
+                "default": "Move-in ready homes, evaluated and repaired by Zillow",
+                "tracking": "Zillow Owned"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "isForRent": {
+            "id": "isForRent",
+            "shortId": "fr",
+            "labels": {
+                "default": "For Rent"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "isForSaleByOwner": {
+            "id": "isForSaleByOwner",
+            "shortId": "fsbo",
+            "labels": {
+                "default": "By Owner"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": true
+            }
+        },
+        "hasAirConditioning": {
+            "id": "hasAirConditioning",
+            "shortId": "ac",
+            "labels": {
+                "default": "Must have A/C",
+                "tracking": "AC"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "isApartment": {
+            "id": "isApartment",
+            "shortId": "apa",
+            "labels": {
+                "default": "Apartments"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": true
+            }
+        },
+        "sortSelection": {
+            "id": "sortSelection",
+            "shortId": "sort",
+            "labels": {
+                "default": "Sort",
+                "valueFormatter": {
+                    "saved": "Date Saved",
+                    "listingstatus": "Listing Status",
+                    "mostrecentchange": "Most Recent Change",
+                    "globalrelevanceex": "Homes for You",
+                    "featured": "Verified Source",
+                    "priced": "Price (High to Low)",
+                    "pricea": "Price (Low to High)",
+                    "paymentd": "Payment (High to Low)",
+                    "paymenta": "Payment (Low to High)",
+                    "days": "Newest",
+                    "beds": "Bedrooms",
+                    "baths": "Bathrooms",
+                    "size": "Square Feet",
+                    "lot": "Lot Size",
+                    "zest": "Zestimate (High to Low)",
+                    "zesta": "Zestimate (Low to High)"
+                }
+            },
+            "type": "Enum",
+            "defaultValue": {
+                "value": "days"
+            },
+            "allowedValues": {
+                "saved": "saved",
+                "listingstatus": "listingstatus",
+                "mostrecentchange": "mostrecentchange",
+                "globalrelevanceex": "globalrelevanceex",
+                "featured": "featured",
+                "priced": "priced",
+                "pricea": "pricea",
+                "paymentd": "paymentd",
+                "paymenta": "paymenta",
+                "days": "days",
+                "beds": "beds",
+                "baths": "baths",
+                "size": "size",
+                "lot": "lot",
+                "zest": "zest",
+                "zesta": "zesta"
+            },
+            "ABTest": {
+                "RE_RentalsHomesForYouSort": "CONTROL"
+            }
+        },
+        "isMiddleSchool": {
+            "id": "isMiddleSchool",
+            "shortId": "schm",
+            "labels": {
+                "default": "Middle"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": true
+            }
+        },
+        "isWaterView": {
+            "id": "isWaterView",
+            "shortId": "watv",
+            "labels": {
+                "default": "Water"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "isPrivateSchool": {
+            "id": "isPrivateSchool",
+            "shortId": "schr",
+            "labels": {
+                "default": "Private"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": true
+            }
+        },
+        "onlyRentalIncomeRestricted": {
+            "id": "onlyRentalIncomeRestricted",
+            "shortId": "inc",
+            "labels": {
+                "default": "Income restricted"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "isManufactured": {
+            "id": "isManufactured",
+            "shortId": "manu",
+            "labels": {
+                "default": "Manufactured"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": true
+            }
+        },
+        "onlyRentalInUnitLaundry": {
+            "id": "onlyRentalInUnitLaundry",
+            "shortId": "lau",
+            "labels": {
+                "default": "In-unit Laundry"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "isComingSoon": {
+            "id": "isComingSoon",
+            "shortId": "cmsn",
+            "labels": {
+                "default": "Coming Soon"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": true
+            }
+        },
+        "isSingleFamily": {
+            "id": "isSingleFamily",
+            "shortId": "sf",
+            "labels": {
+                "default": "Houses"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": true
+            }
+        },
+        "isForSaleForeclosure": {
+            "id": "isForSaleForeclosure",
+            "shortId": "fore",
+            "labels": {
+                "default": "Foreclosures"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": true
+            }
+        },
+        "isHighSchool": {
+            "id": "isHighSchool",
+            "shortId": "schh",
+            "labels": {
+                "default": "High"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": true
+            }
+        },
+        "onlyWithPhotos": {
+            "id": "onlyWithPhotos",
+            "labels": {
+                "default": "Photos"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "hoa": {
+            "id": "hoa",
+            "labels": {
+                "default": "Max HOA",
+                "valueFormatter": {
+                    "none": "Any",
+                    "max": "${{max}}/month"
+                }
+            },
+            "sortOrder": 9,
+            "type": "Range",
+            "defaultValue": {
+                "min": null,
+                "max": null
+            },
+            "suggestedEnums": {
+                "Any": null,
+                "No HOA Fee": 0,
+                "$50/month": 50,
+                "$100/month": 100,
+                "$200/month": 200,
+                "$300/month": 300,
+                "$400/month": 400,
+                "$500/month": 500,
+                "$600/month": 600,
+                "$700/month": 700,
+                "$800/month": 800,
+                "$900/month": 900,
+                "$1000/month": 1000
+            },
+            "exposedPillEnabled": true
+        },
+        "beds": {
+            "id": "beds",
+            "labels": {
+                "default": "Beds",
+                "valueFormatter": {
+                    "none": "Any",
+                    "min": "{{min}}+",
+                    "max": "<{{max}}",
+                    "minMax": "{{min}}-{{max}}",
+                    "identicalMinMax": {
+                        "0": "Studio",
+                        "default": "{{min}}"
+                    }
+                }
+            },
+            "sortOrder": 1,
+            "type": "Range",
+            "subType": "ExactableMin",
+            "defaultValue": {
+                "min": null,
+                "max": null
+            },
+            "suggestedEnums": {
+                "default": [
+                    {
+                        "key": "Any",
+                        "value": 0
+                    },
+                    {
+                        "key": "1+",
+                        "value": 1
+                    },
+                    {
+                        "key": "2+",
+                        "value": 2
+                    },
+                    {
+                        "key": "3+",
+                        "value": 3
+                    },
+                    {
+                        "key": "4+",
+                        "value": 4
+                    },
+                    {
+                        "key": "5+",
+                        "value": 5
+                    }
+                ],
+                "exact": [
+                    {
+                        "key": "Studio",
+                        "value": 0
+                    },
+                    {
+                        "key": "1",
+                        "value": 1
+                    },
+                    {
+                        "key": "2",
+                        "value": 2
+                    },
+                    {
+                        "key": "3",
+                        "value": 3
+                    },
+                    {
+                        "key": "4",
+                        "value": 4
+                    },
+                    {
+                        "key": "5",
+                        "value": 5
+                    }
+                ]
+            },
+            "exposedPillEnabled": false
+        },
+        "isAllHomes": {
+            "id": "isAllHomes",
+            "shortId": "ah",
+            "labels": {
+                "default": "Off Market"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "onlyRentalCatsAllowed": {
+            "id": "onlyRentalCatsAllowed",
+            "shortId": "cat",
+            "labels": {
+                "default": "Allows cats"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "includeSchoolsSelection": {
+            "id": "includeSchoolsSelection",
+            "labels": {
+                "default": "Include",
+                "valueFormatter": {
+                    "highSchool": "high schools",
+                    "middleSchool": "middle schools",
+                    "elementarySchool": "elementary schools"
+                }
+            },
+            "type": "String",
+            "defaultValue": {
+                "highSchool": null,
+                "middleSchool": null,
+                "elementarySchool": null
+            }
+        },
+        "isCharterSchool": {
+            "id": "isCharterSchool",
+            "shortId": "schc",
+            "labels": {
+                "default": "Charter"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": true
+            }
+        },
+        "onlyRentalPetsAllowed": {
+            "id": "onlyRentalPetsAllowed",
+            "shortId": "pet",
+            "labels": {
+                "default": "Pets Allowed"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "isAuction": {
+            "id": "isAuction",
+            "shortId": "auc",
+            "labels": {
+                "default": "Auction"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": true
+            }
+        },
+        "is3dHome": {
+            "id": "is3dHome",
+            "shortId": "3d",
+            "labels": {
+                "default": "Must have 3D Home",
+                "tracking": "3D Home"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "isMakeMeMove": {
+            "id": "isMakeMeMove",
+            "shortId": "mmm",
+            "labels": {
+                "default": "Make Me Move"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            },
+            "ABTest": {
+                "SXP_MAKE_ME_MOVE": "REMOVED"
+            }
+        },
+        "isMultiFamily": {
+            "id": "isMultiFamily",
+            "shortId": "mf",
+            "labels": {
+                "default": "Multi-family"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": true
+            }
+        },
+        "doz": {
+            "id": "doz",
+            "labels": {
+                "default": "Days on Zillow",
+                "soldInLast": "Sold in last",
+                "both": "Listed or Sold in last",
+                "valueFormatter": {
+                    "any": "Any",
+                    "1": "1 day",
+                    "7": "7 days",
+                    "14": "14 days",
+                    "30": "30 days",
+                    "90": "90 days",
+                    "6m": "6 months",
+                    "12m": "12 months",
+                    "24m": "24 months",
+                    "36m": "36 months"
+                }
+            },
+            "sortOrder": 7,
+            "type": "Enum",
+            "defaultValue": {
+                "value": "any"
+            },
+            "allowedValues": {
+                "any": null,
+                "1": -1,
+                "7": -7,
+                "14": -14,
+                "30": -30,
+                "90": -90,
+                "6m": -182,
+                "12m": -365,
+                "24m": -730,
+                "36m": -1095
+            },
+            "suggestedEnums": {
+                "Any": "any",
+                "1 day": "1",
+                "7 days": "7",
+                "14 days": "14",
+                "30 days": "30",
+                "90 days": "90",
+                "6 months": "6m",
+                "12 months": "12m",
+                "24 months": "24m",
+                "36 months": "36m"
+            },
+            "exposedPillEnabled": true
+        },
+        "isNewConstruction": {
+            "id": "isNewConstruction",
+            "shortId": "nc",
+            "labels": {
+                "default": "New Construction"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": true
+            }
+        },
+        "isTownhouse": {
+            "id": "isTownhouse",
+            "shortId": "tow",
+            "labels": {
+                "default": "Townhomes"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": true
+            }
+        },
+        "isLotLand": {
+            "id": "isLotLand",
+            "shortId": "land",
+            "labels": {
+                "default": "Lots/Land"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": true
+            }
+        },
+        "isBasementUnfinished": {
+            "id": "isBasementUnfinished",
+            "shortId": "basu",
+            "labels": {
+                "default": "Unfinished"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "isOpenHousesOnly": {
+            "id": "isOpenHousesOnly",
+            "shortId": "open",
+            "labels": {
+                "default": "Must have open house",
+                "tracking": "Open House"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "isBasementFinished": {
+            "id": "isBasementFinished",
+            "shortId": "basf",
+            "labels": {
+                "default": "Finished"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "dataSourceSelection": {
+            "id": "dataSourceSelection",
+            "shortId": "dsrc",
+            "labels": {
+                "default": "Data Source"
+            },
+            "type": "String",
+            "defaultValue": {
+                "value": "all"
+            }
+        },
+        "isPreMarketForeclosure": {
+            "id": "isPreMarketForeclosure",
+            "shortId": "pmf",
+            "labels": {
+                "default": "Foreclosed"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": true
+            }
+        },
+        "isForSaleByAgent": {
+            "id": "isForSaleByAgent",
+            "shortId": "fsba",
+            "labels": {
+                "default": "By Agent"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": true
+            }
+        },
+        "parkingSpots": {
+            "id": "parkingSpots",
+            "shortId": "parks",
+            "type": "Range",
+            "labels": {
+                "default": "Parking spots"
+            },
+            "defaultValue": {
+                "min": null
+            },
+            "suggestedEnums": {
+                "Any": null,
+                "1+": 1,
+                "2+": 2,
+                "3+": 3,
+                "4+": 4
+            }
+        },
+        "isPreMarketPreForeclosure": {
+            "id": "isPreMarketPreForeclosure",
+            "shortId": "pf",
+            "labels": {
+                "default": "Pre-Foreclosures"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": true
+            }
+        },
+        "hasGarage": {
+            "id": "hasGarage",
+            "shortId": "gar",
+            "labels": {
+                "default": "Must have garage",
+                "tracking": "Garage"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "hasPool": {
+            "id": "hasPool",
+            "shortId": "pool",
+            "labels": {
+                "default": "Must have pool",
+                "tracking": "Pool"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "onlyRentalSmallDogsAllowed": {
+            "id": "onlyRentalSmallDogsAllowed",
+            "shortId": "sdog",
+            "labels": {
+                "default": "Allows small dogs"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "isAcceptingBackupOffersSelected": {
+            "id": "isAcceptingBackupOffersSelected",
+            "shortId": "abo",
+            "labels": {
+                "default": "Accepting Backup Offers"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "built": {
+            "id": "built",
+            "labels": {
+                "default": "Year Built",
+                "valueFormatter": {
+                    "none": "Any",
+                    "min": "{{min}}+",
+                    "max": "<{{max}}",
+                    "minMax": "{{min}}-{{max}}",
+                    "identicalMinMax": "{{min}}",
+                    "numberFormatter": "0",
+                    "inputFormatter": "0"
+                }
+            },
+            "sortOrder": 6,
+            "type": "Range",
+            "defaultValue": {
+                "min": null,
+                "max": null
+            },
+            "exposedPillEnabled": true
+        },
+        "onlyRentalLargeDogsAllowed": {
+            "id": "onlyRentalLargeDogsAllowed",
+            "shortId": "ldog",
+            "labels": {
+                "default": "Allows large dogs"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "lotSize": {
+            "id": "lotSize",
+            "shortId": "lot",
+            "labels": {
+                "default": "Lot Size",
+                "shortDescription": "...",
+                "longDescription": "...",
+                "pluralSubstitutes": {
+                    "acre": "acres"
+                },
+                "valueFormatter": {
+                    "none": "Any",
+                    "min": "{{min}}+ {{unit}}",
+                    "max": "<={{max}} {{unit}}",
+                    "minMax": "{{min}}-{{max}} {{unit}}",
+                    "identicalMinMax": "{{min}} {{unit}}",
+                    "numberFormatter": "0,0[.][000]",
+                    "inputFormatter": "0,0[.][000]"
+                }
+            },
+            "sortOrder": 5,
+            "type": "Range",
+            "subType": "RangeWithUnits",
+            "defaultValue": {
+                "min": null,
+                "max": null,
+                "units": "sqft"
+            },
+            "unitTypes": [
+                "sqft",
+                "acre"
+            ],
+            "suggestedEnums": [
+                {
+                    "label": "1,000 sqft",
+                    "value": 1000,
+                    "units": "sqft"
+                },
+                {
+                    "label": "2,000 sqft",
+                    "value": 2000,
+                    "units": "sqft"
+                },
+                {
+                    "label": "3,000 sqft",
+                    "value": 3000,
+                    "units": "sqft"
+                },
+                {
+                    "label": "4,000 sqft",
+                    "value": 4000,
+                    "units": "sqft"
+                },
+                {
+                    "label": "5,000 sqft",
+                    "value": 5000,
+                    "units": "sqft"
+                },
+                {
+                    "label": "7,500 sqft",
+                    "value": 7500,
+                    "units": "sqft"
+                },
+                {
+                    "label": "1/4 acre/10,890 sqft",
+                    "value": 10890,
+                    "units": "sqft"
+                },
+                {
+                    "label": "1/2 acre",
+                    "value": 21780,
+                    "units": "sqft"
+                },
+                {
+                    "label": "1 acre",
+                    "value": 43560,
+                    "units": "sqft"
+                },
+                {
+                    "label": "2 acres",
+                    "value": 87120,
+                    "units": "sqft"
+                },
+                {
+                    "label": "5 acres",
+                    "value": 217800,
+                    "units": "sqft"
+                },
+                {
+                    "label": "10 acres",
+                    "value": 435600,
+                    "units": "sqft"
+                },
+                {
+                    "label": "20 acres",
+                    "value": 871200,
+                    "units": "sqft"
+                },
+                {
+                    "label": "50 acres",
+                    "value": 2178000,
+                    "units": "sqft"
+                },
+                {
+                    "label": "100 acres",
+                    "value": 4356000,
+                    "units": "sqft"
+                }
+            ],
+            "exposedPillEnabled": true
+        },
+        "greatSchoolsRating": {
+            "id": "greatSchoolsRating",
+            "shortId": "schb",
+            "labels": {
+                "default": "GreatSchools Rating",
+                "valueFormatter": {
+                    "none": "Any"
+                }
+            },
+            "type": "Range",
+            "defaultValue": {
+                "min": 1
+            },
+            "suggestedEnums": [
+                {
+                    "label": "1+",
+                    "value": 1
+                },
+                {
+                    "label": "2+",
+                    "value": 2
+                },
+                {
+                    "label": "3+",
+                    "value": 3
+                },
+                {
+                    "label": "4+",
+                    "value": 4
+                },
+                {
+                    "label": "5+",
+                    "value": 5
+                },
+                {
+                    "label": "6+",
+                    "value": 6
+                },
+                {
+                    "label": "7+",
+                    "value": 7
+                },
+                {
+                    "label": "8+",
+                    "value": 8
+                },
+                {
+                    "label": "9+",
+                    "value": 9
+                },
+                {
+                    "label": "10",
+                    "value": 10
+                }
+            ]
+        },
+        "includeUnratedSchools": {
+            "id": "includeUnratedSchools",
+            "shortId": "schu",
+            "labels": {
+                "default": "Include schools with no rating"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": true
+            }
+        },
+        "isRecentlySold": {
+            "id": "isRecentlySold",
+            "shortId": "rs",
+            "labels": {
+                "default": "Sold",
+                "long": "Recently Sold"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "isPendingListingsSelected": {
+            "id": "isPendingListingsSelected",
+            "shortId": "pnd",
+            "labels": {
+                "default": "Pending & Under Contract"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "onlyRentalHousingConnector": {
+            "id": "onlyRentalHousingConnector",
+            "shortId": "hc",
+            "labels": {
+                "default": "Accepts Housing Connector",
+                "tracking": "Housing Connector"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "baths": {
+            "id": "baths",
+            "labels": {
+                "default": "Bathrooms",
+                "valueFormatter": {
+                    "none": "Any",
+                    "min": "{{min}}+",
+                    "max": "<{{max}}",
+                    "minMax": "{{min}}-{{max}}",
+                    "identicalMinMax": "{{min}}"
+                }
+            },
+            "sortOrder": 3,
+            "type": "Range",
+            "defaultValue": {
+                "min": null,
+                "max": null
+            },
+            "suggestedEnums": {
+                "Any": 0,
+                "1+": 1,
+                "1.5+": 1.5,
+                "2+": 2,
+                "3+": 3,
+                "4+": 4
+            },
+            "exposedPillEnabled": true
+        },
+        "includeHomesWithNoHoaData": {
+            "id": "includeHomesWithNoHoaData",
+            "shortId": "nohoa",
+            "labels": {
+                "default": "Include homes with incomplete HOA data",
+                "tracking": "HOA No Data"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": true
+            }
+        },
+        "isElementarySchool": {
+            "id": "isElementarySchool",
+            "shortId": "sche",
+            "labels": {
+                "default": "Elementary"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": true
+            }
+        },
+        "isParkView": {
+            "id": "isParkView",
+            "shortId": "parkv",
+            "labels": {
+                "default": "Park"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value": false
+            }
+        },
+        "enableSchools": {
+            "id": "enableSchools",
+            "shortId": "sch",
+            "labels": {
+                "default": "Schools"
+            },
+            "type": "Boolean",
+            "defaultValue": {
+                "value:": false
+            }
+        }
+    },
+    "defaultFilterState": {
+        "keywords": {
+            "value": ""
+        },
+        "isPublicSchool": {
+            "value": true
+        },
+        "isCityView": {
+            "value": false
+        },
+        "isWaterfront": {
+            "value": false
+        },
+        "isCondo": {
+            "value": true
+        },
+        "isMountainView": {
+            "value": false
+        },
+        "singleStory": {
+            "value": false
+        },
+        "onlyRentalParkingAvailable": {
+            "value": false
+        },
+        "monthlyPayment": {
+            "min": null,
+            "max": null
+        },
+        "price": {
+            "min": null,
+            "max": null
+        },
+        "onlyPriceReduction": {
+            "value": false
+        },
+        "onlyRentalAcceptsApplications": {
+            "value": false
+        },
+        "SEOTypedIdField": {
+            "value": null,
+            "field": null,
+            "id": null
+        },
+        "sqft": {
+            "min": null,
+            "max": null
+        },
+        "isZillowOwnedOnly": {
+            "value": false
+        },
+        "isForRent": {
+            "value": false
+        },
+        "isForSaleByOwner": {
+            "value": true
+        },
+        "hasAirConditioning": {
+            "value": false
+        },
+        "isApartment": {
+            "value": true
+        },
+        "sortSelection": {
+            "value": "days"
+        },
+        "isMiddleSchool": {
+            "value": true
+        },
+        "isWaterView": {
+            "value": false
+        },
+        "isPrivateSchool": {
+            "value": true
+        },
+        "onlyRentalIncomeRestricted": {
+            "value": false
+        },
+        "isManufactured": {
+            "value": true
+        },
+        "onlyRentalInUnitLaundry": {
+            "value": false
+        },
+        "isComingSoon": {
+            "value": true
+        },
+        "isSingleFamily": {
+            "value": true
+        },
+        "isForSaleForeclosure": {
+            "value": true
+        },
+        "isHighSchool": {
+            "value": true
+        },
+        "onlyWithPhotos": {
+            "value": false
+        },
+        "hoa": {
+            "min": null,
+            "max": null
+        },
+        "beds": {
+            "min": null,
+            "max": null
+        },
+        "isAllHomes": {
+            "value": false
+        },
+        "onlyRentalCatsAllowed": {
+            "value": false
+        },
+        "includeSchoolsSelection": {
+            "highSchool": null,
+            "middleSchool": null,
+            "elementarySchool": null
+        },
+        "isCharterSchool": {
+            "value": true
+        },
+        "onlyRentalPetsAllowed": {
+            "value": false
+        },
+        "isAuction": {
+            "value": true
+        },
+        "is3dHome": {
+            "value": false
+        },
+        "isMakeMeMove": {
+            "value": false
+        },
+        "isMultiFamily": {
+            "value": true
+        },
+        "doz": {
+            "value": "any"
+        },
+        "isNewConstruction": {
+            "value": true
+        },
+        "isTownhouse": {
+            "value": true
+        },
+        "isLotLand": {
+            "value": true
+        },
+        "isBasementUnfinished": {
+            "value": false
+        },
+        "isOpenHousesOnly": {
+            "value": false
+        },
+        "isBasementFinished": {
+            "value": false
+        },
+        "dataSourceSelection": {
+            "value": "all"
+        },
+        "isPreMarketForeclosure": {
+            "value": true
+        },
+        "isForSaleByAgent": {
+            "value": true
+        },
+        "parkingSpots": {
+            "min": null
+        },
+        "isPreMarketPreForeclosure": {
+            "value": true
+        },
+        "hasGarage": {
+            "value": false
+        },
+        "hasPool": {
+            "value": false
+        },
+        "onlyRentalSmallDogsAllowed": {
+            "value": false
+        },
+        "isAcceptingBackupOffersSelected": {
+            "value": false
+        },
+        "built": {
+            "min": null,
+            "max": null
+        },
+        "onlyRentalLargeDogsAllowed": {
+            "value": false
+        },
+        "lotSize": {
+            "min": null,
+            "max": null,
+            "units": "sqft"
+        },
+        "greatSchoolsRating": {
+            "min": 1
+        },
+        "includeUnratedSchools": {
+            "value": true
+        },
+        "isRecentlySold": {
+            "value": false
+        },
+        "isPendingListingsSelected": {
+            "value": false
+        },
+        "onlyRentalHousingConnector": {
+            "value": false
+        },
+        "baths": {
+            "min": null,
+            "max": null
+        },
+        "includeHomesWithNoHoaData": {
+            "value": true
+        },
+        "isElementarySchool": {
+            "value": true
+        },
+        "isParkView": {
+            "value": false
+        },
+        "enableSchools": {
+            "value:": false
+        }
+    },
+    "defaultQueryState": {
+        "filterState": {},
+        "dataSource": "core",
+        "isMapVisible": false,
+        "isListVisible": true,
+        "mapBounds": {
+            "west": 0,
+            "south": 0,
+            "east": 0,
+            "north": 0,
+            "zoom": 10
+        },
+        "mapZoom": 10,
+        "pagination": {
+            "currentPage": 1
+        },
+        "usersSearchTerm": null,
+        "regionSelection": null,
+        "schoolId": null,
+        "customRegionId": null,
+        "savedSearchEnrollmentId": null,
+        "serverOnly": {
+            "hiddenPropertyIds": [],
+            "excludedBuildingIds": [],
+            "dataSourcePropertyFilter": [],
+            "zpidLookupList": [],
+            "attendanceZoneIds": [],
+            "resultsPerPage": 42
+        },
+        "nearMe": null
+    },
+    "searchPageConstants": {
+        "monthlyInterestRate": 0.0028258334,
+        "isMobile": false,
+        "searchMapGoogleAPIKey": "AIzaSyA1uIgJLlFocMlwcu8b3wKPKkdT2mWV3AU",
+        "mapComboUrl": "https://www.zillowstatic.com",
+        "debugEnabled": false,
+        "keystoneTargetUrl": "https://keystone.zillow.com/event"
+    },
+    "searchList": {
+        "displayRelaxedPriceMessage": false,
+        "expansionDistance": 146,
+        "isCollectionView": false,
+        "staticBaseUrl": "https://www.zillowstatic.com/static/",
+        "resultsMessage": "None",
+        "zeroResultsFilters": null,
+        "pagination": {
+            "nextUrl": "/homes/for_sale/pmf,pf_pt/0-600000_price/0-2136_mp/7_days/2000-_size/icf_att/0_singlestory/days_sort/43.562294797762625,-72.17047691345215,26.526877449686918,-97.87848472595215_rect/2_p/0_z/",
+            "previousUrl": "/homes/"
+        },
+        "message": null,
+        "adsConfig": {
+            "navAdSlot": "zillow/search_results/buy_general/search_1",
+            "displayAdSlot": "zillow/search_results/buy_general/b_right_p1",
+            "targets": {
+                "mlat": "35.04458612372477",
+                "zusr": "true",
+                "vers": "srp_small",
+                "listtp": "buy_general",
+                "searchtp": "unknown",
+                "filtered": "true",
+                "zguidh": "-8877665903064996508",
+                "premieragent": "no",
+                "mlong": "-85.02448081970215",
+                "prange": "350-399k,300-349k,0-100k,250-299k,200-249k,150-199k,100-149k,600-699k,500-599k,450-499k,400-449k"
+            },
+            "needsUpdate": false
+        },
+        "coShoppingConfig": {
+            "isEnabled": false,
+            "shouldShowUpsellDialog": false,
+            "shouldShowAcceptDialog": false,
+            "inviterName": null,
+            "gaLabel": "invite_email_notloggedin"
+        },
+        "totalResultCount": 3,
+        "resultsPerPage": 40,
+        "totalPages": 1,
+        "listResultsTitle": "Icf - Real Estate",
+        "guidedSearchFilters": null
+    },
+    "searchResults": {
+        "listResults": [
+            {
+                "zpid": "116374894",
+                "id": "116374894",
+                "hasImage": true,
+                "imgSrc": "https://photos.zillowstatic.com/p_e/IS3voibp8nuivo1000000000.jpg",
+                "detailUrl": "https://www.zillow.com/homedetails/4296-Whitetail-Ln-Wamego-KS-66547/116374894_zpid/",
+                "statusType": "FOR_SALE",
+                "statusText": "House for sale",
+                "price": "$545,000",
+                "unformattedPrice": 545000,
+                "festimate": null,
+                "address": "4296 Whitetail Ln, Wamego, KS 66547",
+                "addressStreet": "4296 Whitetail Ln ",
+                "addressState": "KS",
+                "addressCity": "Wamego",
+                "addressZipcode": "66547",
+                "countryCurrency": "$",
+                "beds": 4,
+                "baths": 3.0,
+                "area": 5392,
+                "latLong": {
+                    "latitude": 39.208535,
+                    "longitude": -96.398853
+                },
+                "brokerName": "Sells MHK",
+                "brokerPhone": "(785) 477-8330",
+                "builderName": null,
+                "isZillowOwned": false,
+                "commute": null,
+                "variableData": {
+                    "type": "TIME_ON_INFO",
+                    "text": "1 hour ago",
+                    "data": {
+                        "isFresh": false
+                    }
+                },
+                "hdpData": {
+                    "isReactHomeDetails": true,
+                    "homeInfo": {
+                        "zpid": 116374894,
+                        "streetAddress": "4296 Whitetail Ln",
+                        "zipcode": "66547",
+                        "city": "Wamego",
+                        "state": "KS",
+                        "latitude": 39.208535,
+                        "longitude": -96.398853,
+                        "price": 545000.0,
+                        "dateSold": 0,
+                        "bathrooms": 3.0,
+                        "bedrooms": 4.0,
+                        "livingArea": 5392.0,
+                        "yearBuilt": 2011,
+                        "lotSize": 309276.0,
+                        "homeType": "SINGLE_FAMILY",
+                        "homeStatus": "FOR_SALE",
+                        "photoCount": 42,
+                        "imageLink": "https://photos.zillowstatic.com/p_g/IS3voibp8nuivo1000000000.jpg",
+                        "daysOnZillow": 0,
+                        "isFeatured": false,
+                        "shouldHighlight": false,
+                        "brokerId": 18670,
+                        "contactPhone": "7854778330",
+                        "zestimate": 538569,
+                        "rentZestimate": 2715,
+                        "listing_sub_type": {
+                            "is_FSBA": true
+                        },
+                        "isUnmappable": false,
+                        "rentalPetsFlags": 64,
+                        "mediumImageLink": "https://photos.zillowstatic.com/p_c/IS3voibp8nuivo1000000000.jpg",
+                        "isPreforeclosureAuction": false,
+                        "homeStatusForHDP": "FOR_SALE",
+                        "priceForHDP": 545000.0,
+                        "festimate": 569802,
+                        "isListingOwnedByCurrentSignedInAgent": false,
+                        "timeOnZillow": 1592001180000,
+                        "isListingClaimedByCurrentSignedInUser": false,
+                        "hiResImageLink": "https://photos.zillowstatic.com/p_f/IS3voibp8nuivo1000000000.jpg",
+                        "watchImageLink": "https://photos.zillowstatic.com/p_j/IS3voibp8nuivo1000000000.jpg",
+                        "contactPhoneExtension": "",
+                        "tvImageLink": "https://photos.zillowstatic.com/p_m/IS3voibp8nuivo1000000000.jpg",
+                        "tvCollectionImageLink": "https://photos.zillowstatic.com/p_l/IS3voibp8nuivo1000000000.jpg",
+                        "tvHighResImageLink": "https://photos.zillowstatic.com/p_n/IS3voibp8nuivo1000000000.jpg",
+                        "zillowHasRightsToImages": false,
+                        "desktopWebHdpImageLink": "https://photos.zillowstatic.com/p_h/IS3voibp8nuivo1000000000.jpg",
+                        "hideZestimate": false,
+                        "isPremierBuilder": false,
+                        "isZillowOwned": false,
+                        "currency": "USD",
+                        "country": "USA",
+                        "taxAssessedValue": 517100.0,
+                        "streetAddressOnly": "4296 Whitetail Ln",
+                        "unit": " "
+                    }
+                },
+                "isSaved": false,
+                "hasOpenHouse": false,
+                "isUserClaimingOwner": false,
+                "isUserConfirmedClaim": false,
+                "pgapt": "ForSale",
+                "sgapt": "For Sale (Broker)",
+                "photoCount": 42,
+                "zestimate": 538569,
+                "shouldShowZestimateAsPrice": false,
+                "has3DModel": false,
+                "hasVideo": false,
+                "list": true,
+                "relaxed": false
+            },
+            {
+                "zpid": "55190026",
+                "id": "55190026",
+                "hasImage": true,
+                "imgSrc": "https://photos.zillowstatic.com/p_e/ISb1zchkofrv580000000000.jpg",
+                "detailUrl": "https://www.zillow.com/homedetails/6417-Grayhawk-Dr-Pacific-MO-63069/55190026_zpid/",
+                "statusType": "FOR_SALE",
+                "statusText": "House for sale",
+                "price": "$524,900",
+                "unformattedPrice": 524900,
+                "festimate": null,
+                "address": "6417 Grayhawk Dr, Pacific, MO 63069",
+                "addressStreet": "6417 Grayhawk Dr ",
+                "addressState": "MO",
+                "addressCity": "Pacific",
+                "addressZipcode": "63069",
+                "countryCurrency": "$",
+                "beds": 3,
+                "baths": 4.0,
+                "area": 2948,
+                "latLong": {
+                    "latitude": 38.463827,
+                    "longitude": -90.668054
+                },
+                "brokerName": "Coldwell Banker Realty - Gunda",
+                "brokerPhone": "(636) 394-9300",
+                "builderName": null,
+                "isZillowOwned": false,
+                "commute": null,
+                "variableData": {
+                    "type": "DAYS_ON",
+                    "text": "2 days on Zillow"
+                },
+                "hdpData": {
+                    "isReactHomeDetails": true,
+                    "homeInfo": {
+                        "zpid": 55190026,
+                        "streetAddress": "6417 Grayhawk Dr",
+                        "zipcode": "63069",
+                        "city": "Pacific",
+                        "state": "MO",
+                        "latitude": 38.463827,
+                        "longitude": -90.668054,
+                        "price": 524900.0,
+                        "dateSold": 1267603200000,
+                        "bathrooms": 4.0,
+                        "bedrooms": 3.0,
+                        "livingArea": 2948.0,
+                        "yearBuilt": 2013,
+                        "lotSize": 135036.0,
+                        "homeType": "SINGLE_FAMILY",
+                        "homeStatus": "FOR_SALE",
+                        "photoCount": 52,
+                        "imageLink": "https://photos.zillowstatic.com/p_g/ISb1zchkofrv580000000000.jpg",
+                        "daysOnZillow": 2,
+                        "isFeatured": false,
+                        "shouldHighlight": false,
+                        "brokerId": 13904,
+                        "contactPhone": "6363949300",
+                        "zestimate": 508046,
+                        "rentZestimate": 2800,
+                        "listing_sub_type": {
+                            "is_FSBA": true
+                        },
+                        "isUnmappable": false,
+                        "rentalPetsFlags": 64,
+                        "mediumImageLink": "https://photos.zillowstatic.com/p_c/ISb1zchkofrv580000000000.jpg",
+                        "isPreforeclosureAuction": false,
+                        "homeStatusForHDP": "FOR_SALE",
+                        "priceForHDP": 524900.0,
+                        "festimate": 508046,
+                        "isListingOwnedByCurrentSignedInAgent": false,
+                        "timeOnZillow": 1591817640000,
+                        "isListingClaimedByCurrentSignedInUser": false,
+                        "hiResImageLink": "https://photos.zillowstatic.com/p_f/ISb1zchkofrv580000000000.jpg",
+                        "watchImageLink": "https://photos.zillowstatic.com/p_j/ISb1zchkofrv580000000000.jpg",
+                        "contactPhoneExtension": "",
+                        "tvImageLink": "https://photos.zillowstatic.com/p_m/ISb1zchkofrv580000000000.jpg",
+                        "tvCollectionImageLink": "https://photos.zillowstatic.com/p_l/ISb1zchkofrv580000000000.jpg",
+                        "tvHighResImageLink": "https://photos.zillowstatic.com/p_n/ISb1zchkofrv580000000000.jpg",
+                        "zillowHasRightsToImages": false,
+                        "desktopWebHdpImageLink": "https://photos.zillowstatic.com/p_h/ISb1zchkofrv580000000000.jpg",
+                        "hideZestimate": false,
+                        "isPremierBuilder": false,
+                        "isZillowOwned": false,
+                        "currency": "USD",
+                        "country": "USA",
+                        "taxAssessedValue": 472300.0,
+                        "streetAddressOnly": "6417 Grayhawk Dr",
+                        "unit": " "
+                    }
+                },
+                "isSaved": false,
+                "hasOpenHouse": false,
+                "isUserClaimingOwner": false,
+                "isUserConfirmedClaim": false,
+                "pgapt": "ForSale",
+                "sgapt": "For Sale (Broker)",
+                "photoCount": 52,
+                "zestimate": 508046,
+                "shouldShowZestimateAsPrice": false,
+                "has3DModel": false,
+                "hasVideo": false,
+                "list": true,
+                "relaxed": false
+            },
+            {
+                "zpid": "69579228",
+                "id": "69579228",
+                "hasImage": true,
+                "imgSrc": "https://photos.zillowstatic.com/p_e/ISfce3i0s2uyvq1000000000.jpg",
+                "detailUrl": "https://www.zillow.com/homedetails/676-Esperia-Ln-Myrtle-Beach-SC-29572/69579228_zpid/",
+                "statusType": "FOR_SALE",
+                "statusText": "House for sale",
+                "price": "$515,000",
+                "unformattedPrice": 515000,
+                "festimate": null,
+                "address": "676 Esperia Ln, Myrtle Beach, SC 29572",
+                "addressStreet": "676 Esperia Ln ",
+                "addressState": "SC",
+                "addressCity": "Myrtle Beach",
+                "addressZipcode": "29572",
+                "countryCurrency": "$",
+                "beds": 3,
+                "baths": 2.0,
+                "area": 2075,
+                "latLong": {
+                    "latitude": 33.748827,
+                    "longitude": -78.822456
+                },
+                "brokerName": "GRANDE DUNES PROPERTIES",
+                "brokerPhone": "(843) 446-7195",
+                "builderName": null,
+                "isZillowOwned": false,
+                "commute": null,
+                "variableData": {
+                    "type": "DAYS_ON",
+                    "text": "3 days on Zillow"
+                },
+                "hdpData": {
+                    "isReactHomeDetails": true,
+                    "homeInfo": {
+                        "zpid": 69579228,
+                        "streetAddress": "676 Esperia Ln",
+                        "zipcode": "29572",
+                        "city": "Myrtle Beach",
+                        "state": "SC",
+                        "latitude": 33.748827,
+                        "longitude": -78.822456,
+                        "price": 515000.0,
+                        "dateSold": 1123225200000,
+                        "bathrooms": 2.0,
+                        "bedrooms": 3.0,
+                        "livingArea": 2075.0,
+                        "yearBuilt": 2005,
+                        "lotSize": 10018.0,
+                        "homeType": "SINGLE_FAMILY",
+                        "homeStatus": "FOR_SALE",
+                        "photoCount": 40,
+                        "imageLink": "https://photos.zillowstatic.com/p_g/ISfce3i0s2uyvq1000000000.jpg",
+                        "daysOnZillow": 3,
+                        "isFeatured": false,
+                        "shouldHighlight": false,
+                        "brokerId": 14088,
+                        "contactPhone": "8434467195",
+                        "zestimate": 501794,
+                        "rentZestimate": 2630,
+                        "listing_sub_type": {
+                            "is_FSBA": true
+                        },
+                        "isUnmappable": false,
+                        "rentalPetsFlags": 192,
+                        "mediumImageLink": "https://photos.zillowstatic.com/p_c/ISfce3i0s2uyvq1000000000.jpg",
+                        "isPreforeclosureAuction": false,
+                        "homeStatusForHDP": "FOR_SALE",
+                        "priceForHDP": 515000.0,
+                        "festimate": 501794,
+                        "isListingOwnedByCurrentSignedInAgent": false,
+                        "timeOnZillow": 1591720260000,
+                        "isListingClaimedByCurrentSignedInUser": false,
+                        "hiResImageLink": "https://photos.zillowstatic.com/p_f/ISfce3i0s2uyvq1000000000.jpg",
+                        "watchImageLink": "https://photos.zillowstatic.com/p_j/ISfce3i0s2uyvq1000000000.jpg",
+                        "contactPhoneExtension": "",
+                        "tvImageLink": "https://photos.zillowstatic.com/p_m/ISfce3i0s2uyvq1000000000.jpg",
+                        "tvCollectionImageLink": "https://photos.zillowstatic.com/p_l/ISfce3i0s2uyvq1000000000.jpg",
+                        "tvHighResImageLink": "https://photos.zillowstatic.com/p_n/ISfce3i0s2uyvq1000000000.jpg",
+                        "zillowHasRightsToImages": false,
+                        "desktopWebHdpImageLink": "https://photos.zillowstatic.com/p_h/ISfce3i0s2uyvq1000000000.jpg",
+                        "hideZestimate": false,
+                        "isPremierBuilder": false,
+                        "isZillowOwned": false,
+                        "currency": "USD",
+                        "country": "USA",
+                        "taxAssessedValue": 420330.0,
+                        "streetAddressOnly": "676 Esperia Ln",
+                        "unit": " "
+                    }
+                },
+                "isSaved": false,
+                "hasOpenHouse": false,
+                "isUserClaimingOwner": false,
+                "isUserConfirmedClaim": false,
+                "pgapt": "ForSale",
+                "sgapt": "For Sale (Broker)",
+                "photoCount": 40,
+                "zestimate": 501794,
+                "shouldShowZestimateAsPrice": false,
+                "has3DModel": false,
+                "hasVideo": false,
+                "list": true,
+                "relaxed": false
+            }
+        ],
+        "hasListResults": true,
+        "mapResults": [],
+        "hasMapResults": true,
+        "resultsHash": "464db990",
+        "relaxedResults": [
+            {
+                "zpid": "116374894",
+                "id": "116374894",
+                "hasImage": true,
+                "imgSrc": "https://photos.zillowstatic.com/p_e/IS3voibp8nuivo1000000000.jpg",
+                "detailUrl": "https://www.zillow.com/homedetails/4296-Whitetail-Ln-Wamego-KS-66547/116374894_zpid/",
+                "statusType": "FOR_SALE",
+                "statusText": "House for sale",
+                "price": "$545,000",
+                "unformattedPrice": 545000,
+                "festimate": null,
+                "address": "4296 Whitetail Ln, Wamego, KS 66547",
+                "addressStreet": "4296 Whitetail Ln ",
+                "addressState": "KS",
+                "addressCity": "Wamego",
+                "addressZipcode": "66547",
+                "countryCurrency": "$",
+                "beds": 4,
+                "baths": 3.0,
+                "area": 5392,
+                "latLong": {
+                    "latitude": 39.208535,
+                    "longitude": -96.398853
+                },
+                "brokerName": "Sells MHK",
+                "brokerPhone": "(785) 477-8330",
+                "builderName": null,
+                "isZillowOwned": false,
+                "commute": null,
+                "variableData": {
+                    "type": "TIME_ON_INFO",
+                    "text": "1 hour ago",
+                    "data": {
+                        "isFresh": false
+                    }
+                },
+                "hdpData": {
+                    "isReactHomeDetails": true,
+                    "homeInfo": {
+                        "zpid": 116374894,
+                        "streetAddress": "4296 Whitetail Ln",
+                        "zipcode": "66547",
+                        "city": "Wamego",
+                        "state": "KS",
+                        "latitude": 39.208535,
+                        "longitude": -96.398853,
+                        "price": 545000.0,
+                        "dateSold": 0,
+                        "bathrooms": 3.0,
+                        "bedrooms": 4.0,
+                        "livingArea": 5392.0,
+                        "yearBuilt": 2011,
+                        "lotSize": 309276.0,
+                        "homeType": "SINGLE_FAMILY",
+                        "homeStatus": "FOR_SALE",
+                        "photoCount": 42,
+                        "imageLink": "https://photos.zillowstatic.com/p_g/IS3voibp8nuivo1000000000.jpg",
+                        "daysOnZillow": 0,
+                        "isFeatured": false,
+                        "shouldHighlight": false,
+                        "brokerId": 18670,
+                        "contactPhone": "7854778330",
+                        "zestimate": 538569,
+                        "rentZestimate": 2715,
+                        "listing_sub_type": {
+                            "is_FSBA": true
+                        },
+                        "isUnmappable": false,
+                        "rentalPetsFlags": 64,
+                        "mediumImageLink": "https://photos.zillowstatic.com/p_c/IS3voibp8nuivo1000000000.jpg",
+                        "isPreforeclosureAuction": false,
+                        "homeStatusForHDP": "FOR_SALE",
+                        "priceForHDP": 545000.0,
+                        "festimate": 569802,
+                        "isListingOwnedByCurrentSignedInAgent": false,
+                        "timeOnZillow": 1592001180000,
+                        "isListingClaimedByCurrentSignedInUser": false,
+                        "hiResImageLink": "https://photos.zillowstatic.com/p_f/IS3voibp8nuivo1000000000.jpg",
+                        "watchImageLink": "https://photos.zillowstatic.com/p_j/IS3voibp8nuivo1000000000.jpg",
+                        "contactPhoneExtension": "",
+                        "tvImageLink": "https://photos.zillowstatic.com/p_m/IS3voibp8nuivo1000000000.jpg",
+                        "tvCollectionImageLink": "https://photos.zillowstatic.com/p_l/IS3voibp8nuivo1000000000.jpg",
+                        "tvHighResImageLink": "https://photos.zillowstatic.com/p_n/IS3voibp8nuivo1000000000.jpg",
+                        "zillowHasRightsToImages": false,
+                        "desktopWebHdpImageLink": "https://photos.zillowstatic.com/p_h/IS3voibp8nuivo1000000000.jpg",
+                        "hideZestimate": false,
+                        "isPremierBuilder": false,
+                        "isZillowOwned": false,
+                        "currency": "USD",
+                        "country": "USA",
+                        "taxAssessedValue": 517100.0,
+                        "streetAddressOnly": "4296 Whitetail Ln",
+                        "unit": " "
+                    }
+                },
+                "isSaved": false,
+                "hasOpenHouse": false,
+                "isUserClaimingOwner": false,
+                "isUserConfirmedClaim": false,
+                "pgapt": "ForSale",
+                "sgapt": "For Sale (Broker)",
+                "photoCount": 42,
+                "zestimate": 538569,
+                "shouldShowZestimateAsPrice": false,
+                "has3DModel": false,
+                "hasVideo": false,
+                "relaxed": true,
+                "ma": false
+            },
+            {
+                "zpid": "55190026",
+                "id": "55190026",
+                "hasImage": true,
+                "imgSrc": "https://photos.zillowstatic.com/p_e/ISb1zchkofrv580000000000.jpg",
+                "detailUrl": "https://www.zillow.com/homedetails/6417-Grayhawk-Dr-Pacific-MO-63069/55190026_zpid/",
+                "statusType": "FOR_SALE",
+                "statusText": "House for sale",
+                "price": "$524,900",
+                "unformattedPrice": 524900,
+                "festimate": null,
+                "address": "6417 Grayhawk Dr, Pacific, MO 63069",
+                "addressStreet": "6417 Grayhawk Dr ",
+                "addressState": "MO",
+                "addressCity": "Pacific",
+                "addressZipcode": "63069",
+                "countryCurrency": "$",
+                "beds": 3,
+                "baths": 4.0,
+                "area": 2948,
+                "latLong": {
+                    "latitude": 38.463827,
+                    "longitude": -90.668054
+                },
+                "brokerName": "Coldwell Banker Realty - Gunda",
+                "brokerPhone": "(636) 394-9300",
+                "builderName": null,
+                "isZillowOwned": false,
+                "commute": null,
+                "variableData": {
+                    "type": "DAYS_ON",
+                    "text": "2 days on Zillow"
+                },
+                "hdpData": {
+                    "isReactHomeDetails": true,
+                    "homeInfo": {
+                        "zpid": 55190026,
+                        "streetAddress": "6417 Grayhawk Dr",
+                        "zipcode": "63069",
+                        "city": "Pacific",
+                        "state": "MO",
+                        "latitude": 38.463827,
+                        "longitude": -90.668054,
+                        "price": 524900.0,
+                        "dateSold": 1267603200000,
+                        "bathrooms": 4.0,
+                        "bedrooms": 3.0,
+                        "livingArea": 2948.0,
+                        "yearBuilt": 2013,
+                        "lotSize": 135036.0,
+                        "homeType": "SINGLE_FAMILY",
+                        "homeStatus": "FOR_SALE",
+                        "photoCount": 52,
+                        "imageLink": "https://photos.zillowstatic.com/p_g/ISb1zchkofrv580000000000.jpg",
+                        "daysOnZillow": 2,
+                        "isFeatured": false,
+                        "shouldHighlight": false,
+                        "brokerId": 13904,
+                        "contactPhone": "6363949300",
+                        "zestimate": 508046,
+                        "rentZestimate": 2800,
+                        "listing_sub_type": {
+                            "is_FSBA": true
+                        },
+                        "isUnmappable": false,
+                        "rentalPetsFlags": 64,
+                        "mediumImageLink": "https://photos.zillowstatic.com/p_c/ISb1zchkofrv580000000000.jpg",
+                        "isPreforeclosureAuction": false,
+                        "homeStatusForHDP": "FOR_SALE",
+                        "priceForHDP": 524900.0,
+                        "festimate": 508046,
+                        "isListingOwnedByCurrentSignedInAgent": false,
+                        "timeOnZillow": 1591817640000,
+                        "isListingClaimedByCurrentSignedInUser": false,
+                        "hiResImageLink": "https://photos.zillowstatic.com/p_f/ISb1zchkofrv580000000000.jpg",
+                        "watchImageLink": "https://photos.zillowstatic.com/p_j/ISb1zchkofrv580000000000.jpg",
+                        "contactPhoneExtension": "",
+                        "tvImageLink": "https://photos.zillowstatic.com/p_m/ISb1zchkofrv580000000000.jpg",
+                        "tvCollectionImageLink": "https://photos.zillowstatic.com/p_l/ISb1zchkofrv580000000000.jpg",
+                        "tvHighResImageLink": "https://photos.zillowstatic.com/p_n/ISb1zchkofrv580000000000.jpg",
+                        "zillowHasRightsToImages": false,
+                        "desktopWebHdpImageLink": "https://photos.zillowstatic.com/p_h/ISb1zchkofrv580000000000.jpg",
+                        "hideZestimate": false,
+                        "isPremierBuilder": false,
+                        "isZillowOwned": false,
+                        "currency": "USD",
+                        "country": "USA",
+                        "taxAssessedValue": 472300.0,
+                        "streetAddressOnly": "6417 Grayhawk Dr",
+                        "unit": " "
+                    }
+                },
+                "isSaved": false,
+                "hasOpenHouse": false,
+                "isUserClaimingOwner": false,
+                "isUserConfirmedClaim": false,
+                "pgapt": "ForSale",
+                "sgapt": "For Sale (Broker)",
+                "photoCount": 52,
+                "zestimate": 508046,
+                "shouldShowZestimateAsPrice": false,
+                "has3DModel": false,
+                "hasVideo": false,
+                "relaxed": true,
+                "ma": false
+            },
+            {
+                "zpid": "124396515",
+                "id": "124396515",
+                "hasImage": true,
+                "imgSrc": "https://photos.zillowstatic.com/p_e/ISn6zhlfm6k7210000000000.jpg",
+                "detailUrl": "https://www.zillow.com/homedetails/1110-Knotty-Pine-Ln-Harlingen-TX-78552/124396515_zpid/",
+                "statusType": "FOR_SALE",
+                "statusText": "House for sale",
+                "price": "$228,000",
+                "unformattedPrice": 228000,
+                "festimate": null,
+                "address": "1110 Knotty Pine Ln, Harlingen, TX 78552",
+                "addressStreet": "1110 Knotty Pine Ln ",
+                "addressState": "TX",
+                "addressCity": "Harlingen",
+                "addressZipcode": "78552",
+                "countryCurrency": "$",
+                "beds": 3,
+                "baths": 2.0,
+                "area": 2090,
+                "latLong": {
+                    "latitude": 26.197098,
+                    "longitude": -97.763299
+                },
+                "brokerName": "COLDWELL BANKER IMPACT PROPERTIES",
+                "brokerPhone": "(956) 425-7098",
+                "builderName": null,
+                "isZillowOwned": false,
+                "commute": null,
+                "variableData": {
+                    "type": "DAYS_ON",
+                    "text": "2 days on Zillow"
+                },
+                "hdpData": {
+                    "isReactHomeDetails": true,
+                    "homeInfo": {
+                        "zpid": 124396515,
+                        "streetAddress": "1110 Knotty Pine Ln",
+                        "zipcode": "78552",
+                        "city": "Harlingen",
+                        "state": "TX",
+                        "latitude": 26.197098,
+                        "longitude": -97.763299,
+                        "price": 228000.0,
+                        "dateSold": 0,
+                        "bathrooms": 2.0,
+                        "bedrooms": 3.0,
+                        "livingArea": 2090.0,
+                        "yearBuilt": 2014,
+                        "lotSize": 7797.0,
+                        "homeType": "SINGLE_FAMILY",
+                        "homeStatus": "FOR_SALE",
+                        "photoCount": 33,
+                        "imageLink": "https://photos.zillowstatic.com/p_g/ISn6zhlfm6k7210000000000.jpg",
+                        "daysOnZillow": 2,
+                        "isFeatured": false,
+                        "shouldHighlight": false,
+                        "brokerId": 14393,
+                        "contactPhone": "9564257098",
+                        "zestimate": 229140,
+                        "rentZestimate": 1500,
+                        "listing_sub_type": {
+                            "is_FSBA": true
+                        },
+                        "isUnmappable": false,
+                        "rentalPetsFlags": 64,
+                        "mediumImageLink": "https://photos.zillowstatic.com/p_c/ISn6zhlfm6k7210000000000.jpg",
+                        "isPreforeclosureAuction": false,
+                        "homeStatusForHDP": "FOR_SALE",
+                        "priceForHDP": 228000.0,
+                        "festimate": 229140,
+                        "isListingOwnedByCurrentSignedInAgent": false,
+                        "timeOnZillow": 1591815060000,
+                        "isListingClaimedByCurrentSignedInUser": false,
+                        "hiResImageLink": "https://photos.zillowstatic.com/p_f/ISn6zhlfm6k7210000000000.jpg",
+                        "watchImageLink": "https://photos.zillowstatic.com/p_j/ISn6zhlfm6k7210000000000.jpg",
+                        "contactPhoneExtension": "",
+                        "tvImageLink": "https://photos.zillowstatic.com/p_m/ISn6zhlfm6k7210000000000.jpg",
+                        "tvCollectionImageLink": "https://photos.zillowstatic.com/p_l/ISn6zhlfm6k7210000000000.jpg",
+                        "tvHighResImageLink": "https://photos.zillowstatic.com/p_n/ISn6zhlfm6k7210000000000.jpg",
+                        "zillowHasRightsToImages": false,
+                        "desktopWebHdpImageLink": "https://photos.zillowstatic.com/p_h/ISn6zhlfm6k7210000000000.jpg",
+                        "hideZestimate": false,
+                        "isPremierBuilder": false,
+                        "isZillowOwned": false,
+                        "currency": "USD",
+                        "country": "USA",
+                        "taxAssessedValue": 204682.0,
+                        "streetAddressOnly": "1110 Knotty Pine Ln",
+                        "unit": " "
+                    }
+                },
+                "isSaved": false,
+                "hasOpenHouse": false,
+                "isUserClaimingOwner": false,
+                "isUserConfirmedClaim": false,
+                "pgapt": "ForSale",
+                "sgapt": "For Sale (Broker)",
+                "photoCount": 33,
+                "zestimate": 229140,
+                "shouldShowZestimateAsPrice": false,
+                "has3DModel": false,
+                "hasVideo": false,
+                "relaxed": true,
+                "ma": false
+            },
+            {
+                "zpid": "69579228",
+                "id": "69579228",
+                "hasImage": true,
+                "imgSrc": "https://photos.zillowstatic.com/p_e/ISfce3i0s2uyvq1000000000.jpg",
+                "detailUrl": "https://www.zillow.com/homedetails/676-Esperia-Ln-Myrtle-Beach-SC-29572/69579228_zpid/",
+                "statusType": "FOR_SALE",
+                "statusText": "House for sale",
+                "price": "$515,000",
+                "unformattedPrice": 515000,
+                "festimate": null,
+                "address": "676 Esperia Ln, Myrtle Beach, SC 29572",
+                "addressStreet": "676 Esperia Ln ",
+                "addressState": "SC",
+                "addressCity": "Myrtle Beach",
+                "addressZipcode": "29572",
+                "countryCurrency": "$",
+                "beds": 3,
+                "baths": 2.0,
+                "area": 2075,
+                "latLong": {
+                    "latitude": 33.748827,
+                    "longitude": -78.822456
+                },
+                "brokerName": "GRANDE DUNES PROPERTIES",
+                "brokerPhone": "(843) 446-7195",
+                "builderName": null,
+                "isZillowOwned": false,
+                "commute": null,
+                "variableData": {
+                    "type": "DAYS_ON",
+                    "text": "3 days on Zillow"
+                },
+                "hdpData": {
+                    "isReactHomeDetails": true,
+                    "homeInfo": {
+                        "zpid": 69579228,
+                        "streetAddress": "676 Esperia Ln",
+                        "zipcode": "29572",
+                        "city": "Myrtle Beach",
+                        "state": "SC",
+                        "latitude": 33.748827,
+                        "longitude": -78.822456,
+                        "price": 515000.0,
+                        "dateSold": 1123225200000,
+                        "bathrooms": 2.0,
+                        "bedrooms": 3.0,
+                        "livingArea": 2075.0,
+                        "yearBuilt": 2005,
+                        "lotSize": 10018.0,
+                        "homeType": "SINGLE_FAMILY",
+                        "homeStatus": "FOR_SALE",
+                        "photoCount": 40,
+                        "imageLink": "https://photos.zillowstatic.com/p_g/ISfce3i0s2uyvq1000000000.jpg",
+                        "daysOnZillow": 3,
+                        "isFeatured": false,
+                        "shouldHighlight": false,
+                        "brokerId": 14088,
+                        "contactPhone": "8434467195",
+                        "zestimate": 501794,
+                        "rentZestimate": 2630,
+                        "listing_sub_type": {
+                            "is_FSBA": true
+                        },
+                        "isUnmappable": false,
+                        "rentalPetsFlags": 192,
+                        "mediumImageLink": "https://photos.zillowstatic.com/p_c/ISfce3i0s2uyvq1000000000.jpg",
+                        "isPreforeclosureAuction": false,
+                        "homeStatusForHDP": "FOR_SALE",
+                        "priceForHDP": 515000.0,
+                        "festimate": 501794,
+                        "isListingOwnedByCurrentSignedInAgent": false,
+                        "timeOnZillow": 1591720260000,
+                        "isListingClaimedByCurrentSignedInUser": false,
+                        "hiResImageLink": "https://photos.zillowstatic.com/p_f/ISfce3i0s2uyvq1000000000.jpg",
+                        "watchImageLink": "https://photos.zillowstatic.com/p_j/ISfce3i0s2uyvq1000000000.jpg",
+                        "contactPhoneExtension": "",
+                        "tvImageLink": "https://photos.zillowstatic.com/p_m/ISfce3i0s2uyvq1000000000.jpg",
+                        "tvCollectionImageLink": "https://photos.zillowstatic.com/p_l/ISfce3i0s2uyvq1000000000.jpg",
+                        "tvHighResImageLink": "https://photos.zillowstatic.com/p_n/ISfce3i0s2uyvq1000000000.jpg",
+                        "zillowHasRightsToImages": false,
+                        "desktopWebHdpImageLink": "https://photos.zillowstatic.com/p_h/ISfce3i0s2uyvq1000000000.jpg",
+                        "hideZestimate": false,
+                        "isPremierBuilder": false,
+                        "isZillowOwned": false,
+                        "currency": "USD",
+                        "country": "USA",
+                        "taxAssessedValue": 420330.0,
+                        "streetAddressOnly": "676 Esperia Ln",
+                        "unit": " "
+                    }
+                },
+                "isSaved": false,
+                "hasOpenHouse": false,
+                "isUserClaimingOwner": false,
+                "isUserConfirmedClaim": false,
+                "pgapt": "ForSale",
+                "sgapt": "For Sale (Broker)",
+                "photoCount": 40,
+                "zestimate": 501794,
+                "shouldShowZestimateAsPrice": false,
+                "has3DModel": false,
+                "hasVideo": false,
+                "relaxed": true,
+                "ma": false
+            }
+        ],
+        "relaxedResultsHash": "7208e764",
+        "hasListRelaxedResults": true
+    },
+    "user": {
+        "isLoggedIn": false,
+        "hasHousingConnectorPermission": false,
+        "savedSearchCount": 0,
+        "savedHomesCount": 0,
+        "personalizedSearchGaDataTag": null,
+        "personalizedSearchTraceID": "5ee4148215331cb21025e968ded5fd00",
+        "isFirstSRPVisitInSession": true,
+        "searchPageRenderedCount": 0,
+        "guid": "6a62d9f7-950a-4133-961a-f42fe73f24b8",
+        "zuid": ""
+    },
+    "mapState": {
+        "customRegionPolygonWkt": null,
+        "schoolPolygonWkt": null,
+        "regionBounds": null
+    },
+    "searchPageSeoObject": {
+        "baseUrl": "/homes/for_sale/icf_att/",
+        "windowTitle": "Icf - Real Estate - 3 Homes For Sale | Zillow",
+        "metaDescription": "Zillow has 3 homes for sale matching Icf. View listing photos, review sales history, and use our detailed real estate filters to find the perfect place."
+    },
+    "abTrials": {
+        "SXP_HDP_CONTINGENT_V2": "ON",
+        "SXP_REGION_AUTOCOMPLETE_SOURCE": "TRULIA",
+        "ADS_Tagless": "Casale_On",
+        "SEOTEST__NC_H1": "ALTERNATE",
+        "RUM_VIA_PRE_ENDPOINT": "TREATMENT_OFF",
+        "SXP_SENTRY": "CONTROL",
+        "SXP_EVENT_MARKUP": "CONTROL",
+        "SXP_DATA_QUALITY": "CONTROL",
+        "SEOTEST__SXP_LIST_ONLY_SRP": "CONTROL",
+        "SXP_REACT_FOOTER_DESKTOP": "CONTROL",
+        "SXP_MAP_DOT_COUNT": "CONTROL",
+        "PHONE_VL_CONTACTS": "TRIO",
+        "SXP_DISPLAY_AD_LOADING": "CONTROL",
+        "VARIANTS_BDP_768_PLUS": "CONTROL",
+        "LOCATION_MODULE_VL": "LOCATION_MODULE",
+        "SXP_FLOATING_ACTION_BAR": "ON",
+        "ACT_SRP_TOP": "TOP_SLOT_WITH_NO_BUTTON",
+        "SXP_LISTING_SUBTYPE": "CONTROL",
+        "SHO_GA_MapPanEvent": "CONTROL_OFF",
+        "SHO_GA_MapZoomEvent": "CONTROL_OFF",
+        "ADT_TOP_SLOT_SRP": "CONTROL",
+        "VL_WOW_BDP_MWEB": "WOW_BDP",
+        "SXP_NAV_AD_LOADING": "CONTROL",
+        "VL_BDP_NEW_TAB": "CONTROL",
+        "ACT_FILTER_ON_LAND": "CONTROL",
+        "SXP_PHOTO_CAROUSEL": "CONTROL",
+        "SEO__SXP_REMOVE_ANCHOR_TEXT": "CONTROL",
+        "SXP_PREXIT_CLAIMS_CHECK": "ENABLED",
+        "SEOTEST__SXP_SEO_TEST": "CONTROL",
+        "SXP_ACT_REMOVE_SEARCHBOX_GLEAM": "NO_GLEAM",
+        "SXP_OPEN_HOUSE_FLEX": "OPEN_HOUSE_BOOSTED",
+        "SXP_PAGE_LOAD": "FASTER",
+        "SP_FOR_SALE_PAGE": "CONTROL",
+        "SXP_ACCESSIBLE_GOLDEN_PATH": "ACCESSIBLE_GOLDEN_PATH",
+        "SXP_PAGINATION": "CONTROL",
+        "SXP_KF_FILTERS_V2": "ON",
+        "SXP_3DHOME_FILTER": "ON",
+        "SP_BUILDING_PAGE": "CONTROL",
+        "ACQ_MOBILE_UPSELL_SXP": "CONTROL",
+        "SXP_LIST_ONLY_SRP": "CONTROL",
+        "SEOTEST__RE_ForRentForSaleSRPBreadcrumbs": "CONTROL",
+        "SXP_DelayJS": "AFTER_LOAD",
+        "SXP_MAKE_ME_MOVE": "REMOVED",
+        "SHO_GA_ResultsTotalEvent": "CONTROL_OFF",
+        "SXP_STREETVIEW_REQUEST_TYPE": "CONTROL",
+        "SXP_NO_RESULTS_FILTER": "REMOVE_FILTERS_WITH_COUNT",
+        "RE_RentalsHomesForYouSort": "CONTROL",
+        "SEOTEST__SXP_REMOVE_WHY_ZILLOW": "REMOVE_WHY_ZILLOW",
+        "SXP_HDP_BLUE_TO_RED": "ON",
+        "SXP_URL_SUBS": "SUBSTITUTE",
+        "SXP_ZESTIMATE_SORT": "REMOVED",
+        "SXP_HEADER_TAG_WRAPPER": "ON",
+        "SXP_LIST_CARD_SIZE": "SMALL_AD",
+        "VL_WOW_BDP_DESKTOP": "WOW_BDP",
+        "SXP_Multifamily_Filter": "MULTIFAMILY_SEPARATE",
+        "SXP_FOOTER": "RESPONSIVE_REACT",
+        "SXP_WOW_LIST_CARD": "CONTROL",
+        "SXP_KF_FILTERS_AC": "ON",
+        "SXP_DESKTOP_LIST_RESULT_QUANTITY": "MORE_LIST_CARDS",
+        "SXP_MOBILE_MAP_PRIORITY": "CONTROL",
+        "SXP_MAP_DOT_STYLE": "CONTROL",
+        "SXP_KINGFISHER_FILTERS": "P1_PHASE_1",
+        "RE_RentalHomeDetailsService": "CONTROL",
+        "ADT_PROGRESSIVE_MESSAGE": "CONTROL",
+        "SEOTEST__SXP_REACT_FOOTER_DESKTOP": "CONTROL",
+        "SXP_3DTOUR_MAP_DOT": "ON"
+    }
+}
